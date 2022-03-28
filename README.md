@@ -38,4 +38,5 @@ The distribution of all entity categories is reported in Table 1.
 |       Location      |  162  |   78  |  106 |
 |       DateTime      |  141  |   58  |  97  |
 |     Organisation    |   77  |   36  |  71  |
+
 *Table 1: Number of entities in each sets.*
