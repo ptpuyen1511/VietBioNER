@@ -5,6 +5,18 @@
 VietBioNER is constituted by biomedical grey literature specified for tuberculosis.
 The corpus was annotated with five named entity categories of Organisation, Location, Date and Time, Symptom and Disease, and Diagnostic Procedure.
 
+The construction of VietBioNER is detailed in our LREC 2022 paper:
+
+```bibtex
+@inproceedings{vietbioner,
+    title = "{A Named Entity Recognition Corpus for Vietnamese Biomedical Texts to Support Tuberculosis Treatment}",
+    author = "Phan, Uyen and Nguyen, Phuong and Nguyen, Nhung",
+    booktitle = "Proceedings of the 13th Language Resources and Evaluation Conference",
+    year = "2022",
+    publisher = "European Language Resources Association"
+}
+```
+
 ## Entity Category Examples
 
 | Entity Category         | Examples                                                                                  |
@@ -40,3 +52,18 @@ The distribution of all entity categories is reported in Table 1.
 |     Organisation    |   77  |   36  |  71  |
 
 *Table 1: Number of entities in each sets.*
+
+Training, validation, and test files are available in the [data](data/) folder for supervised learning.
+
+In addition, we also provide the original `.ann` files with brat format in the [data_brat](data_brat/) folder.
+
+## License
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
