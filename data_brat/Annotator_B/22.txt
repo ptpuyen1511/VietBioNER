@@ -1,0 +1,103 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO - BỘ Y TẾ
+ĐẠI HỌC Y DƯỢC THÀNH PHÓ HÒ CHÍ MINH
+KHOA Y TẾ CÔNG CỘNG :
+
+THIÊN ANH KHÁNH
+
+SỰ TUẦN THỦ VÀ CÁC YÉU TÓ ẢNH HƯỞNG ĐÉN
+VIỆC TUÂN THỦ NGUYÊN TÁC ĐIỀU TRỊ LAO PHỎI
+TẠI NINH THUẬN NĂM 2012
+
+Luận văn chuyên khoa I Y tế công cộng
+
+Hướng dẫn khoa học: BS CKII. LÊ VINH
+
+T.P HÒ CHÍ MINH THÁNG 4/ 2012
+
+PHẦN MỞ ĐẦU
+1. Đặt vấn đề:
+
+Hiện nay bệnh lao vẫn là bệnh có số người mắc và tử vong cao. Theo Tổ
+chức Y tế Thế Giới ( WHO) bệnh lao là nguyên nhân gây tử vong đứng hàng thứ
+hai trong các bệnh nhiễm trùng với khoảng 1,2 đến 1,5 triệu người tử vong mỗi
+năm. Tình hình lao kháng thuốc đang xảy ra ở hầu hết các quốc gia[2].
+
+Theo ước tính của WHO (TCYTTG, - WHO report 2011 — Global
+Tuberculosisb Control), năm 2010 có khoảng 8,8 triệu bệnh nhân lao mới, 1,1 triệu
+người tử vong trong số bệnh nhân lao không nhiễm HIV và khoảng 350.000 bệnh
+nhân đồng nhiễm lao/HIV tử vong. Khoảng 13% bệnh nhân lao có đồng nhiễm
+HIV. Mặc dù tình hình bệnh lao có chiều hướng thuyên giảm từ năm 2006, và tỉ lệ
+mắc lao mới giảm từ năm 2002, bệnh lao vẫn đang là một vấn đề y tế công cộng
+toàn cầu. TCYTTG ước tính có khoảng 1/3 dân số trên thế giới đã nhiễm lao.
+
+Cũng theo báo cáo của Tổ chức Y tế Thế Giới năm 2011, ước tính Việt Nam
+đứng thứ 12 trong 22 nước có gánh nặng bệnh lao cao trên toàn cầu, tỉ lệ tử vong do
+lao là 34/100.000 dân, khoảng 29.000 người tử vong do bệnh lao. Tỉ lệ lao hiện mắc
+các thể là 334/100.000 dân, khoảng 299.000 bệnh nhân. Tỉ lệ lao mới mắc các thể
+hàng năm là 199/100.000 dân, khoảng 180.000 bệnh nhân.
+
+Năm 2010, có 42.356 bệnh nhân lao được xét nghiệm HIV, chiếm tỉ lệ 43%
+tổng số bệnh nhân lao. Tỉ lệ HIV dương tính trong số bệnh nhân lao xét nghiệm là
+8%, thấp hơn so với tỉ lệ nhiễm HIV ước tính trong số bệnh nhân lao tại báo cáo
+năm 2010 của TCYTTG (17%). Đồng nhiễm lao/HIV không chỉ làm tăng số bệnh
+nhân lao mà còn làm giảm hiệu quả điều trị lành và tăng tỉ lệ tử vong do lao[10].
+
+Theo kết quả điều tra tình hình nhiễm và mắc bệnh lao toàn quốc năm 2006 —
+2007, nguy cơ nhiễm lao hàng năm ở Việt Nam là 1,67%, tỉ lệ hiện mắc lao phổi
+AFB() các thể là 145/100.000 dân và tỉ lệ hiện mắc lao phổi AFB(+) mới
+114/100.000 dân.
+
+Tỉ lệ lao kháng thuốc là 2,7% trong số bệnh nhân lao mới và 19% trong số
+bệnh nhân điều trị lại.
+Tại tỉnh Ninh Thuận bệnh lao vẫn còn là vấn đề sức khỏe ưu tiên. Giống như
+các tỉnh phía nam chỉ số nguy cơ nhiễm lao hàng năm theo ước tính của chương
+trình chống lao quốc gia là 2,2%. Toàn tỉnh Ninh Thuận, hàng năm phát hiện gần
+1000 bệnh lao các thể, trong đó có khoảng trên 600 trường hợp lao phổi có vì trùng
+trong đàm — đây chính là nguồn lây truyền bệnh lao trong cộng đồng. Tỉ lệ lao phổi
+dương tính mới hàng năm khoảng 120/100.000 dân và tỉ lệ lao các thể là
+180/100.000 dân[9].
+
+Việc áp dụng chiến lược DOTS đã được triển khai nhanh, đến cuối năm 2000
+100% dân số , tất cả các quận huyện, xã phường trong tỉnh đã được triển khai
+DOTS. Phát hiện bệnh lao trong 10 năm gần đây có giảm nhẹ: Tỉ lệ phát hiện lao
+các thể giảm từ 170/100.000 dân vào năm 2001 xuống còn 140/100.000 dân vào
+năm 2011. Tương tự, tỉ lệ phát hiện lao phổi dương tính mới cũng giảm từ 90 năm
+2001 xuống còn 79/100.000 dân năm 2011, tỉ lệ lao phổi M(+) tái phát đều trị phác
+đồ II chiếm 15% tổng số lao phổi M(+) phát hiện hàng năm [9].
+
+Mặc dù, trong quá trình thực hiện DOTS chúng tôi nhận tỉ lệ lành bệnh
+chung toàn tỉnh tương đối cao 90% từ năm 2007, tuy nhiên tỉ lệ lao phổi M(+) được
+thu xung điều trị lại theo phác đồ II trong chương trình chống lao quốc gia luôn
+chiếm 15% tổng số lao phối M(+) thu dung hàng năm[11].
+
+2. Câu hỏi nghiên cứu:
+
+Tỷ lệ các dạng tuân thủ nguyên tắc điều trị được bệnh nhân chấp hành? Các
+yếu tố nào đã ảnh hưởng đến việc tuân thủ nguyên tắc điều trị ở bệnh nhân? Đó là
+những câu hỏi mà nghiên cứu cần trả lời để ra các yếu tố ảnh hưởng đến việc tuân
+thủ nguyên tắc điều trị ở bệnh nhân lao tại tỉnh Ninh Thuận. Việc xác định được các
+yếu tố ảnh hưởng đến việc tuân thủ điều trị ở bệnh nhân lao sẽ giúp cho đội ngũ
+nhân viên y tế cải thiện hoạt động phòng chống lao dựa trên chiến lược DOTS của
+tỉnh nhà.
+
+3. Mục tiêu
+3.1 Mục tiêu tổng quát
+Xác định các dạng tuân thủ nguyên tắc điều trị và các yếu tố liên quan ở
+bệnh nhân lao phối M(+) mới.
+3.2 Mục tiêu cụ thể
+
+1. Xác định tỉ lệ các mức độ tuân thủ nguyên tắc điều trị ở bệnh nhân lao phổi
+theo các đặc tính dân số.
+
+2. Xác định mối liên quan giữa mức độ tuân thủ các nguyên tắc điều trị lao và
+đặc tính dân số, khoảng cách địa lý, kiến thức hiểu biết về bệnh lao, các dạng
+tổ thương lao phổi, do ảnh hưởng tác dụng phụ của thuốc điều trị lao.
+
+3. Xác định tỉ lệ có tác dụng phụ do thuốc điều trị lao ở bệnh nhân lao phổi
+M(+) mới.
+
+4. Xác định tỉ lệ có các bệnh lý khác kèm theo ở bệnh nhân lao phối M(+) mới.
+
+5. Xác định tỉ lệ các mức độ tuân thủ nguyên tắc điều trị ở bệnh nhân lao phổi
+
+

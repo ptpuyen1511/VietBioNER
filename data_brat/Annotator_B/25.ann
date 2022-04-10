@@ -1,0 +1,63 @@
+T1	Organisation 0 22	BỘ GIÁO DỤC VÀ ĐÀO TẠO
+T2	Organisation 23 30	BỘ Y TẾ
+T3	Organisation 32 55	TRƯỜNG ĐẠI HỌC Y HÀ NỘI
+T4	Symptom_and_Disease 187 199	LA0 PHỔI MỚI
+T5	Symptom_and_Disease 203 220	LA0 PHỔI TÁI PHÁT
+T6	Symptom_and_Disease 362 370	Bệnh lao
+T7	Symptom_and_Disease 464 467	lao
+T8	Symptom_and_Disease 493 501	bệnh lao
+T9	Symptom_and_Disease 509 517	Bệnh lao
+T10	Symptom_and_Disease 632 635	lao
+T11	Symptom_and_Disease 673 681	Lao phối
+T12	Symptom_and_Disease 719 727	bệnh lao
+T13	Symptom_and_Disease 738 753	lao phối AFB(+)
+T14	Symptom_and_Disease 972 980	bệnh lao
+T15	Location 1065 1073	Việt Nam
+T16	Symptom_and_Disease 1138 1146	bệnh lao
+T17	Symptom_and_Disease 1163 1166	lao
+T18	Symptom_and_Disease 1236 1244	bệnh lao
+T19	Symptom_and_Disease 1421 1437	ao phổi tái phát
+T20	Symptom_and_Disease 1439 1443	LPTP
+T21	Symptom_and_Disease 1638 1649	lao phối mớ
+T22	Symptom_and_Disease 1652 1655	LPM
+T23	Symptom_and_Disease 1670 1674	LPTP
+T24	Symptom_and_Disease 1724 1732	bệnh lao
+T25	Symptom_and_Disease 1757 1761	LPTP
+T26	Symptom_and_Disease 1800 1803	LPM
+T27	Symptom_and_Disease 1949 1952	LPM
+T28	Symptom_and_Disease 1956 1960	LPTP
+T29	Symptom_and_Disease 2032 2036	LPTP
+T30	Symptom_and_Disease 2139 2142	LPM
+T31	Symptom_and_Disease 2181 2185	LPTP
+T32	Symptom_and_Disease 2187 2195	Bệnh lao
+T33	Symptom_and_Disease 2308 2316	bệnh lao
+T34	Symptom_and_Disease 2592 2596	LPTP
+T35	Symptom_and_Disease 2726 2734	bệnh lao
+T36	Symptom_and_Disease 2779 2782	lao
+T37	Symptom_and_Disease 2813 2817	LPTP
+T38	Symptom_and_Disease 3088 3096	bệnh lao
+T39	Symptom_and_Disease 3167 3175	bệnh lao
+T40	Location 3180 3188	Việt Nam
+T41	Symptom_and_Disease 3308 3312	LPTP
+T42	Symptom_and_Disease 3385 3389	LPTP
+T43	DiagnosticProcedure 3594 3596;3597 3607	x- quang phổi
+T44	DiagnosticProcedure 3624 3640	phản ứng Mantoux
+T45	DiagnosticProcedure 3642 3655	AFB trong đờm
+T46	DiagnosticProcedure 3609 3622	công thức máu
+T47	Symptom_and_Disease 3669 3672	LPM
+T48	Symptom_and_Disease 3676 3680	LPTP
+T49	Symptom_and_Disease 3869 3872	LPM
+T50	Symptom_and_Disease 3876 3880	LPTP
+T51	Symptom_and_Disease 4030 4033	LPM
+T52	Symptom_and_Disease 4037 4041	LPTP
+T53	Symptom_and_Disease 865 889;890 899	lao phổi có vi khuẩn lao trong đờm
+T54	Symptom_and_Disease 1296 1311	lao kháng thuốc
+T55	Symptom_and_Disease 1554 1557;1558 1569	lao kháng thuốc
+T56	Symptom_and_Disease 1874 1877	lao
+T57	Symptom_and_Disease 2662 2665	lao
+T58	Symptom_and_Disease 689 692	lao
+T59	Symptom_and_Disease 1031 1034	lao
+T60	Symptom_and_Disease 1984 1987	lao
+T61	Symptom_and_Disease 2568 2576	bệnh lao
+T62	Symptom_and_Disease 3003 3011	bệnh lao
+T63	Symptom_and_Disease 2327 2331;2332 2336	Bệnh LPTP

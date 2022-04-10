@@ -1,0 +1,35 @@
+T1	Symptom_and_Disease 42 58	LAO PHỎI AFB (+)
+T2	Location 63 80	THÀNH PHỎ CẢN THƠ
+T3	DateTime 81 94	NĂM 2014-2015
+T4	Symptom_and_Disease 108 111	Lao
+T5	Symptom_and_Disease 265 277;278 281	lao phôi AFB (+)
+T6	Location 313 320	Cần Thơ
+T7	DateTime 321 334	năm 2014-2015
+T8	Symptom_and_Disease 433 449	lao phôi AFB (+)
+T9	DateTime 450 458	năm 2014
+T10	Symptom_and_Disease 544 556;557 560	lao phôi AFB (+)
+T11	Symptom_and_Disease 1078 1086	lao phôi
+T12	Symptom_and_Disease 1325 1328	lao
+T13	Symptom_and_Disease 1346 1349	Lao
+T14	Symptom_and_Disease 1357 1373	bệnh nhiễm trùng
+T15	DateTime 1543 1551	năm 1882
+T16	Symptom_and_Disease 1652 1660	bệnh lao
+T17	Symptom_and_Disease 1744 1747	lao
+T18	Symptom_and_Disease 1749 1757	lao phôi
+T19	Symptom_and_Disease 1782 1784	ao
+T20	Symptom_and_Disease 1837 1840	lao
+T21	Symptom_and_Disease 2073 2076	lao
+T22	Symptom_and_Disease 2179 2182	lao
+T23	Symptom_and_Disease 2217 2220	lao
+T24	Symptom_and_Disease 2322 2338	lao phối AFB (+)
+T25	Symptom_and_Disease 2428 2440	lao phối AFB
+T26	Symptom_and_Disease 2524 2539	lao phôi AFB (+
+T27	Symptom_and_Disease 2629 2645	lao phối AFB (+)
+T28	Location 2343 2360	thành phố Cần Thơ
+T29	DateTime 2361 2374	năm 2014-2015
+T30	Location 2461 2478	thành phô Cần Thơ
+T31	DateTime 2479 2482;2483 2493	năm 2014-2015.
+T32	Location 2541 2558	thành phố Cần Thơ
+T33	DateTime 2559 2568;2569 2573	năm 2014- 2015
+T34	Location 2650 2659;2660 2667	thành phố Cần Thơ
+T35	DateTime 2668 2681	năm 2014-2015

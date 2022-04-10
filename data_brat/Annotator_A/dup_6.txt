@@ -1,0 +1,124 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO BỘ Y TẾ
+TRƯỜNG ĐẠI HỌC Y DƯỢC TP.HỒ CHÍ MINH
+
+
+ÂU THANH TÙNG
+
+ĐÁNH GIÁ VAI TRÒ CỦA THỨ NGHIỆM
+POLYMERASE CHAIN REACTION (PCR)
+TRONG CHẨN ĐOÁN LAO MÀNG PHỔI
+
+LUẬN ÁN TỐT NGHIỆP BÁC SĨ NỘI TRỦ 
+NIÊN KHÓA XVI 1995 - 1998
+
+ 
+
+NGƯỜI BẢO TRỢ :GS. NGUYỄN THỊ TRÚC
+NGƯỜI HƯỚNG DẪN : PTS. NGUYÊN THỊ TỐ NHƯ
+
+CHƯƠNG MỘT
+ĐẶT VẤN ĐỀ
+
+Bệnh lao là một bệnh đã có từ lâu đời, ngay từ lúc hình thành và phát triển
+loài người. Các chứng cứ đã được biết ít ra trên 3700 năm trước công nguyên
+nhưng bệnh lao chỉ thực sự được nghiên cứu kỹ kể từ khi Robert Koch tìm ra tác
+nhân gây bệnh là trực khuẩn lao vào năm 1882.
+
+Cho đến nay, không một quốc gia nào, không một dân tộc nào lại không
+có người nhiễm lao, mắc bệnh lao hay chết vì lao.
+
+Tháng 4/1993 tổ chức Y tế Thế giới đã ra thông báo khẩn cấp toàn cầu
+rằng nạn dịch lao đang hoành hành ngoài sự kiểm soát tại nhiều vùng trên thế
+giới, đặc biệt nghiêm trọng ở các nước đang phát triển và nó là nguyên nhân
+tử vong hàng đầu trong các bệnh nhiễm trùng.
+
+Theo số liệu của Tổ chức Y tế Thế giới, hiện nay trên toàn cầu có
+khoản 1,7 tỷ người bị nhiễm lao, chiếm 1/3 dân số Thế giới, hàng năm có khoảng
+8 triệu người trở thành bệnh lao và 3 triệu người chết vì bệnh lao, trung bình
+53/100000 dân. Ước tính đến năm 2000 có khoảng 10,2 triệu người mắc lao và số
+người chết do lao là 3 5 triệu người mỗi năm.
+
+Ở Việt Nam tình hình mắc bệnh lao khá nghiêm trọng. Theo các điều tra
+về nguy cơ nhiễm lao tại các tỉnh miễn Bắc, Trung, Nam cho thấy nguy cơ nhiễm
+lao ở Việt Nam khá cao là 1,5%, ứơc tính chung hàng năm có khoảng 130000
+bênh nhân lao mới, trong đó có 60000 trường hợp là nguồn lây. Riêng tỷ lệ mắc
+lao mới hàng năm ở miền Bắc là 70/100000 dân, còn ở miền Nam cao gần gấp 2
+lần là 120/100000 dân %I,
+
+Bệnh lao phát triển mạnh trở lại và trở nên trầm trọng ngay cả ở những
+nước mà bệnh lao đang giảm và đang hy vọng đi vào thanh toán do sự xuất hiện
+bệnh nhiễm HIV. Trên thế giới ước tính có khoảng 5,6 triệu bệnh nhân lao/HIV
+(+). Theo báo cáo của ủy ban phòng chống AIDS quốc gia thì tỷ lệ mắc
+lao/HIV năm 1994 là 24,2%. Sự tương tác giữa lao và HIV làm chết người khốc
+liệt và trực khuẩn lao và siêu vi HIV đều tác động đến miễn dịch trung gian tế,
+bào. Bệnh lao đè nặng lên người nhiễm HIV, làm rút ngắn cuộc đời của họ vì đẩy
+họ nhanh đến AIDS. Người HIV(+) bị nhiễm lao phần lớn sẽ bỏ qua giai đoạn
+trực khuẩn lao tiểm ẩn (thời kỳ nhiễm lao) chuyển sang lao hoạt động 30 lần cao
+hơn nhóm chỉ nhiễm lao.
+
+Lao màng phổi là một thể lao ngoài phổi rất phổ biến. Ở Việt Nam lao
+màng phổi đứng hàng đâu trong các bệnh lao ngoài phổi (chiếm 39,2% theo
+thống kê của Viện lao và bệnh phổi) .
+
+Để chẩn đoán lao màng phổi có thể dựa vào nhiều xét nghiệm khác nhau:
+- IDR
+
+- X quang phổi
+
+- Xét nghiệm dịch màng phổi : Vi trùng học (nhuộm soi, cấy), sinh hóa, tế
+bào.
+
+- Sinh thiết màng phổi.
+
+Tuy nhiên để chẩn đoán xác định lao màng phổi phải dựa vào kết quả giải
+phẩu bệnh qua sinh thiết, kết quả vi trùng học (nhuộm soi và cấy). Trong đó
+nhuộm soi là một phương pháp chẩn đoán dễ dàng và nhanh nhất nhưng có độ
+nhạy giới hạn, chỉ dương tính khi có > 10^4 vi khuẩn/ml vì vậy soi thường âm
+tính trong trường hợp lao ngoài phổi nói chung và lao màng phổi nói riêng. Cấy
+mặc dầu xác định được loài vi khuẩn lao nhưng cần có thời gian từ 4 đến 8 tuần
+và tỷ lệ dương tính thấp.
+
+Kỹ thuật khuếch đại gen hay PCR (Polymerase chain reaction) được phát
+hiện bởi K.B. Mullis 1985, thực sự là một cuộc đại cách mạng trong sinh học
+phân tử với các ứng dụng kỳ diệu trong nhiều lĩnh vực đặc biệt trong lĩnh vực Y
+học. Bằng cách khuếch đại đoạn Nucleic acid đặc trưng của vi sinh vật gây bệnh
+trong mẫu bệnh phẩm, thử nghiệm PCR có thể phát hiện vi sinh vật gây bệnh với
+độ nhạy cảm cực cao mà không có một thử nghiệm nào trước đây có thể so sánh
+được vì chỉ cần dưới một vi sinh vật gây bệnh có mặt trong mẫu thử là có hiện
+diện nucleic acid đích và được PCR khuyếch đại.
+
+Trong chẩn đoán lao màng phổi, kỹ thuật PCR kết hợp được độ nhanh của
+soi và độ nhạy của cấy, giúp ích rất nhiều cho bác sỹ lâm sàng trong việc quyết
+định điều trị thuốc kháng lao.
+
+Sau khi thử nghiệm PCR ra đời (1985), ở nước ngoài đã có một số nghiên
+cứu ứng dụng thử nghiệm này để phát hiện và xác định loại vi khuẩn lao trong
+chẩn đoán lao phổi - lao màng phổi. Riêng lao màng phổi, kết quả cửa các
+nghiên cứu ở Nhật, Tây Ban Nha, Ấn Độ, Anh... bước đầu cho thấy thử nghiệm
+PCR lao có độ nhạy và độ chuyên biệt cao.
+
+Tại Việt Nam, thử nghiệm PCR được trang bị đầu tiên ở trường đại học Y
+Dược Thành phố Hồ Chí Minh năm 1995, và bắt đầu áp dụng rộng rãi ở nhiễu
+bệnh viện trong chẩn đoán lao từ 1996 đến nay. Tuy nhiên chưa có công trình
+nghiên cứu nào đánh giá về vai trò của thử nghiệm PCR trong chẩn đoán lao phổi
+và lao ngoài phổi đặc biệt là lao màng phổi một thể lao ngoài phổi thường gặp
+nhất. Vì lý do này chúng tôi mạnh dạn thực hiện công trình nghiên cứu này để
+đánh giá vai trò của thử nghiện PCR trong chẩn đoán lao màng phổi.
+
+CHƯƠNG HAI
+MỤC TIÊU NGHIÊN CỨU
+1. MỤC TIÊU TỔNG QUÁT:
+Đánh giá vai trò của thử nghiệm PCR trong chẩn đoán lao màng phổi.
+2. MỤC TIÊU CHUYÊN BIỆT :
+
+2.1 Xác định giá trị chẩn đoán: Độ nhạy cảm, độ đặc hiệu, giá trị tiên
+lượng dương, giá trị tiên lượng âm cửa thử nghiệm PCR trong chẩn đoán lao
+màng phổi.
+
+2.2 So sánh vai trò của thử nghiệm PCR với cấy dịch-mô màng phổi,
+nhuộm soi dịch màng phổi, kết quả mô học của mô màng phổi trong chẩn đoán
+lao màng phổi.
+
+2.3 Khảo sát một số đặc điểm về dịch tể học, lâm sàng, cận lâm sàng của
+những trường hợp được chẩn đoán là lao màng phổi.
+

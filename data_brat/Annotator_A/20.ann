@@ -1,0 +1,87 @@
+T1	Organisation 3 25	BỘ GIÁO DỤC VÀ ĐÀO TẠO
+T2	Organisation 64 83	KHOA Y TẾ CÔNG CỘNG
+T3	Symptom_and_Disease 113 121;122 129	LAO PHỔI AFB (+)
+T4	Location 176 194	THÀNH PHỐ VŨNG TÀU
+T5	Location 195 215	TÍNH BÀ RỊA VŨNG TÀU
+T6	DateTime 216 224	NĂM 2013
+T7	Location 282 303	Thành Phố Hồ Chí Minh
+T8	DateTime 305 313	năm 2014
+T9	Symptom_and_Disease 327 330	Lao
+T10	Symptom_and_Disease 338 354	bệnh nhiễm khuẩn
+T11	Symptom_and_Disease 460 475	bệnh nhiễm trùn
+T12	Symptom_and_Disease 497 505	Bệnh lao
+T13	Symptom_and_Disease 658 666	Bệnh lao
+T14	Symptom_and_Disease 822 830	lao phổi
+T15	Symptom_and_Disease 942 950	bệnh lao
+T16	DateTime 984 992	năm 2013
+T17	Organisation 997 1018	Tổ chức y tế thế giới
+T18	Symptom_and_Disease 1030 1038	bệnh lao
+T19	DateTime 1039 1042;1043 1047	năm 2012
+T20	DateTime 1102 1110	năm 2012
+T21	Symptom_and_Disease 1151 1159	bệnh lao
+T22	Symptom_and_Disease 1339 1359	bệnh lao kháng thuốc
+T23	Organisation 1361 1364	WHO
+T24	Symptom_and_Disease 1420 1432;1433 1438	lao đa kháng thuốc
+T25	Location 1512 1539	khu vực Tây Thái Bình Dương
+T26	Location 1608 1618	Đông Nam Á
+T27	Location 1632 1647	khu vực Đông Âu
+T28	Location 1651 1659	Châu Phi
+T29	Location 1670 1678	Việt Nam
+T30	Symptom_and_Disease 1738 1741	lao
+T31	Symptom_and_Disease 1771 1779	lao/HIV+
+T32	Symptom_and_Disease 1794 1797	lao
+T33	Symptom_and_Disease 1828 1831	lao
+T34	DateTime 1874 1882	năm 2012
+T35	Location 1889 1910	ỉnh Bà Rịa - Vũng Tàu
+T36	Symptom_and_Disease 1917 1920	lao
+T37	Symptom_and_Disease 1952 1968	lao phổi AFB (+)
+T38	DateTime 2114 2122	năm 2012
+T39	Location 2138 2156	Thành phố Vũng Tàu
+T40	DateTime 2217 2225	Năm 2012
+T41	Symptom_and_Disease 2248 2251	lao
+T42	Symptom_and_Disease 2454 2470	lao phổi AFB (+)
+T43	Location 2519 2528;2529 2537	thành phố Vũng Tàu
+T44	Symptom_and_Disease 2588 2603	ao phổi AFB (+)
+T45	Location 2612 2630	thành phố Vũng Tàu
+T46	Location 2631 2651	tỉnh Bà Rịa Vũng Tàu
+T47	DateTime 2652 2660	năm 2014
+T48	Symptom_and_Disease 3139 3155	lao phối AFB (+)
+T49	Location 3164 3182	thành phố Vũng Tàu
+T50	Location 3183 3194;3195 3203	tỉnh Bà Rịa Vũng Tàu
+T51	DateTime 3218 3226	năm 2013
+T52	Symptom_and_Disease 3280 3296	lao phổi AFB (+)
+T53	Location 3305 3314;3315 3323	thành phố Vũng Tàu
+T54	Location 3324 3344	tỉnh Bà Rịa Vũng Tàu
+T55	Symptom_and_Disease 3482 3498	lao phổi AFB (+)
+T56	Location 3521 3530;3531 3539	thành phố Vũng Tàu
+T57	Location 3540 3560	tỉnh Bà Rịa Vũng Tàu
+T58	DateTime 3561 3569	năm 2013
+T59	Symptom_and_Disease 3641 3657	lao phổi AFB (+)
+T60	Location 3699 3719	tỉnh Bà Rịa Vũng Tàu
+T61	DateTime 3720 3728	năm 2013
+T62	Symptom_and_Disease 3778 3794	lao phổi AFB (+)
+T63	Location 3928 3946	thành phố Vũng Tàu
+T64	Location 3947 3967	tỉnh Bà Rịa Vũng Tàu
+T65	DateTime 3968 3971;3972 3976	năm 2013
+T66	Symptom_and_Disease 4026 4042	lao phổi AFB (+)
+T67	Symptom_and_Disease 4080 4093	bệnh mạn tính
+T68	Symptom_and_Disease 4100 4114	đái tháo đường
+T69	Symptom_and_Disease 4116 4119	HIV
+T70	Location 4168 4186	thành phố Vũng Tàu
+T71	Location 4187 4207	tỉnh Bà Rịa Vũng Tàu
+T72	DateTime 4208 4216	năm 2013
+T73	Symptom_and_Disease 670 702	bệnh lây truyền qua đường hô hấp
+T74	Symptom_and_Disease 1258 1261	HIV
+T75	Symptom_and_Disease 1459 1462	lao
+T76	Symptom_and_Disease 1563 1581	lao kháng đa thuốc
+T77	Symptom_and_Disease 2326 2333	AFB (+)
+T78	Symptom_and_Disease 559 567	lao phối
+T79	Location 3680 3689;3690 3698	thành phó Vũng Tàu
+T80	Organisation 26 62	ĐẠI HỌC Y DƯỢC THÀNH PHÓ HỎ CHÍ MINH
+T81	Symptom_and_Disease 575 578	lao
+T82	Symptom_and_Disease 2752 2755	lao
+T83	Symptom_and_Disease 367 370	lao
+T84	Symptom_and_Disease 742 745	lao
+T85	Symptom_and_Disease 2697 2700	lao
+T86	Symptom_and_Disease 3920 3923	lao
+T87	Symptom_and_Disease 4160 4163	lao

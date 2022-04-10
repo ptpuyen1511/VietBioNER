@@ -1,0 +1,59 @@
+Bệnh lao là bệnh xã hội, căn bệnh đã có ảnh hưởng lớn đến sức khoẻ,
+kinh tế, xã hội của cộng đồng trên toàn Thế giới [131]. Tỷ lệ mắc lao trên toàn
+cầu ước tính sẽ tăng lên 1% mỗi năm [92]. Số người mắc lao trong độ tuổi lao
+động, độ tuổi từ 15-49 tuổi chiếm từ 60-75% [92], [175]. Theo số liệu của Tổ
+chức y tế Thế giới (TCYTTG) năm 2006, hiện có khoảng 1/3 dân số Thế giới
+bị nhiễm lao. Mỗi năm có thêm gần 9 triệu trường hợp mắc lao và 2 triệu
+người tử vong do bệnh lao [244].
+
+Lao phổi là thể lao chủ yếu, chiếm khoảng 85% tổng số các thể lao, là
+nguồn gốc của sự bùng nỗ bệnh lao trở lại trên toàn cầu [40]. Phát hiện, điều
+trị sớm, điều trị khỏi cho các trường hợp lao phổi có vi khuẩn lao trong đờm,
+hạn chế sự lây truyền là mục tiêu chính của TCYTTG và Hiệp hội chống lao
+Thế giới (HHCLTG). Nhuộm soi đờm trực tiếp tìm AFB là phương pháp tiện
+lợi, được lựa chọn đầu tiên cho phát hiện, chẩn đoán nhanh lao phổi, đã đem
+lại hiệu quả cho công tác kiểm soát và thanh toán bệnh lao trên toàn cầu. Tuy
+nhiên theo các nghiên cứu thì phương pháp này chỉ phát hiện được từ 30% -
+50% các trường hợp lao phổi có vi khuẩn lao trong đờm, như vậy còn một tỷ
+lệ khá lớn bệnh nhân lao phổi không thấy AFB trong đờm bằng phương pháp
+nhuộm soi trực tiếp, được định nghĩa là lao phổi AFB(-) [40], [158], [217].
+[231]. Chân đoán xác định lao phổi AFB(-) sẽ phức tạp và khó khăn hơn vì
+phải dựa vào kỹ thuật nuôi cấy BK [80], [103].
+
+Trên thực tế có tới 30-52% các trường hợp lao phổi AFB(-) đã bị chẩn
+đoán nhằm với các bệnh phổi không do lao [173]. Một số nghiên cứu cho thấy
+những năm gần đây tỷ lệ tử vong do lao phổi AFB(-) có xu hướng tăng lên và
+cao hơn so với lao phổi AFB(+) [110], [229]. Theo các nghiên cứu dịch tễ học
+phân tử thì nguồn lây từ lao phổi AFB(-) chiếm 1/4 tổng số nguồn lây [51], [122].
+
+Lao phổi AFB(-) nếu không được chân đoán và điều trị sớm sẽ tiến triển
+xấu, dẫn đến tử vong. Trong quá trình tiến triển, lao phổi AFB(-) có thể trở
+thành lao phổi AFB(+), và là nguồn lây mạnh. Theo TCYTTT (2007) thì việc
+chậm trễ trong chẩn đoán là nguyên nhân chính dẫn đến tăng tỷ lệ tử vong ở
+bệnh nhân lao phối AFB(-). Chính vì thế ngoài ưu tiên phát hiện và điều trị
+sớm cho các trường hợp lao phổi AFB(+), thì cần phải tập trung nghiên cứu
+các phương pháp để chân đoán sớm lao phối AFB(-), từ đó sẽ có quyết định
+điều trị sớm là hết sức cần thiết [110], [245].
+
+Các kỹ thuật nuôi cấy rất có giá trị trong chân đoán lao phổi AFB(-),
+nhưng còn có một số nhược điểm là giá thành làm xét nghiệm đắt, đòi hỏi
+trang bị phương tiện, kỹ thuật cao hơn, và nhất là thời gian cho kết quả chậm:
+Từ 7-21 ngày với kỹ thuật nuôi cấy trên hệ thống BACTEC và MGIT, ít nhất
+là 1 tháng với nuôi cấy trên môi trường Löwenstein- Jensen. Kỹ thuật PCR
+có ưu điểm là cho kết quả chân đoán nhanh, có độ nhạy cao, nhưng cũng đòi
+hỏi trang thiết bị, kỹ thuật cao, tốn kém [78], [105].
+
+Nhìn chung sử dụng các kỹ thuật nuôi cấy, kỹ thuật PCR và các kỹ thuật
+hiện đại khác để chân đoán lao phổi AFB(-) trong cộng đồng là chưa phù hợp
+với điều kiện và tình hình bệnh lao của các nước đang phát triển [67].
+
+Trên Thế giới, một số tác giả đã xây dựng được mô hình cho chân đoán
+lao phổi AFB(-) dựa vào kết quả sau điều trị thử bằng thuốc từ 3-4 tuần [46],
+[69], [142]. Ở Việt nam có một số nghiên cứu về giá trị của các phương pháp
+chân đoán định hướng lao phổi AFB(-), nhưng chỉ dừng lại ở mức độ đánh
+giá riêng giá trị của từng phương pháp. Lao phổi AFB(-) vẫn chưa có tiêu
+chuẩn thống nhất để chân đoán định hướng.
+
+Chính vì vậy đề tài được tiến hành nhằm mục tiêu:
+1. Xác định giá trị của các tô hợp triệu chứng trong lao phối mới AFB(-).
+2. Gáp phân xây dựng tiêu chuẩn chẳẵn đoán định hướng lao phối mới AFEB (-).

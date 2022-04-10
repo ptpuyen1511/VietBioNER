@@ -1,0 +1,56 @@
+ƯỚC TÍNH MỨC ĐỘ BÁO CÁO THIẾU CÁC CA BỆNH
+LAO TRONG HỆ THÓNG GIÁM SÁT LAO QUỐC GIA TẠI
+VIỆT NAM
+
+TÓM TÁT: Mục tiêu: óc tính mức độ báo cáo thiếu các ca bệnh lao trong hệ
+thông giám sát lao quốc gia tại Việt Nam. Phương pháp nghiên cứu: Thuần tập,
+tiễn cứu, theo dõi dọc theo phương pháp nghiên cứu kiêm đếm theo hướng dẫn của
+Tô chức Y tế Thế giới. Kết quả: Trong số 2.628 cơ sở y tẾ công và tư ngoài
+Chương trình chống lao quốc gia, có 261 cơ sở y tẾ báo cáo ca bệnh lao vê
+Chương trình chống lao quốc gia. 2.831 bệnh nhân lao được ghỉ nhận từ các cơ sở
+y fẾ công ngoài Chương trình chống lao quốc gia và cơ sở y tế tư, chỉ có 31 bệnh
+nhân (1,1%) được ghi nhận từ cả cơ sở y tế công ngoài Chương trình chống lao
+quốc gia và cơ sở y tế tư. Trong tổng số 7.779 bệnh nhân lao các thể được ghi
+nhận, có 5.666 bệnh nhân (72,8%) được Chương trình chống lao quốc gia ghỉ
+nhận. Uóc tính tỉ lệ báo cáo thiếu của bệnh nhân lao các thể là 27,2%. Sau khi
+hiệu chỉnh theo phân tâng, ước tính tỉ lệ báo cáo thiếu bệnh nhân lao các thể là
+30,9% (95% CI: 14-39%). Trong tổng số 2.665 bệnh nhân lao có bằng chứng vi
+khuẩn, có 343 bệnh nhân không được báo cáo. Ước tính tỉ lệ báo cáo thiếu của
+bệnh nhân lao có bằng chứng vì khuẩn là 12,9%. Sau khi hiệu chỉnh, ước tính tỉ lệ
+báo cáo thiếu bệnh nhân lao có bằng chứng vi khuẩn là 9,5% (95% CI: 5,6-
+14.0%).
+
+1. ĐẶT VĂN ĐÈ.
+
+Bệnh lao là bệnh truyền nhiễm nguy hiểm đối với sức khỏe, tính mạng người bệnh
+và có nhiều nguy cơ lây lan ra cộng đồng. Bệnh có thê chữa khỏi nếu được phát
+hiện sớm, điều trị đúng phương pháp và đủ thời gian.
+
+Theo ước tính của Tổ chức Y tế thế giới (WHO), Việt Nam là một trong 30 nước
+có gánh nặng bệnh lao và tử vong do lao cao nhất trên toàn cầu. Ước tính năm
+2017, Việt Nam có 124.000 bệnh nhân (BN) mới mắc lao, 102.725 BN lao mới và
+lao tái phát được phát hiện và đăng kí điêu trị bởi Chương trình chống lao quốc gia
+(CTCLQG), đạt tỉ lệ phát hiện 83% [9]. Chương trình chống lao các quốc gia cần
+sử dụng số liệu thu thập từ giám sát thường quy để đo lường trực tiếp tỉ lệ mới mắc
+lao. Tuy nhiên, nguôn lực của hầu hết các nước có gánh nặng bệnh lao đều hạn
+chế, không có hệ thống giám sát lao quốc gia đủ mạnh đề thực hiện việc này [8].
+Vì vậy, trên toàn cầu, hằng năm ước tính có khoảng 3 triệu ca mắc lao không được
+phát hiện (báo cáo bởi chương trình chống lao các quốc gia) và mức độ báo cáo
+thiếu ở những khu vực chịu gánh nặng bệnh lao nhiều nhất hầu như vẫn chưa được
+biết [9]. Các ca bệnh lao bị bỏ sót và không được báo cáo đến CTCLQG (có thê do
+không được chân đoán lao, không được điều trị lao sau chân đoán hoặc không
+được báo cáo với hệ thống giám sát quốc gia khi đang điều trị) sẽ là nguồn lây lan
+trong cộng đồng và hạn chế hiệu quả hoạt động chồng lao của chương trình chống
+lao các quốc gia trong việc theo dõi, tiếp cận những nguôn tài trợ và đánh giá tiến
+trình đến mục tiêu chống lao cần đạt [10].
+Với sự phát triển mạnh của dịch vụ V tế tư (bao gồm bệnh viện/phòng khám tư) ở
+Việt Nam, có thể có những trường hợp chân đoán và điều trị lao, nhưng không
+được báo cáo tới hệ thống giám sát lao quốc gia (báo cáo thiếu) [5]. Do đó, việc
+đánh giá mức độ báo cáo thiếu tại Việt Nam là rất quan trọng, giúp hiểu biết chính
+xác hơn về con số mới mắc lao hằng năm, nhằm phát triển các chiến lược cải thiện
+việc giám sát và kiểm soát bệnh lao.
+
+Xuất phát từ thực tế trên, CTCLQG phối hợp với Trung tâm Dự phòng và kiêm
+soát bệnh tật Hoa Kỳ (CDC) và WHO triển khai nghiên cứu kiểm đếm (inventory
+study) theo phương pháp của WHO nhằm ước tính mức độ báo cáo thiếu các ca
+mắc lao trong hệ thống giám sát lao quốc gia tại Việt Nam.

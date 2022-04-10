@@ -1,0 +1,20 @@
+T1	Symptom_and_Disease 65 88	LAO PHÓI ĐA KHANG THUÔC
+T2	Organisation 93 137	BỆNH VIÊN LAO VÀ BỆNH PHÓI THÁNH PHO CÁN THƠ
+T3	DateTime 160 168	Năm 2012
+T4	Organisation 170 191	Tô chức y tế thế giới
+T5	Symptom_and_Disease 288 291	lao
+T6	Symptom_and_Disease 324 332	bệnh lao
+T7	Symptom_and_Disease 405 408	lao
+T8	Symptom_and_Disease 442 460	lao đa kháng thuốc
+T9	Symptom_and_Disease 476 484	lao phổi
+T10	Organisation 600 603	WHO
+T11	DateTime 605 609	2013
+T12	Organisation 617 623	TCYTTG
+T13	Organisation 193 199	TCYTTG
+T14	Symptom_and_Disease 857 860	lao
+T15	Symptom_and_Disease 1018 1033	lao kháng thuốc
+T16	Symptom_and_Disease 1116 1119	lao
+T17	Symptom_and_Disease 1232 1243;1244 1255	lao phôi đa kháng thuốc
+T18	Symptom_and_Disease 1270 1282	lao phôi mới
+T19	Symptom_and_Disease 1601 1624	lao phối đa kháng thuốc
+T20	Symptom_and_Disease 526 529	lao

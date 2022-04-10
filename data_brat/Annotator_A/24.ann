@@ -1,0 +1,90 @@
+T1	Organisation 0 22	BỘ GIÁO DỤC VÀ ĐÀO TẠO
+T2	Organisation 23 30	BỘ Y TẾ
+T3	Organisation 32 68	TRƯỜNG ĐẠI HỌC Y DƯỢC TP.HỒ CHÍ MINH
+T4	DiagnosticProcedure 91 126;127 129	SINH THIẾT MÀNG PHỔI BẰNG KIM XUYÊN DA
+T5	Location 362 376	TP.HỒ CHÍ MINH
+T6	DateTime 379 383	2001
+T7	Symptom_and_Disease 158 161	LA0
+T8	Symptom_and_Disease 162 165;166 169	UNG THƯ
+T9	Symptom_and_Disease 420 423	Lao
+T10	Symptom_and_Disease 427 428	K
+T11	DiagnosticProcedure 489 513	Phân tích dịch màng phổi
+T12	DiagnosticProcedure 525 545	sinh thiết màng phổi
+T13	Symptom_and_Disease 855 868	lao màng phổi
+T14	Symptom_and_Disease 997 1008	K màng phổi
+T15	DiagnosticProcedure 1129 1132	PCR
+T16	DiagnosticProcedure 1179 1193	Tế bào học DMP
+T17	DiagnosticProcedure 1050 1064	Soi và cấy DMP
+T18	Symptom_and_Disease 1204 1215	K màng phổi
+T19	DiagnosticProcedure 1444 1450;1451 1458	tế bào học DMP
+T20	Symptom_and_Disease 1494 1505	K màng phổi
+T21	Location 1797 1805	Việt Nam
+T22	DiagnosticProcedure 1995 2006	PCR lao DMP
+T23	DiagnosticProcedure 2076 2090	Tế bào học DMP
+T24	Symptom_and_Disease 2553 2570	bệnh lý màng phổi
+T25	Symptom_and_Disease 3342 3353	K màng phổi
+T26	Symptom_and_Disease 3776 3790	bệnh màng phổi
+T27	DiagnosticProcedure 3387 3409	STMP bằng kim xuyên da
+T28	DiagnosticProcedure 3411 3433	STMP qua soi lồng ngực
+T29	DiagnosticProcedure 3659 3681	STMP qua soi lồng ngực
+T30	DiagnosticProcedure 3683 3692;3693 3705	STMP bằng kim xuyên da
+T31	DateTime 3892 3906	thập niên 1980
+T32	DiagnosticProcedure 3926 3948	STMP bằng kim xuyên da
+T33	Symptom_and_Disease 4206 4209	lao
+T34	Symptom_and_Disease 4213 4214	K
+T35	DiagnosticProcedure 4317 4355	sinh thiết màng phổi bằng kim xuyên da
+T36	Symptom_and_Disease 4384 4387	lao
+T37	Symptom_and_Disease 4389 4396	ung thư
+T38	DiagnosticProcedure 4487 4525	sinh thiết màng phổi bằng kim xuyên da
+T39	Symptom_and_Disease 4554 4557	lao
+T40	Symptom_and_Disease 4561 4568	ung thư
+T41	Symptom_and_Disease 4667 4670	lao
+T42	Symptom_and_Disease 4672 4683	K màng phổi
+T43	DiagnosticProcedure 4688 4697;4698 4710	STMP bằng kim xuyên da
+T44	Symptom_and_Disease 4880 4883	lao
+T45	Symptom_and_Disease 4885 4896	K màng phổi
+T46	Symptom_and_Disease 5058 5061	lao
+T47	Symptom_and_Disease 5063 5074	K màng phổi
+T48	DiagnosticProcedure 5080 5099;5100 5102	STMP bằng kim xuyên da
+T49	DiagnosticProcedure 5106 5111	PTDMP
+T50	Location 5128 5136	Việt Nam
+T51	DiagnosticProcedure 515 520	PTDMP
+T52	DiagnosticProcedure 547 551	STMP
+T53	DiagnosticProcedure 626 631	PTDMP
+T54	Symptom_and_Disease 1078 1081	lao
+T55	Symptom_and_Disease 1133 1136	lao
+T56	Symptom_and_Disease 1362 1377	K tế bào hắc tố
+T57	DiagnosticProcedure 1566 1570	STMP
+T58	DiagnosticProcedure 1609 1614	PTDMP
+T59	DiagnosticProcedure 1624 1628	STMP
+T60	Symptom_and_Disease 1657 1661	TDMP
+T61	DiagnosticProcedure 1719 1724	PTDMP
+T62	DiagnosticProcedure 1924 1931	cấy DMP
+T63	Location 2093 2101	Việt Nam
+T64	Symptom_and_Disease 2137 2138	K
+T65	DiagnosticProcedure 2305 2310	PTDMP
+T66	Symptom_and_Disease 2370 2374	TDMP
+T67	DiagnosticProcedure 2389 2393	STMP
+T68	DiagnosticProcedure 2433 2438	PTDMP
+T69	Symptom_and_Disease 2702 2706	TDMP
+T70	DiagnosticProcedure 2598 2611	sinh thiết mù
+T71	DiagnosticProcedure 2652 2659	STMP mù
+T72	DiagnosticProcedure 2798 2811	sinh thiết mù
+T73	DiagnosticProcedure 2838 2842	STMP
+T74	Symptom_and_Disease 2920 2924	TDMP
+T75	Symptom_and_Disease 2954 2958	TDMP
+T76	DiagnosticProcedure 3025 3029	STMP
+T77	DiagnosticProcedure 3242 3264	STMP qua soi lồng ngực
+T78	DateTime 3623 3627	1999
+T79	DiagnosticProcedure 3859 3863	STMP
+T80	DiagnosticProcedure 4155 4177	STMP lập lại nhiều lần
+T81	DiagnosticProcedure 4119 4132;4133 4153	STMP có hướng dẫn của SA + CT scan
+T82	DiagnosticProcedure 3109 3129	Sinh thiết nhiều mẫu
+T83	DiagnosticProcedure 4772 4828	STMP có chỉ dẫn đánh dấu trước của SA + CTscan lồng ngực
+T84	DiagnosticProcedure 4762 4769	STMP mù
+T85	DiagnosticProcedure 4093 4103	STMP chung
+T86	DiagnosticProcedure 4749 4759	STMP chung
+T87	DiagnosticProcedure 4951 5010	STMP có hướng dẫn đánh dấu trước của SA + CT scan lồng ngực
+T88	DiagnosticProcedure 5018 5025	STMP mù
+T89	Symptom_and_Disease 1402 1434	Carcinoma tuyến di căn màng phổi
+T90	Symptom_and_Disease 1965 1968	lao

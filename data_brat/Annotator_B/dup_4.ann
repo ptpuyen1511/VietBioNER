@@ -1,0 +1,84 @@
+T1	DateTime 108 117	2017-2018
+T2	DiagnosticProcedure 180 193	nhuộm soi AFB
+T3	DiagnosticProcedure 195 203	cấy MGIT
+T4	Symptom_and_Disease 270 283	lao màng phôi
+T5	Symptom_and_Disease 327 340	lao màng phôi
+T6	DiagnosticProcedure 398 407	nhuộm soi
+T7	DiagnosticProcedure 416 424	cấy MGIT
+T8	Symptom_and_Disease 450 453	lao
+T9	Symptom_and_Disease 509 523	lao màng phôi.
+T10	Symptom_and_Disease 619 638	tràn dịch màng phổi
+T11	Symptom_and_Disease 647 650	lao
+T12	Organisation 655 669;670 680	bệnh viện Phạm Ngọc Thạch
+T13	DateTime 681 707	từ tháng 3/2017 đến 9/2017
+T14	DiagnosticProcedure 1030 1043	Nhuộm soi AFB
+T15	Symptom_and_Disease 1082 1085	LMP
+T16	Symptom_and_Disease 1144 1147	LMP
+T17	Symptom_and_Disease 1217 1220	LMP
+T18	DiagnosticProcedure 17 26	NHUỘM SOI
+T19	DiagnosticProcedure 28 31	CẤY
+T20	DiagnosticProcedure 35 51	MÔ HỌC MÀNG PHỎI
+T21	Symptom_and_Disease 64 76	LAO MÀNG PHỎ
+T22	Organisation 82 107	BỆNH VIÊN PHẠM NGỌC THẠCH
+T23	DiagnosticProcedure 457 478	mô bệnh học màng phổi
+T24	Symptom_and_Disease 493 496	lao
+T25	DiagnosticProcedure 1055 1062	STMP mù
+T26	DiagnosticProcedure 1097 1105	Cây MGIT
+T27	DiagnosticProcedure 1274 1287	nhuộm soi AFB
+T28	DiagnosticProcedure 1304 1315	mô bệnh học
+T29	Symptom_and_Disease 1381 1384	LMP
+T30	DiagnosticProcedure 1411 1415	MGIT
+T31	DiagnosticProcedure 1432 1443	mô bệnh học
+T32	DiagnosticProcedure 1536 1549	nhuộm soi AFB
+T33	DiagnosticProcedure 1551 1559	cấy MGIT
+T34	DiagnosticProcedure 1588 1590;1591 1599	mô bệnh học
+T35	DiagnosticProcedure 1736 1742	mô học
+T36	DiagnosticProcedure 1717 1726	nhuộm soi
+T37	DiagnosticProcedure 1746 1754	nuôi cấy
+T38	Symptom_and_Disease 1777 1780	LMP
+T39	Symptom_and_Disease 1806 1825	Tràn dịch màng phổi
+T40	Symptom_and_Disease 1858 1877	tràn dịch màng phối
+T41	Symptom_and_Disease 1940 1959	tràn dịch màng phổi
+T42	DateTime 2009 2013	2008
+T43	Symptom_and_Disease 2016 2035	tràn dịch màng phổi
+T44	Symptom_and_Disease 2108 2111	lao
+T45	Symptom_and_Disease 2143 2156	lao màng phổi
+T46	Symptom_and_Disease 2212 2215	lao
+T47	Location 2386 2407	thành phố Hồ Chí Minh
+T48	DateTime 2408 2433	từ 15/12/2010 - 31/3/2011
+T49	Symptom_and_Disease 2454 2467	lao màng phối
+T50	DiagnosticProcedure 2581 2592	mô bệnh học
+T51	Organisation 2637 2662	bệnh viện Phạm Ngọc Thạch
+T52	DiagnosticProcedure 2679 2692	nhuộm soi AFB
+T53	DiagnosticProcedure 2731 2742	mô bệnh học
+T54	DiagnosticProcedure 2754 2777	sinh thiết mù màng phối
+T55	Symptom_and_Disease 2811 2824	lao màng phối
+T56	DiagnosticProcedure 2848 2861	nhuộm soi AFB
+T57	DiagnosticProcedure 2863 2874	cấy mảnh mô
+T58	DiagnosticProcedure 2888 2911	sinh thiết mù màng phổi
+T59	Symptom_and_Disease 2928 2931	lao
+T60	DiagnosticProcedure 3007 3020	nhuộm soi AFB
+T61	DiagnosticProcedure 3026 3030	MGTT
+T62	DiagnosticProcedure 3057 3080	sinh thiết mù màng phổi
+T63	DiagnosticProcedure 3097 3110	lao màng phổi
+T64	DiagnosticProcedure 3154 3167	lao màng phổi
+T65	DiagnosticProcedure 3204 3213;3214 3220	nhuộm soi có AFB
+T66	DiagnosticProcedure 3222 3230	cấy MGIT
+T67	Symptom_and_Disease 3256 3259	lao
+T68	DiagnosticProcedure 3263 3284	mô bệnh học màng phổi
+T69	Symptom_and_Disease 3293 3296	lao
+T70	Symptom_and_Disease 3309 3322	lao màng phổi
+T71	DiagnosticProcedure 3383 3390	soi AFB
+T72	DiagnosticProcedure 3398 3402	MGIT
+T73	Symptom_and_Disease 3461 3464;3465 3474	lao màng phỗi
+T74	Symptom_and_Disease 3548 3561	lao màng phối
+T75	Organisation 3566 3575;3576 3591	Bệnh viện Phạm Ngọc Thạch
+T76	DiagnosticProcedure 3610 3626	nhuộm soi có AFB
+T77	DiagnosticProcedure 3628 3636	cấy MGTT
+T78	Symptom_and_Disease 3662 3665	lao
+T79	DiagnosticProcedure 3669 3690	mô bệnh học màng phổi
+T80	Symptom_and_Disease 3699 3702	lao
+T81	Symptom_and_Disease 3715 3728	lao màng phổi
+T82	DiagnosticProcedure 207 209;210 218	mô bệnh học
+T83	DiagnosticProcedure 230 243	sinh thiết mù
+T84	DiagnosticProcedure 1159 1165	Mô học

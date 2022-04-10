@@ -1,0 +1,26 @@
+T1	Symptom_and_Disease 315 318	lao
+T2	Location 477 482;483 498	thành phố Hồ Chí Minh
+T3	Location 500 508	Việt Nam
+T4	DateTime 515 523	năm 2010
+T5	Symptom_and_Disease 586 589	lao
+T6	Organisation 649 674	bệnh viện Phạm Ngọc Thạch
+T7	DateTime 681 689	năm 2010
+T8	Symptom_and_Disease 1063 1071	mẩn ngứa
+T9	Symptom_and_Disease 1073 1085	nhiễm độc da
+T10	Symptom_and_Disease 1087 1094	mày đay
+T11	Symptom_and_Disease 1096 1104	phù mạch
+T12	Symptom_and_Disease 1106 1116;1117 1121	đỏ da toàn thân
+T13	Symptom_and_Disease 1179 1182	nôn
+T14	Symptom_and_Disease 1184 1192	buồn nôn
+T15	Symptom_and_Disease 1194 1202	đau bụng
+T16	Symptom_and_Disease 1220 1227	vàng da
+T17	Organisation 116 141	BỆNH VIỆN PHẠM NGỌC THẠCH
+T18	Location 337 345	Việt Nam
+T19	Symptom_and_Disease 1123 1148	hội chứng Stevens-Johnson
+T20	Symptom_and_Disease 1830 1833	lao
+T21	Symptom_and_Disease 1855 1858	lao
+T22	Location 6 21	TP. Hồ Chí Minh
+T23	Symptom_and_Disease 88 91	LAO
+T24	Symptom_and_Disease 225 228	lao
+T25	Symptom_and_Disease 1256 1259	lao
+T26	Symptom_and_Disease 1872 1875	lao

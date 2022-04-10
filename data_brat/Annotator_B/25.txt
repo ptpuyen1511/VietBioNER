@@ -1,0 +1,83 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO BỘ Y TẾ
+
+TRƯỜNG ĐẠI HỌC Y HÀ NỘI
+
+
+ĐẶNG VĂN KHOA
+
+NGHIÊN CỨU MỘT SỐ ĐẶC ĐIỂM LÂM SÀN6, CẬN LÂM SÀNG, 
+ĐÁP ỨNG MIỄN DỊCH, TÍNH KHÁNG THUỐC CỦA VI KHUẨN 
+Ở BỆNH NHÂN LA0 PHỔI MỚI VÀ LA0 PHỔI TÁI PHÁT
+
+Chuyên ngành: Lao
+Mã số: 62.72.24.01
+
+LUẬN ÁN TIÊN SĨ Y HỌC
+Người hướng dẫn khoa học:
+
+GS.TS. Trần Văn Sáng
+PGS.TS. Hồ Minh Lý
+
+ĐẶT VẤN ĐỀ
+
+Bệnh lao bùng n trở lại đang là vấn đề lo ngại của toàn cầu. Mỗi năm có
+thêm khoảng 9 triệu người mắc lao và 2 triệu người chết vì bệnh lao [205].
+Bệnh lao ảnh hưởng lớn tới đời sống kinh tế xã hội của cộng đồng các quốc
+gia trên thể giới bởi có tới 60-75% số người mắc lao trong độ tuổi lao động
+[103], [161]. Lao phối là thể lao chủ yếu chiếm 85% các thể bệnh lao, trong
+đó lao phối AFB(+) là nguồn lây chính truyền bệnh cho người lành [47]. Phát
+hiện sớm, điều trị khỏi triệt để cho những trường hợp lao phổi có vi khuẩn lao
+trong đờm nhằm cắt đứt nguồn lây là biện pháp tốt nhất để khống chế và
+thanh toán bệnh lao, đó cũng là mục tiêu chính của chương trình chống lao
+quốc gia (CTCLQG) các nước. Ở Việt Nam, mặc dù CTCLQG đã có nhiều cố
+gắng trong kiểm soát và khống chế bệnh lao nhưng tỷ lệ mắc lao vẫn không
+giảm một cách đáng kế. Một trong những nguyên nhân làm cho bệnh lao khó
+kiểm soát đó là sự gia tăng các chủng vi khuẩn lao kháng thuốc nhất là đa
+kháng thuốc.
+
+Một số công trình nghiên cứu trong và ngoài nước gân đây cho thấy
+những trường hợp lao phổi tái phát (LPTP) đều có tỷ lệ kháng thuốc cao, nếu
+không được phát hiện và điều trị kịp thời thì đây sẽ là nguồn lây vi khuẩn lao
+kháng thuốc nguy hiểm. Nghiên cứu tính kháng thuốc của vi khuẩn lao ở bệnh
+nhân lao phối mới (LPM) và bệnh nhân LPTP giúp hoạch định chiến lược
+kiểm soát và điều trị bệnh lao một cách hiệu quả hơn.
+
+LPTP thường biểu hiện bệnh lý phức tạp hơn LPM bởi những tổn thương
+mạn tính ở phối, những di chứng của lần điều trị lao trước đó. Những nghiên
+cứu đặc điểm lâm sàng, cận lâm sàng ở bệnh nhân LPM và LPTP làm phong
+phú bệnh học lao, giúp định hướng chân đoán, tiên lượng bệnh LPTP đồng
+thời còn cho thấy việc phát hiện sớm, điều trị có kết quả tốt, ít đề lại di chứng
+ở phổi đối với LPM là yếu tố quan trọng góp phần hạn chế LPTP.
+Bệnh lao liên quan mật thiết với khả năng đáp ứng miễn dịch của cơ thể.
+Khi cơ thể bị suy giảm miễn dịch thì nguy cơ mắc bệnh lao càng cao. Bệnh
+LPTP sau điều trị khỏi là do cơ thể bị suy giảm miễn dịch vi khuẩn lao tồn tại
+trong các tổn thương cũ tái hoạt động hoặc cũng có thể bị nhiễm chủng vi
+khuẩn lao mới. Tuy nhiên người ta cũng đã nhận thấy ở những nước có mật
+độ lưu hành bệnh lao thấp thì đa số LPTP là do vi khuẩn lao tái hoạt động. Tất
+cả những người đã điều trị lao thì nguy cơ bị bệnh trở lại cao hơn hắn những
+người chưa bị bệnh lao [219], [123]. Như vậy cơ thể những người bị lao và
+đặc biệt là những người bị LPTP có khả năng đáp ứng miễn dịch kém hơn
+những người bình thường. Một số nghiên cứu đáp ứng miễn dịch thông qua
+các chỉ tiêu nồng độ IgA, IgG, TNFœ, IENy, số lượng tế bào TCD4, TCD8
+trong bệnh lao gần đây được một số tác giả đề cập đã làm rõ hơn về đáp ứng
+miễn dịch trong bệnh lao, đã chứng minh được vai trò của miễn dịch trong
+chân đoán, tiên lượng bệnh lao.
+
+Ở Việt Nam đã có một số công trình nghiên cứu về đặc điểm lâm sàng và
+cận lâm sàng, tính kháng thuốc của vi khuẩn lao ở bệnh nhân LPTP. Tuy
+nhiên chưa có công trình nào nghiên cứu về đáp ứng miễn dịch trong LPTP và
+đặc biệt có rất ít các công trình theo dõi đáp ứng miễn dịch sau điều trị. Vì
+vậy tôi tiến hành nghiên cứu đề tài này nhằm 3 mục tiêu:
+
+I. Nghiên cứu một số đặc điểm lâm sàng, cận lâm sàng thường quy (x-
+quang phổi, công thức máu, phản ứng Mantoux, AFB trong đờm) ở
+bệnh nhân LPM và LPTP.
+
+2 Đánh giá kết quả một số chỉ tiêu miễn dịch dịch thể (IgA, IgG), miễn
+dịch tÊ bào (TCD4, TCD8), cytokine (TNFα, IFNγ) và sự thay đổi
+của các chỉ số này sau 2 tháng điều trị ở bệnh nhân LPM và LPTP.
+
+3. Xác định tính kháng thuốc của vì khuẩn lao, mỗi liên quan giữa tính
+kháng thuốc với mưức độ tổn thương và một số chỉ tiêu miễn dịch ở
+bệnh nhân LPM và LPTP.
+

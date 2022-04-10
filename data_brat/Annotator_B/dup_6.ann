@@ -1,0 +1,115 @@
+T1	Organisation 0 22	BỘ GIÁO DỤC VÀ ĐÀO TẠO
+T2	Organisation 23 30	BỘ Y TẾ
+T3	Organisation 31 67	TRƯỜNG ĐẠI HỌC Y DƯỢC TP.HỒ CHÍ MINH
+T4	DiagnosticProcedure 117 142	POLYMERASE CHAIN REACTION
+T5	DiagnosticProcedure 144 147	PCR
+T6	Symptom_and_Disease 165 178	LAO MÀNG PHỔI
+T7	DateTime 229 240	1995 - 1998
+T8	Symptom_and_Disease 345 353	Bệnh lao
+T9	DateTime 470 496	3700 năm trước công nguyên
+T10	Symptom_and_Disease 503 511	bệnh lao
+T11	DateTime 612 620	năm 1882
+T12	Symptom_and_Disease 707 710	lao
+T13	Symptom_and_Disease 716 724	bệnh lao
+T14	Symptom_and_Disease 737 740	lao
+T15	DateTime 743 755	Tháng 4/1993
+T16	Organisation 756 777	tổ chức Y tế Thế giới
+T17	Symptom_and_Disease 826 829	lao
+T18	Organisation 1028 1049	Tổ chức Y tế Thế giới
+T19	Symptom_and_Disease 1105 1108	lao
+T20	Symptom_and_Disease 1214 1222	bệnh lao
+T21	Symptom_and_Disease 1180 1188	bệnh lao
+T22	Symptom_and_Disease 1303 1306	lao
+T23	Symptom_and_Disease 1327 1330	lao
+T24	Location 1362 1370	Việt Nam
+T25	Symptom_and_Disease 1385 1393	bệnh lao
+T26	Symptom_and_Disease 1447 1450	lao
+T27	Location 1464 1472	miễn Bắc
+T28	Location 1474 1479	Trung
+T29	Location 1481 1484	Nam
+T30	Location 1514 1522	Việt Nam
+T31	Symptom_and_Disease 1508 1511	lao
+T32	Symptom_and_Disease 1591 1598	lao mới
+T33	Symptom_and_Disease 1659 1666	lao mới
+T34	Symptom_and_Disease 1761 1769	Bệnh lao
+T35	Location 1678 1686	miền Bắc
+T36	Symptom_and_Disease 1920 1923	HIV
+T37	Symptom_and_Disease 1978 1985;1986 1989	lao/HIV (+)
+T38	Symptom_and_Disease 2027 2031	AIDS
+T39	Symptom_and_Disease 2055 2062	lao/HIV
+T40	DateTime 2063 2071	năm 1994
+T41	Symptom_and_Disease 2100 2103	lao
+T42	Symptom_and_Disease 2107 2110	HIV
+T43	Symptom_and_Disease 2216 2224	Bệnh lao
+T44	Symptom_and_Disease 2249 2252	HIV
+T45	Symptom_and_Disease 2303 2307	AIDS
+T46	Symptom_and_Disease 2315 2321	HIV(+)
+T47	Symptom_and_Disease 2331 2334	lao
+T48	Symptom_and_Disease 2469 2482	Lao màng phổi
+T49	Symptom_and_Disease 2494 2508	lao ngoài phổi
+T50	Location 2525 2533	Việt Nam
+T51	Symptom_and_Disease 2534 2537;2538 2547	lao màng phổi
+T52	Symptom_and_Disease 2572 2591	bệnh lao ngoài phổi
+T53	Organisation 2623 2644	Viện lao và bệnh phổi
+T54	Symptom_and_Disease 2662 2675	lao màng phổi
+T55	DiagnosticProcedure 2721 2724	IDR
+T56	DiagnosticProcedure 2728 2740	X quang phổi
+T57	DiagnosticProcedure 2824 2844	Sinh thiết màng phổi
+T58	DiagnosticProcedure 2786 2795	nhuộm soi
+T59	DiagnosticProcedure 2797 2800	cấy
+T60	Symptom_and_Disease 2879 2892	lao màng phổi
+T61	DiagnosticProcedure 2967 2976	nhuộm soi
+T62	DiagnosticProcedure 2980 2983	cấy
+T63	DiagnosticProcedure 2995 3004	nhuộm soi
+T64	Symptom_and_Disease 3167 3181	lao ngoài phổi
+T65	Symptom_and_Disease 3195 3208	lao màng phổi
+T66	DiagnosticProcedure 3339 3353	khuếch đại gen
+T67	DiagnosticProcedure 3358 3361	PCR
+T68	DiagnosticProcedure 3363 3388	Polymerase chain reaction
+T69	DiagnosticProcedure 3421 3425	1985
+T70	DiagnosticProcedure 3667 3670	PCR
+T71	DiagnosticProcedure 3898 3901	PCR
+T72	Symptom_and_Disease 3932 3945	lao màng phổi
+T73	DiagnosticProcedure 3956 3959	PCR
+T74	DiagnosticProcedure 4005 4008	cấy
+T75	DiagnosticProcedure 4117 4120	PCR
+T76	DateTime 4129 4133	1985
+T77	Symptom_and_Disease 4256 4264	lao phổi
+T78	Symptom_and_Disease 4267 4280	lao màng phổi
+T79	Symptom_and_Disease 4288 4301	lao màng phổi
+T80	Location 4332 4336	Nhật
+T81	Location 4338 4349	Tây Ban Nha
+T82	Location 4351 4356	Ấn Độ
+T83	Location 4358 4361	Anh
+T84	DiagnosticProcedure 4394 4397	PCR
+T85	Location 4441 4449	Việt Nam
+T86	DiagnosticProcedure 4462 4465	PCR
+T87	Organisation 4491 4507;4508 4534	trường đại học Y Dược Thành phố Hồ Chí Minh
+T88	DateTime 4535 4543	năm 1995
+T89	DateTime 4611 4626	từ 1996 đến nay
+T90	DiagnosticProcedure 4707 4710	PCR
+T91	Symptom_and_Disease 4727 4735	lao phổi
+T92	Symptom_and_Disease 4739 4753	lao ngoài phổi
+T93	Symptom_and_Disease 4766 4779	lao màng phổi
+T94	Symptom_and_Disease 4788 4802	lao ngoài phổi
+T95	DiagnosticProcedure 4923 4926	PCR
+T96	Symptom_and_Disease 4943 4956	lao màng phổi
+T97	DiagnosticProcedure 5045 5048	PCR
+T98	Symptom_and_Disease 5065 5078	lao màng phổi
+T99	DiagnosticProcedure 5228 5231	PCR
+T100	Symptom_and_Disease 5248 5251;5252 5261	lao màng phổi
+T101	DiagnosticProcedure 5299 5302	PCR
+T102	DiagnosticProcedure 5307 5328	cấy dịch-mô màng phổi
+T103	DiagnosticProcedure 5330 5354	nhuộm soi dịch màng phổi
+T104	Symptom_and_Disease 5404 5417	lao màng phổi
+T105	Symptom_and_Disease 5527 5540	lao màng phổi
+T106	Location 1711 1719	miền Nam
+T107	Symptom_and_Disease 1840 1848	bệnh lao
+T108	Symptom_and_Disease 2463 2466	lao
+T109	Symptom_and_Disease 2402 2405	lao
+T110	Symptom_and_Disease 2419 2422	lao
+T111	Symptom_and_Disease 4607 4610	lao
+T112	DateTime 1263 1271	năm 2000
+T113	DiagnosticProcedure 3220 3223	Cấy
+T114	DiagnosticProcedure 2914 2918;2919 2943	giải phẩu bệnh qua sinh thiết
+T115	DiagnosticProcedure 2744 2769	Xét nghiệm dịch màng phổi

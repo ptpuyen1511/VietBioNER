@@ -1,0 +1,44 @@
+T1	Symptom_and_Disease 43 46	LAO
+T2	Organisation 78 98	PHÒNG KHÁM NGOẠI TRÚ
+T3	DateTime 136 144	NĂM 2013
+T4	DateTime 200 229	tháng 1 đến tháng 6 năm 201Z3
+T5	Organisation 234 250;251 260	Bệnh viện Lao và Bệnh phỗi
+T6	Location 261 275	tỉnh Bắc Giang
+T7	Symptom_and_Disease 315 323	lao phối
+T8	Organisation 355 375	phòng khám ngoại trú
+T9	Symptom_and_Disease 1045 1048	lao
+T10	Location 1364 1372	Việt Nam
+T11	Symptom_and_Disease 1418 1429	lao mới mắc
+T12	Symptom_and_Disease 1473 1476	lao
+T13	Symptom_and_Disease 1515 1522	lao mới
+T14	Symptom_and_Disease 1549 1559	lao AFB(+)
+T15	Symptom_and_Disease 1595 1613;1614 1617	bệnh lao mới nhiễm HIV
+T16	Symptom_and_Disease 1631 1649	lao đa kháng thuốc
+T17	Symptom_and_Disease 1714 1717	lao
+T18	Symptom_and_Disease 1757 1760	lao
+T19	Location 1784 1793	Bắc Giang
+T20	Symptom_and_Disease 1824 1832	bệnh lao
+T21	DateTime 1887 1895	Năm 2012
+T22	Organisation 1897 1923	Bệnh viện Lao và bệnh Phối
+T23	Location 1924 1927;1928 1933	Bắc Giang
+T24	Symptom_and_Disease 2007 2026	bệnh phổi ngoài lao
+T25	Symptom_and_Disease 2034 2045	lao các thể
+T26	Symptom_and_Disease 2059 2067	lao phổi
+T27	Organisation 2085 2105	phòng khám ngoại trú
+T28	Organisation 2110 2131;2132 2136	Bệnh viện Lao và Bệnh phổi
+T29	Location 2137 2146	Bắc Giang
+T30	Symptom_and_Disease 2183 2186	lao
+T31	Symptom_and_Disease 2309 2317	bệnh lao
+T32	Symptom_and_Disease 2502 2517	lao kháng thuốc
+T33	Symptom_and_Disease 2613 2634	lao không kháng thuốc
+T34	Symptom_and_Disease 2645 2654;2655 2660	lao kháng thuốc
+T35	Symptom_and_Disease 2798 2801	lao
+T36	Organisation 2820 2840	Phòng khám ngoại trú
+T37	Organisation 2842 2868	Bệnh viện Lao và Bệnh phỗi
+T38	Location 2869 2878	Bắc Giang
+T39	DateTime 2879 2887	năm 2013
+T40	Symptom_and_Disease 2967 2970	lao
+T41	Organisation 2993 3013	Phòng khám ngoại trú
+T42	Organisation 3015 3028;3029 3041	Bệnh viện Lao và Bệnh phổi
+T43	Location 3042 3051	Bắc Giang
+T44	DateTime 3052 3060	năm 2013

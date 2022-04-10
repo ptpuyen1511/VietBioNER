@@ -1,0 +1,47 @@
+T1	Symptom_and_Disease 35 38	Lao
+T2	Symptom_and_Disease 42 43	K
+T3	Symptom_and_Disease 90 101	u màng phổi
+T4	DiagnosticProcedure 106 130	Phân tích dịch màng phổi
+T5	DiagnosticProcedure 132 137	PTDMP
+T6	DiagnosticProcedure 246 251	PTDMP
+T7	DiagnosticProcedure 334 342	sinh hóa
+T8	DiagnosticProcedure 344 350	tế bào
+T9	DiagnosticProcedure 352 360	vi trùng
+T10	DiagnosticProcedure 373 404	Soi và cấy DMP tìm vi trùng lao
+T11	DiagnosticProcedure 457 468	PCR lao DMP
+T12	DiagnosticProcedure 591 596	PTDMP
+T13	Symptom_and_Disease 639 643	TDMP
+T14	DiagnosticProcedure 701 706	PTDMP
+T15	DiagnosticProcedure 791 835	cấy DMP và mẫu mô màng phổi tìm vi trùng lao
+T16	DiagnosticProcedure 862 873	PCR lao DMP
+T17	DiagnosticProcedure 942 956	Tế bào học DMP
+T18	Location 959 967	Việt Nam
+T19	Symptom_and_Disease 1003 1004	K
+T20	DiagnosticProcedure 1171 1176	PTDMP
+T21	Symptom_and_Disease 1215 1240	u màng phổi không có TDMP
+T22	DiagnosticProcedure 1299 1304	PTDMP
+T23	Symptom_and_Disease 1568 1582;1583 1592	TDMP lượng vừa đến nhiều
+T24	DiagnosticProcedure 1730 1736	CTscan
+T25	Symptom_and_Disease 1786 1800	TDMP ít và dày
+T26	Symptom_and_Disease 1802 1824	u màng phổi không TDMP
+T27	DiagnosticProcedure 1879 1896	CT scan lồng ngực
+T28	DiagnosticProcedure 2068 2085	CT scan lồng ngực
+T29	Symptom_and_Disease 2228 2253	K màng phổi giai đoạn sớm
+T30	DateTime 2538 2552	thập niên 1980
+T31	Symptom_and_Disease 2852 2855	lao
+T32	Symptom_and_Disease 2859 2860	K
+T33	Symptom_and_Disease 2865 2894	tràn dịch, dày và u màng phổi
+T34	Symptom_and_Disease 3030 3033	lao
+T35	Symptom_and_Disease 3035 3042	ung thư
+T36	Symptom_and_Disease 3047 3074	tràn dịch, dày, u màng phổi
+T37	Symptom_and_Disease 3198 3201	lao
+T38	Symptom_and_Disease 3205 3212	ung thư
+T39	Symptom_and_Disease 3217 3245	tràn dịch, dày, u màng phổi.
+T40	Symptom_and_Disease 3312 3315	lao
+T41	Symptom_and_Disease 3317 3328	K màng phổi
+T42	Symptom_and_Disease 3534 3537	lao
+T43	Symptom_and_Disease 3539 3550	K màng phổi
+T44	Symptom_and_Disease 3718 3721	lao
+T45	Symptom_and_Disease 3723 3734	K màng phổi
+T46	DiagnosticProcedure 3766 3771	PTDMP
+T47	Location 3788 3796	Việt Nam

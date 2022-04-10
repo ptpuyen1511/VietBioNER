@@ -1,0 +1,32 @@
+T1	Location 6 21	TP. Hồ Chí Minh
+T2	Organisation 116 141	BỆNH VIỆN PHẠM NGỌC THẠCH
+T3	Location 477 482;483 498	thành phố Hồ Chí Minh
+T4	Location 500 508	Việt Nam
+T5	DateTime 515 523	năm 2010
+T6	Location 337 345	Việt Nam
+T7	Symptom_and_Disease 586 589	lao
+T8	Organisation 649 674	bệnh viện Phạm Ngọc Thạch
+T9	DateTime 681 689	năm 2010
+T10	Symptom_and_Disease 1063 1071	mẩn ngứa
+T11	Symptom_and_Disease 1073 1085	nhiễm độc da
+T12	Symptom_and_Disease 1087 1094	mày đay
+T13	Symptom_and_Disease 1096 1104	phù mạch
+T14	Symptom_and_Disease 1106 1116;1117 1121	đỏ da toàn thân
+T15	Symptom_and_Disease 1123 1148	hội chứng Stevens-Johnson
+T16	Symptom_and_Disease 1179 1182	nôn
+T17	Symptom_and_Disease 1184 1192	buồn nôn
+T18	Symptom_and_Disease 1194 1202	đau bụng
+T19	Symptom_and_Disease 1220 1227	vàng da
+T20	Symptom_and_Disease 1855 1858	lao
+T21	Symptom_and_Disease 315 318	lao
+T22	Symptom_and_Disease 1830 1833	lao
+T23	Symptom_and_Disease 200 228	Phản ứng với thuốc chống lao
+T24	Symptom_and_Disease 230 235	PƯTCL
+T25	Symptom_and_Disease 358 363	PƯTCL
+T26	Symptom_and_Disease 400 405	PƯTCL
+T27	Symptom_and_Disease 593 598	PƯTCL
+T28	AnnotatorNotes T28	Y41.1
+T29	DateTime 40 44	2012
+T30	Symptom_and_Disease 63 91	PHẢN ỨNG VỚI THUỐC CHỐNG LAO
+T31	AnnotatorNotes T34	Y41.1
+T32	Symptom_and_Disease 639 644	PƯTCL

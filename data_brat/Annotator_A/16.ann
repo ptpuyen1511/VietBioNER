@@ -1,0 +1,103 @@
+T1	Symptom_and_Disease 10 13	Lao
+T2	Organisation 102 123	Tổ chức Y tế thế giới
+T3	Organisation 125 128	WHO
+T4	Symptom_and_Disease 160 167	lao mới
+T5	DateTime 130 134	2010
+T6	Symptom_and_Disease 188 191	HIV
+T7	Symptom_and_Disease 220 228	bệnh lao
+T8	Symptom_and_Disease 279 286	HIV (+)
+T9	Symptom_and_Disease 238 245	HIV (-)
+T10	Symptom_and_Disease 312 315	lao
+T11	Symptom_and_Disease 389 392	Lao
+T12	Symptom_and_Disease 450 464;466 470	tràn dịch màng phổi
+T13	Symptom_and_Disease 472 476	TDMP
+T14	Location 528 536	Việt Nam
+T15	Symptom_and_Disease 538 549	TDMP do lao
+T16	Symptom_and_Disease 579 593	lao ngoài phổi
+T17	Symptom_and_Disease 626 647	Viện lao và bệnh phổi
+T18	Symptom_and_Disease 684 710	tràn dịch màng phối do lao
+T19	Location 713 721	Việt Nam
+T20	Symptom_and_Disease 796 800;802 816	tràn dịch màng phổi
+T21	DiagnosticProcedure 998 1012	giải phẫu bệnh
+T22	DiagnosticProcedure 920 941	phân tích về sinh hóa
+T23	DiagnosticProcedure 943 949	tế bảo
+T24	DiagnosticProcedure 1042 1066	phân tích dịch màng phổi
+T25	DiagnosticProcedure 1201 1230	xét nghiệm tế bào và vi trùng
+T26	Symptom_and_Disease 1248 1251	lao
+T27	Symptom_and_Disease 1345 1356	TDMP do lao
+T28	Location 1480 1488	Việt Nam
+T29	Symptom_and_Disease 1525 1528	lao
+T30	DiagnosticProcedure 1563 1587	phân tích dịch màng phổi
+T31	Symptom_and_Disease 1688 1707	tràn dịch màng phổi
+T32	Symptom_and_Disease 1719 1727	lao phổi
+T33	Symptom_and_Disease 1784 1795	TDMP do lao
+T34	Symptom_and_Disease 1859 1888	tràn dịch màng phổi dịch tiết
+T35	DiagnosticProcedure 1930 1942	phản ứng lao
+T36	Symptom_and_Disease 2000 2003	lao
+T37	Symptom_and_Disease 2049 2052	lao
+T38	Symptom_and_Disease 2150 2179	tràn dịch màng phổi dịch tiết
+T39	Symptom_and_Disease 2233 2236	lao
+T40	Symptom_and_Disease 2245 2256	TDMP do lao
+T41	Symptom_and_Disease 2393 2413	lao các cơ quan khác
+T42	Symptom_and_Disease 2561 2568	ung thư
+T43	Symptom_and_Disease 2807 2818	TDMP do lao
+T44	DiagnosticProcedure 2876 2892	Phosphatase kiềm
+T45	DiagnosticProcedure 2894 2912	Adenosin deaminase
+T46	DiagnosticProcedure 2914 2917	ADA
+T47	DiagnosticProcedure 2920 2936	Interferon gamma
+T48	DiagnosticProcedure 2947 2955	Lysozyme
+T49	DiagnosticProcedure 2957 2968	Interleukin
+T50	DiagnosticProcedure 2981 2986	IL-18
+T51	DiagnosticProcedure 2988 3020	Immunosuppressive Acidic Protein
+T52	DiagnosticProcedure 3023 3026	LAP
+T53	DiagnosticProcedure 3029 3051	soluble IL-2 receptors
+T54	DiagnosticProcedure 3053 3060	sIL-2Rs
+T55	DiagnosticProcedure 2969 2979	(IL)-12p40
+T56	Symptom_and_Disease 3158 3169	TDMP do lao
+T57	Location 3190 3198	Việt Nam
+T58	DiagnosticProcedure 3292 3299	PCR lao
+T59	DiagnosticProcedure 3407 3421	giải phẫu bệnh
+T60	Symptom_and_Disease 3703 3714	TDMP do lao
+T61	DiagnosticProcedure 3733 3736	ADA
+T62	DiagnosticProcedure 2938 2943	INF-y
+T63	DiagnosticProcedure 3740 3745	INF-y
+T64	DiagnosticProcedure 3931 3934	ADA
+T65	DiagnosticProcedure 4011 4014	ALP
+T66	DiagnosticProcedure 4018 4026	Lysozyme
+T67	Symptom_and_Disease 4049 4060	TDMP do lao
+T68	Symptom_and_Disease 4280 4291	TDMP do lao
+T69	DiagnosticProcedure 4297 4300	ALP
+T70	DiagnosticProcedure 4302 4310	Lysozyme
+T71	DiagnosticProcedure 4312 4315	ADA
+T72	DiagnosticProcedure 4319 4324	INF-y
+T73	DiagnosticProcedure 4512 4515	ALP
+T74	DiagnosticProcedure 4519 4527	Lysozyme
+T75	DiagnosticProcedure 4632 4648	Phosphatase kiềm
+T76	DiagnosticProcedure 4650 4658	Lysozyme
+T77	DiagnosticProcedure 4661 4680	Adenosine deaminase
+T78	DiagnosticProcedure 4684 4700	Interferon gamma
+T79	Symptom_and_Disease 4869 4895	tràn dịch màng phổi do lao
+T80	Symptom_and_Disease 4717 4731;4733 4744	tràn dịch màng phổi do lao
+T81	DiagnosticProcedure 4984 4991	ALP DMP
+T82	DiagnosticProcedure 4996 5034	tỉ số ALP địch màng phổi / huyết thanh
+T83	DiagnosticProcedure 5050 5073	Lysozyme dịch màng phổi
+T84	DiagnosticProcedure 5075 5082	Lys DMP
+T85	DiagnosticProcedure 5145 5179	Adenosine deaminase dịch màng phổi
+T86	DiagnosticProcedure 5132 5142	Lys DMP/HT
+T87	DiagnosticProcedure 5181 5184;5186 5189	ADA DMP
+T88	DiagnosticProcedure 5194 5225	Interferon gamma dịch màng phổi
+T89	DiagnosticProcedure 5227 5236	INF-y DMP
+T90	Symptom_and_Disease 5244 5255	TDMP do lao
+T91	DiagnosticProcedure 5315 5318	ALP
+T92	DiagnosticProcedure 5320 5328	Lysozyme
+T93	DiagnosticProcedure 5331 5334	ADA
+T94	DiagnosticProcedure 5338 5343	INF-y
+T95	Symptom_and_Disease 5350 5361	TDMP do lao
+T96	DiagnosticProcedure 4951 4971;4973 4982	Phosphatse kiềm dịch màng phổi
+T97	DiagnosticProcedure 5036 5039;5041 5047	ALP DMP/HT
+T98	DiagnosticProcedure 5093 5111;5113 5130	Lysozyme dịch màng phổi/ huyết thanh
+T99	DiagnosticProcedure 1136 1144	sinh hóa
+T100	DiagnosticProcedure 1146 1152	tế bào
+T101	DiagnosticProcedure 1154 1162	vi trùng
+T102	DiagnosticProcedure 1622 1646	AFB dương tính trong đàm
+T103	DiagnosticProcedure 4076 4079	ADA

@@ -1,0 +1,26 @@
+T1	Symptom_and_Disease 40 43	LA0
+T2	Symptom_and_Disease 54 71	LA0 PHỔI TÁI PHÁT
+T3	Symptom_and_Disease 82 99	Lao phổi tái phát
+T4	Symptom_and_Disease 254 257	lao
+T5	Symptom_and_Disease 324 327	lao
+T6	Symptom_and_Disease 340 357	lao phổi tái phát
+T7	Symptom_and_Disease 466 483	lao phổi tái phát
+T8	Organisation 529 532	WHO
+T9	DateTime 533 537	2007
+T10	DiagnosticProcedure 710 727	soi đồm trực tiếp
+T11	DiagnosticProcedure 798 808;809 811	kháng sinh đề
+T12	Symptom_and_Disease 853 870	lao phổi tái phát
+T13	Symptom_and_Disease 910 913	lao
+T14	Symptom_and_Disease 1601 1618	Lao phổi tái phát
+T15	Symptom_and_Disease 1757 1760	lao
+T16	Symptom_and_Disease 1874 1882	bệnh lao
+T17	Symptom_and_Disease 1940 1955	lao kháng thuốc
+T18	Symptom_and_Disease 1984 1987	lao
+T19	Symptom_and_Disease 2031 2046	lao kháng thuốc
+T20	Symptom_and_Disease 2191 2199	bệnh lao
+T21	Symptom_and_Disease 2321 2336	lao kháng thuốc
+T22	Symptom_and_Disease 2381 2389;2390 2398	lao phổi tái phát
+T23	Symptom_and_Disease 2465 2468	lao
+T24	Symptom_and_Disease 2593 2596	lao
+T25	Symptom_and_Disease 2609 2626	lao phổi tái phát
+T26	DiagnosticProcedure 989 1006	soi đờm trực tiếp

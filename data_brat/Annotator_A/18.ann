@@ -1,0 +1,33 @@
+T1	Symptom_and_Disease 54 57	lao
+T2	Symptom_and_Disease 82 86;87 90	bệnh lao
+T3	Symptom_and_Disease 194 202	bệnh lao
+T4	Symptom_and_Disease 212 220	bệnh lao
+T5	Symptom_and_Disease 315 318	lao
+T6	Organisation 333 339	TCYTTG
+T7	DateTime 340 348	năm 2000
+T8	Symptom_and_Disease 461 469	bệnh lao
+T9	Symptom_and_Disease 616 624	bệnh lao
+T10	Symptom_and_Disease 651 659	HIV/AIDS
+T11	Symptom_and_Disease 668 676	bệnh lao
+T12	Symptom_and_Disease 696 702	HIV(+)
+T13	Symptom_and_Disease 716 724	bệnh lao
+T14	Symptom_and_Disease 758 761	HIV
+T15	Symptom_and_Disease 939 942	lao
+T16	Symptom_and_Disease 980 983	lao
+T17	Symptom_and_Disease 1018 1026	bệnh lao
+T18	Symptom_and_Disease 1116 1124	bệnh lao
+T19	Symptom_and_Disease 1135 1138	lao
+T20	Symptom_and_Disease 1230 1233	lao
+T21	Symptom_and_Disease 1252 1264	lao tái phát
+T22	Symptom_and_Disease 1310 1313	lao
+T23	Symptom_and_Disease 1333 1353	lao phổi AFB (+) mới
+T24	Symptom_and_Disease 1389 1392	lao
+T25	Symptom_and_Disease 1553 1572	ao phổi AFB (+) mới
+T26	Location 1577 1592	Bà Rịa-Vũng Tàu
+T27	DateTime 1596 1605	1995-2000
+T28	Symptom_and_Disease 1619 1639	lao phối AFB (+) mới
+T29	DateTime 1643 1652	2001-2005
+T30	Symptom_and_Disease 1692 1708	lao phổi AFB (+)
+T31	DateTime 1717 1725	năm 2001
+T32	Symptom_and_Disease 1740 1751	AFB (+) mới
+T33	DateTime 1755 1768	năm 2002-2005

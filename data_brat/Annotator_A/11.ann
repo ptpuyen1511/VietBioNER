@@ -1,0 +1,30 @@
+T1	DiagnosticProcedure 76 92	PHẢN ỨNG MANTOUX
+T2	Symptom_and_Disease 105 117	LAO PHÔI MỚI
+T3	Symptom_and_Disease 121 138	LAO PHÔI TÁI PHÁT
+T4	Organisation 192 229	Bênh viên lao và bệnh phổi Trung ương
+T5	Symptom_and_Disease 360 384	lao phổi tái phát AFB(+)
+T6	DiagnosticProcedure 457 473	phản ứng Mantoux
+T7	Organisation 531 537	TCYTTT
+T8	DateTime 539 543	1997
+T9	DateTime 926 930	2007
+T10	Symptom_and_Disease 973 981	lao phổi
+T11	DateTime 1073 1077	2005
+T12	Symptom_and_Disease 1101 1109	lao phổi
+T13	Symptom_and_Disease 1264 1267;1268 1272	lao phổi
+T14	Symptom_and_Disease 1326 1334	lao phổi
+T15	Symptom_and_Disease 1438 1458	lao phổi kháng thuốc
+T16	Symptom_and_Disease 1618 1630	lao phổi mới
+T17	Symptom_and_Disease 1634 1651	lao phổi tái phát
+T18	DiagnosticProcedure 1757 1773	phản ứng Mantoux
+T19	DiagnosticProcedure 1556 1559	CD3
+T20	DiagnosticProcedure 1561 1564	CD4
+T21	DiagnosticProcedure 1566 1569	CD8
+T22	DiagnosticProcedure 1588 1595	CD4/CD3
+T23	DiagnosticProcedure 1597 1604	CD8/CD3
+T24	DiagnosticProcedure 1696 1699	CD3
+T25	DiagnosticProcedure 1701 1704	CD4
+T26	DiagnosticProcedure 1713 1726	tỉ lệ CD4/CD3
+T27	DiagnosticProcedure 1139 1142	CD3
+T28	DiagnosticProcedure 1171 1174	CD8
+T29	DiagnosticProcedure 1237 1240	CD3
+T30	DiagnosticProcedure 1242 1245	CD4

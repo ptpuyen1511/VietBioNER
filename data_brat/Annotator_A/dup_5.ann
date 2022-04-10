@@ -1,0 +1,50 @@
+T1	Organisation 1 23	BỘ GIÁO DỤC VÀ ĐÀO TẠO
+T2	Organisation 24 31	BỘ Y TẾ
+T3	Organisation 32 68	ĐẠI HỌC Y DƯỢC THÀNH PHỐ HỒ CHÍ MINH
+T4	Symptom_and_Disease 100 115	LAO PHỔI AFB(+)
+T5	Location 142 157	TỈNH TIỀN GIANG
+T6	Symptom_and_Disease 756 762	AFB(+)
+T7	Location 218 233	TP. Hồ Chí Minh
+T8	DateTime 236 240	2004
+T9	Symptom_and_Disease 254 262	Bệnh lao
+T10	Symptom_and_Disease 270 286	bệnh nhiễm trùng
+T11	Symptom_and_Disease 297 305	bệnh lao
+T12	Organisation 391 397	TCYTTG
+T13	Location 399 407	Việt Nam
+T14	Symptom_and_Disease 481 489	lao phổi
+T15	Symptom_and_Disease 676 684	lao phổi
+T16	DateTime 800 808	năm 1990
+T17	DateTime 816 824	năm 1995
+T18	DateTime 832 840	năm 2000
+T19	DateTime 850 858	năm 2002
+T20	Symptom_and_Disease 910 923	bệnh lao phổi
+T21	Symptom_and_Disease 1155 1163	bệnh lao
+T22	DateTime 1338 1351	Tháng 11/1994
+T23	Symptom_and_Disease 1453 1460	bệnh la
+T24	Symptom_and_Disease 1505 1525	bệnh lao kháng thuốc
+T25	Symptom_and_Disease 1591 1610	lao phổi dương tính
+T26	Symptom_and_Disease 1664 1683	lao phổi dương tính
+T27	Symptom_and_Disease 1798 1813	lao phổi AFB(+)
+T28	Symptom_and_Disease 2231 2246	lao phổi AFB(+)
+T29	Location 2796 2811	tỉnh Tiền Giang
+T30	DateTime 2822 2852;2853 2857	từ tháng 01/1998 đến tháng 01/ 2003
+T31	Symptom_and_Disease 3022 3030	lao phổi
+T32	Location 3046 3061	tỉnh Tiền Giang
+T33	Symptom_and_Disease 743 746;747 751	lao phổi
+T34	Symptom_and_Disease 2750 2758	lao phổi
+T35	Symptom_and_Disease 459 462	lao
+T36	Symptom_and_Disease 596 599	lao
+T37	Symptom_and_Disease 999 1007	lao phổi
+T38	Symptom_and_Disease 1011 1013	ho
+T39	Symptom_and_Disease 497 500	lao
+T40	Symptom_and_Disease 537 540	lao
+T41	Symptom_and_Disease 1031 1034	lao
+T42	Symptom_and_Disease 1056 1059	lao
+T43	Symptom_and_Disease 1214 1222	lao phổi
+T44	Symptom_and_Disease 1298 1301	lao
+T45	Symptom_and_Disease 2964 2967	lao
+T46	Symptom_and_Disease 3142 3150	lao phối
+T47	DateTime 158 192	TỪ THÁNG 01/1998 ĐẾN THÁNG 01/2003
+T48	Symptom_and_Disease 2763 2769	AFB(+)
+T49	Symptom_and_Disease 3035 3041	AFB(+)
+T50	DiagnosticProcedure 3343 3349	oi đàm

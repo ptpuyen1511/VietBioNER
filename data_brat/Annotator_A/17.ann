@@ -1,0 +1,69 @@
+T1	Symptom_and_Disease 202 228	TRÀN DỊCH MÀNG PHỔI DO LAO
+T2	Organisation 2 24	BỘ GIÁO DỤC VÀ ĐÀO TẠO
+T3	Organisation 25 32	BỘ Y TẾ
+T4	DateTime 363 371	Năm 2018
+T5	Symptom_and_Disease 383 386	Lao
+T6	Organisation 475 496	Tổ chức Y tế thế giới
+T7	Organisation 498 501	WHO
+T8	DateTime 503 507	2010
+T9	Symptom_and_Disease 532 535	lao
+T10	Symptom_and_Disease 560 563	HIV
+T11	Symptom_and_Disease 592 600	bệnh lao
+T12	Symptom_and_Disease 682 685	lao
+T13	Symptom_and_Disease 758 761	Lao
+T14	Symptom_and_Disease 820 833;834 838	ràn dịch màng phổi
+T15	Symptom_and_Disease 941 960	bệnh lao ngoài phổi
+T16	Organisation 992 1013	Viện lao và bệnh phổi
+T17	Symptom_and_Disease 1048 1074	tràn dịch màng phối do lao
+T18	DiagnosticProcedure 1241 1258	chọc dò màng phổi
+T19	DiagnosticProcedure 1322 1342	sinh thiết màng phổi
+T20	DiagnosticProcedure 1628 1648	Sinh thiết màng phổi
+T21	Location 1831 1839	Việt Nam
+T22	Symptom_and_Disease 1876 1879	lao
+T23	DiagnosticProcedure 1400 1424	phân tích dịch màng phổi
+T24	DiagnosticProcedure 1913 1937	phân tích dịch màng phổi
+T25	DiagnosticProcedure 1970 1994	AFB dương tính trong đàm
+T26	Symptom_and_Disease 2066 2074	lao phổi
+T27	Symptom_and_Disease 2035 2054	tràn dịch màng phổi
+T28	DiagnosticProcedure 2080 2083	AFB
+T29	Symptom_and_Disease 2130 2141	TDMP do lao
+T30	Symptom_and_Disease 2585 2596	TDMP do lao
+T31	Symptom_and_Disease 3138 3149	TDMP do lao
+T32	Symptom_and_Disease 3485 3496	TDMP do lao
+T33	Location 3515 3523	Việt Nam
+T34	DiagnosticProcedure 3616 3623	PCR lao
+T35	DiagnosticProcedure 3677 3697	sinh thiết màng phổi
+T36	Symptom_and_Disease 4020 4031	TDMP do lao
+T37	Symptom_and_Disease 5165 5191	tràn dịch màng phổi do lao
+T38	Symptom_and_Disease 5534 5545	TDMP do lao
+T39	Location 1077 1085	Việt Nam
+T40	Symptom_and_Disease 1159 1163;1164 1178	tràn dịch màng phổi
+T41	Location 345 360	TP. Hô Chí Minh
+T42	Location 896 904	Việt Nam
+T43	Symptom_and_Disease 905 916	TDMP do lao
+T44	Symptom_and_Disease 1699 1710	TDMP do lao
+T45	Symptom_and_Disease 2204 2223	tràn dịch màng phổi
+T46	Symptom_and_Disease 2491 2510	tràn dịch màng phổi
+T47	Symptom_and_Disease 4359 4370	TDMP do lao
+T48	Symptom_and_Disease 4585 4596	TDMP do lao
+T49	Symptom_and_Disease 5017 5031;5032 5043	tràn dịch màng phổi do lao
+T50	Symptom_and_Disease 5637 5648	TDMP do lao
+T51	Symptom_and_Disease 2897 2904	ung thư
+T52	DiagnosticProcedure 5245 5265;5266 5275	Phosphatse kiềm dịch màng phổi
+T53	DiagnosticProcedure 5277 5284	ALP DMP
+T54	DiagnosticProcedure 5342 5365	Lysozyme dịch màng phổi
+T55	DiagnosticProcedure 5367 5374	Lys DMP
+T56	DiagnosticProcedure 5436 5470	Adenosine deaminase dịch màng phổi
+T57	DiagnosticProcedure 5484 5515	Interferon gamma dịch màng phổi
+T58	DiagnosticProcedure 5472 5475;5476 5479	ADA DMP
+T59	DiagnosticProcedure 5517 5526	INF-y DMP
+T60	Symptom_and_Disease 650 657	HIV (+)
+T61	Symptom_and_Disease 840 844	TDMP
+T62	Symptom_and_Disease 2343 2346	lao
+T63	Symptom_and_Disease 2391 2394	lao
+T64	Symptom_and_Disease 2573 2576	lao
+T65	Symptom_and_Disease 2731 2734	lao
+T66	Symptom_and_Disease 2962 2965	lao
+T67	Symptom_and_Disease 1603 1606	lao
+T68	Symptom_and_Disease 1740 1743	lao
+T69	Organisation 33 69	ĐẠI HỌC Y DƯỢC THÀNH PHỐ HÒ CHÍ MINH

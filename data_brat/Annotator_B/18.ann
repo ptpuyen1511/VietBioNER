@@ -1,0 +1,43 @@
+T1	DateTime 128 136	Năm 1994
+T2	Organisation 138 159	Tổ chức Y tế thế giới
+T3	Organisation 161 167	TCYTTG
+T4	Symptom_and_Disease 218 221	lao
+T5	Symptom_and_Disease 273 280	lao mới
+T6	Location 454 462	Việt Nam
+T7	Symptom_and_Disease 464 472	bệnh lao
+T8	Symptom_and_Disease 576 579	lao
+T9	Symptom_and_Disease 644 651	lao mới
+T10	Symptom_and_Disease 737 740	lao
+T11	Symptom_and_Disease 795 803	bệnh lao
+T12	Symptom_and_Disease 930 933	lao
+T13	Symptom_and_Disease 944 947	lao
+T14	Symptom_and_Disease 1019 1022	lao
+T15	Symptom_and_Disease 1079 1087	bệnh lao
+T16	Symptom_and_Disease 1131 1134	lao
+T17	Symptom_and_Disease 1224 1232	lao phổi
+T18	DiagnosticProcedure 1252 1294;1296 1316	soi kính hiển vi xác định trực khuẩn kháng cồn kháng axit (AFB)
+T19	DiagnosticProcedure 1320 1352	nuôi cấy phân lập trực khuẩn lao
+T20	Symptom_and_Disease 1426 1429	lao
+T21	Symptom_and_Disease 1434 1448	lao ngoài phổi
+T22	Symptom_and_Disease 1450 1460	lao trẻ em
+T23	Symptom_and_Disease 1465 1485	lao phổi AFB âm tính
+T24	DiagnosticProcedure 1974 1987	tiêm trong da
+T25	DiagnosticProcedure 1989 1998	skin test
+T26	Symptom_and_Disease 2876 2890	lao ngoài phổi
+T27	DiagnosticProcedure 2841 2848	soi đờm
+T28	Symptom_and_Disease 2984 2987	lao
+T29	Symptom_and_Disease 3114 3117	lao
+T30	Symptom_and_Disease 3216 3224	bệnh lao
+T31	DiagnosticProcedure 3283 3287;3289 3301	miễn dịch gắn men
+T32	DiagnosticProcedure 3303 3308	ELISA
+T33	Symptom_and_Disease 3912 3929	bệnh truyền nhiễm
+T34	Symptom_and_Disease 3973 3981	bệnh lao
+T35	Symptom_and_Disease 4074 4082	bệnh lao
+T36	Symptom_and_Disease 4650 4653	lao
+T37	DiagnosticProcedure 4698 4715	miễn dịch gắn men
+T38	DiagnosticProcedure 4717 4722	ELISA
+T39	DiagnosticProcedure 4933 4938	ELISA
+T40	Symptom_and_Disease 5147 5150	lao
+T41	DiagnosticProcedure 5195 5212	miễn dịch gắn men
+T42	DiagnosticProcedure 5214 5219	ELISA
+T43	Symptom_and_Disease 2612 2615	lao

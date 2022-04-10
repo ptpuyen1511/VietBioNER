@@ -1,0 +1,62 @@
+T1	Organisation 0 22	BỘ GIÁO DỤC VÀ ĐÀO TẠO
+T2	Organisation 23 30	BỘ Y TẾ
+T3	Organisation 32 63	VIỆN VỆ SINH DỊCH TẾ HỌC HÀ NỘI
+T4	Organisation 161 169	LAO PHỔI
+T5	Location 206 223	PHÍA BẮC VIỆT NAM
+T6	DateTime 225 236	1989 - 1992
+T7	Location 320 326	HÀ NỘI
+T8	DateTime 329 333	1996
+T9	Symptom_and_Disease 370 378	bệnh lao
+T10	Organisation 478 484	TCYTTG
+T11	DateTime 559 567	năm 1990
+T12	DateTime 600 605;606 610	năm - 1995
+T13	Symptom_and_Disease 718 721	lao
+T14	DateTime 689 700	1990 - 2000
+T15	Location 795 803;804 805	Đông Nam Á
+T16	Symptom_and_Disease 768 771	lao
+T17	Location 820 839	Tây Thái Bình Dương
+T18	Location 855 865	nam Sahara
+T19	Location 867 870;871 875	Phi Châu
+T20	DateTime 882 890	năm 2000
+T21	Symptom_and_Disease 891 899	bệnh lao
+T22	Symptom_and_Disease 1158 1176	lao đa kháng thuốc
+T23	Symptom_and_Disease 1205 1208	lao
+T24	Symptom_and_Disease 1215 1218	HIV
+T25	Symptom_and_Disease 1245 1251;1252 1263	lao đa kháng thuốc
+T26	Symptom_and_Disease 1279 1287	bệnh lao
+T27	Symptom_and_Disease 1573 1576	lao
+T28	Organisation 1624 1630	TCYTTG
+T29	Location 1828 1843	Châu Mỹ la tinh
+T30	DateTime 1855 1865	1980 -1990
+T31	Symptom_and_Disease 1893 1901	lao phổi
+T32	Symptom_and_Disease 2007 2021	ao kháng thuốc
+T33	Location 2063 2073	Trung Quốc
+T34	Location 2024 2032	Châu Phi
+T35	DateTime 2074 2082	năm 1990
+T36	Location 2121 2131	Triều Tiên
+T37	DateTime 2137 2145	năm 1990
+T38	Location 2177 2179	Úc
+T39	Location 2181 2187	Hy lạp
+T40	Location 2189 2190	Ý
+T41	Location 2192 2195	Đức
+T42	Location 2211 2218	Châu Âu
+T43	Location 2222 2228	Bắc Mỹ
+T44	Location 2293 2301	Việt Nam
+T45	DateTime 2378 2386	năm 1956
+T46	Symptom_and_Disease 2644 2659	lao kháng thuốc
+T47	Location 2662 2670	Việt nam
+T48	DiagnosticProcedure 2945 2958	kháng sinh đồ
+T49	Organisation 3075 3081	TCYTTG
+T50	Organisation 3085 3108;3109 3111	Hiệp hội chống lao quốc tế
+T51	Symptom_and_Disease 3144 3159	lao kháng thuốc
+T52	Location 3528 3536	Việt nam
+T53	Symptom_and_Disease 3749 3752	lao
+T54	Symptom_and_Disease 3810 3813	lao
+T55	Location 3816 3824	Việt Nam
+T56	Symptom_and_Disease 3929 3937	lao phổi
+T57	DateTime 4099 4110	1989 - 1992
+T58	Symptom_and_Disease 505 508	lao
+T59	DateTime 659 667	năm 2000
+T60	Symptom_and_Disease 1982 1985	lao
+T61	Symptom_and_Disease 1353 1368	lao kháng thuốc
+T62	Symptom_and_Disease 986 989	lao

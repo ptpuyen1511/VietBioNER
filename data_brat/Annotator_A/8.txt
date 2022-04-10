@@ -1,0 +1,57 @@
+Y Học TP. Hồ Chí Minh * Tập 17 * Phụ bản của Số 4 * 2013 Nghiên cứu Y học
+
+KHẢO SÁT MỨC ĐỘ TƯƠNG TÁC THUỐC TRÊN BỆNH NHÂN LAO
+KHÁNG ĐA THUỐC TẠI BỆNH VIỆN PHẠM NGỌC THẠCH NĂM 2009-2011
+
+TÓM TẮT
+
+Mục tiêu: Khảo sát mức độ tương tác thuốc — thuốc có thể xảu ra (PDDIs) 0à đê xuất giải pháp khắc phục
+trons điều trị lao kháng ấn thuốc (MDR-TB).
+
+Phương pháp: Nghiên cứu lồi cứu uà mô tả cắt nsang. 393 hồ sơ bệnh án của các bệnh nhân MIDR-TB
+được điều trị nội trú tại Khoa B4 của Bệnh Viện Phạm Ngọc Thạch tì năm 2009 đến năm 2011 được chọn ngẫu
+nhiên. Các bệnh án được xử lý nhờ ba công cụ tra cứu tương tác thuốc là Drug InleracHon Facls (Facls
+Cơnparisons), LexI-Interact (Lexi-Comp) 0à InteracHon Checker (MIMS).
+
+Kết quả: Các thuốc thường sặp tương tác dần giám sát(can thiệp nhất là: fluoroquinolon, kháng histamin
+HH, gliclazid, aminoslucostd, cephñlosporin, muỗi calciitm, muối 1ragnesium, nsulin, nhóm aniacid, muối sắt 0à
+acid para-aminosaliculic. Tỷ lệ bệnh án có tương tác thuốc — thuốc cần giám sákcan thiệp là 39,442 (Lexi-Comp).
+Giải pháp được đê xuất là bằng tổng hợp các tương tác thuốc — thuốc thường gặp trong điều trị lao kháng đa
+thuốc.
+
+Kết luận: Nghiên cứu giúp cho thấi tức độ tương tác thuốc có thể xả ra uà đề xuất giải pháp để tăng hiệu
+quả điều trị 0à giằm tác dụng có hại.
+
+ĐẶT VẤN ĐỀ
+
+Điều trị bệnh lao kháng đa thuốc đòi hỏi
+người thầy thuốc phải có chuyên môn và sự
+hiểu biết đầy đủ, chắc chắn về cơ địa người
+bệnh cũng như các bệnh phối hợp và đặc biệt
+là các thuốc được chỉ định đồng thời; kể cả
+hiểu rõ tính năng của thuốc (chỉ định, chống
+chỉ định, liều lượng thuốc, tác dụng phụ...)
+bên cạnh đó, người bệnh cần được giải thích tỉ
+mỉ về cách sử dụng thuốc hợp lý để đạt được
+hiệu quả điều trị cao nhất và hạn chế tác dụng
+phụ, độc tính của thuốc. Đồng thời, vì có
+nhiều thuốc được chỉ định cho bệnh nhân lao
+kháng thuốc nên cần thiết phải giám sát bệnh
+nhân khi bắt đầu điều trị với bất kỳ một thuốc
+nào, bao gồm cả các thuốc được bán không
+cần đơn như các dạng thuốc bổ sung vitamin
+và chất khoáng, các thuốc kháng acid, hay các
+thuốc từ dược thảo”). Cho đến thời điểm hiện
+tại, các nghiên cứu về phản ứng có hại nói
+chung của thuốc kháng lao đã được báo cáo
+nhiều; tuy nhiên, các nghiên cứu về tương tác
+thuốc, đặc biệt là các thuốc kháng lao hàng II ít
+được báo cáo hơnú9, Đây là các thuốc có độc
+tính cao và vấn đề tương tác với các thuốc
+điều trị các bệnh kèm theo không dễ dự đoán
+và ngăn ngừa được. Chính vì vậy, chúng tôi
+tiến hành đề tài với mục tiêu nghiên cứu là
+khảo sát mức độ tương tác thuốc - thuốc có
+thể xảy ra (PDDIs) và đề xuất giải pháp khắc
+phục PDDIs trong điều trị lao kháng đa thuốc
+(MDR-TB).

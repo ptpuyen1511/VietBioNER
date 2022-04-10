@@ -1,0 +1,31 @@
+T1	Symptom_and_Disease 87 98	TDMP do lao
+T2	Symptom_and_Disease 144 156	TDMP ác tính
+T3	Symptom_and_Disease 204 215	TDMP do lao
+T4	Symptom_and_Disease 265 277	TDMP ác tính
+T5	Symptom_and_Disease 326 329	sốt
+T6	Symptom_and_Disease 331 345	ra mồ hồi trộm
+T7	Symptom_and_Disease 348 359	TDMP do lao
+T8	Symptom_and_Disease 372 379;380 384	TDMP ác tính
+T9	Symptom_and_Disease 517 528	TDMP do lao
+T10	Symptom_and_Disease 561 573	TDMP ác tính
+T11	Symptom_and_Disease 646 657	TDMP do lao
+T12	Symptom_and_Disease 699 711	TDMP ác tính
+T13	Symptom_and_Disease 741 752	TDMP do lao
+T14	Symptom_and_Disease 785 797	TDMP ác tính
+T15	Symptom_and_Disease 863 882	Tràn dịch màng phổi
+T16	Symptom_and_Disease 884 888	TDMP
+T17	Symptom_and_Disease 979 983	TDMP
+T18	Symptom_and_Disease 1017 1020	lao
+T19	Symptom_and_Disease 1022 1029	ung thư
+T20	Symptom_and_Disease 1031 1036;1037 1042	nhiễm khuẩn
+T21	Symptom_and_Disease 1044 1057	bệnh tìm mạch
+T22	Location 1066 1074	Việt Nam
+T23	Symptom_and_Disease 1131 1135	TDMP
+T24	Symptom_and_Disease 1152 1163	TDMP do lao
+T25	Symptom_and_Disease 1174 1200	TDMP do căn nguyên ác tính
+T26	Symptom_and_Disease 1229 1233	TDMP
+T27	Symptom_and_Disease 1268 1272	TDMP
+T28	Symptom_and_Disease 1467 1471	TDMP
+T29	Symptom_and_Disease 1579 1583	TDMP
+T30	Symptom_and_Disease 1679 1682	lao
+T31	Symptom_and_Disease 1896 1899	lao

@@ -1,0 +1,62 @@
+T1	Symptom_and_Disease 32 35	lao
+T2	Symptom_and_Disease 84 87	lao
+T3	Symptom_and_Disease 205 208	lao
+T4	Location 230 236	TP.HCM
+T5	Symptom_and_Disease 296 299	lao
+T6	DateTime 416 420	1995
+T7	Symptom_and_Disease 460 463	lao
+T8	Location 493 499	TP.HCM
+T9	DateTime 617 626	1995-2000
+T10	Symptom_and_Disease 593 596	lao
+T11	Location 731 737	TP.HCM
+T12	Symptom_and_Disease 757 760	lao
+T13	Symptom_and_Disease 836 839	lao
+T14	Symptom_and_Disease 875 878	lao
+T15	DateTime 882 891	1990-1995
+T16	Symptom_and_Disease 907 910	lao
+T17	DateTime 1022 1025;1026 1030	năm 2000
+T18	Symptom_and_Disease 1094 1097	lao
+T19	Symptom_and_Disease 1120 1123	lao
+T20	DateTime 1185 1189	2000
+T21	Location 1263 1269	TP.HCM
+T22	Symptom_and_Disease 1300 1303	lao
+T23	Symptom_and_Disease 1459 1462	lao
+T24	Symptom_and_Disease 1509 1517	Bệnh lao
+T25	Symptom_and_Disease 1571 1580	lao xương
+T26	DateTime 1604 1630	4000 năm trước công nguyên
+T27	Symptom_and_Disease 1710 1718	bệnh lao
+T28	DateTime 1721 1729	Năm 1862
+T29	Symptom_and_Disease 1775 1779;1780 1783	bệnh lao
+T30	DateTime 1823 1827	1882
+T31	Symptom_and_Disease 1888 1896	bệnh lao
+T32	Symptom_and_Disease 1959 1962	lao
+T33	Symptom_and_Disease 1994 1997	lao
+T34	Symptom_and_Disease 2056 2059	lao
+T35	Symptom_and_Disease 2114 2117	lao
+T36	DateTime 2130 2143	Năm 1908-1924
+T37	Symptom_and_Disease 2188 2191	lao
+T38	DateTime 2203 2211	năm 1949
+T39	Symptom_and_Disease 2236 2239	lao
+T40	Symptom_and_Disease 2257 2265	Bệnh lao
+T41	Symptom_and_Disease 2327 2335	bệnh lao
+T42	Symptom_and_Disease 2393 2401	bệnh lao
+T43	Symptom_and_Disease 2464 2467	lao
+T44	Symptom_and_Disease 2515 2518	lao
+T45	Symptom_and_Disease 2548 2551	lao
+T46	Symptom_and_Disease 2609 2612	lao
+T47	Symptom_and_Disease 2708 2716	bệnh lao
+T48	Location 2814 2822	Việt nam
+T49	Location 2826 2832	TP.HCM
+T50	Symptom_and_Disease 2801 2809	bệnh lao
+T51	DateTime 2843 2851	năm 1990
+T52	Organisation 2873 2880	Bộ y tế
+T53	Symptom_and_Disease 2890 2894;2895 2898	bệnh lao
+T54	Symptom_and_Disease 2975 2983	bệnh lao
+T55	DateTime 3055 3063	Năm 1994
+T56	Organisation 3081 3102	Viện Lao và Bệnh Phổi
+T57	Symptom_and_Disease 3137 3144	lao mới
+T58	Symptom_and_Disease 3208 3220	lao phổi mới
+T59	Symptom_and_Disease 950 953	lao
+T60	Symptom_and_Disease 1018 1021	lao
+T61	Symptom_and_Disease 536 539	lao
+T62	Symptom_and_Disease 1491 1494	lao

@@ -1,0 +1,75 @@
+T1	DateTime 44 48	2013
+T2	Organisation 53 74	Tổ chức Y tế Thế giới
+T3	Organisation 76 79	WHO
+T4	DateTime 88 96	năm 2012
+T5	Symptom_and_Disease 137 140	lao
+T6	Symptom_and_Disease 31 34	lao
+T7	Symptom_and_Disease 166 169	lao
+T8	Symptom_and_Disease 195 198	lao
+T9	Symptom_and_Disease 211 228;229 232	lao có đồng nhiễm HIV
+T10	Symptom_and_Disease 264 267	lao
+T11	Symptom_and_Disease 296 303	lao mới
+T12	Symptom_and_Disease 318 339	lao có đồng nhiễm HIV
+T13	Symptom_and_Disease 395 398	lao
+T14	Symptom_and_Disease 434 452	lao kháng đa thuốc
+T15	Location 341 349	Việt Nam
+T16	DateTime 496 500	2012
+T17	Symptom_and_Disease 526 529;530 544	lao kháng đa thuốc
+T18	Organisation 564 567	WHO
+T19	DateTime 581 589	năm 2011
+T20	Symptom_and_Disease 608 626	lao kháng đa thuốc
+T21	Symptom_and_Disease 667 679;680 685	lao kháng đa thuốc
+T22	Symptom_and_Disease 723 731	bệnh lao
+T23	Symptom_and_Disease 864 867	lao
+T24	Symptom_and_Disease 898 905	lao mới
+T25	Symptom_and_Disease 919 937	lao kháng đa thuốc
+T26	Symptom_and_Disease 983 986;987 1001	lao kháng đa thuốc
+T27	Symptom_and_Disease 945 948	lao
+T28	Symptom_and_Disease 1016 1034	lao kháng đa thuốc
+T29	Symptom_and_Disease 1101 1119	lao kháng đa thuốc
+T30	Symptom_and_Disease 1123 1143	lao siêu kháng thuốc
+T31	Symptom_and_Disease 1172 1190	lao kháng đa thuốc
+T32	DateTime 1205 1213	năm 2012
+T33	Symptom_and_Disease 1259 1277	lao kháng đa thuốc
+T34	Symptom_and_Disease 1282 1310	Viêm phổi mắc phải cộng đồng
+T35	DiagnosticProcedure 1422 1429;1430 1439	X-quang lồng ngực
+T36	Symptom_and_Disease 1474 1485	ran khu trú
+T37	Symptom_and_Disease 1599 1627	viêm phổi mắc phải cộng đồng
+T38	Symptom_and_Disease 1643 1651	lao phối
+T39	Symptom_and_Disease 1741 1769	viêm phổi mắc phải cộng đồng
+T40	DiagnosticProcedure 1819 1827	X- quang
+T41	Symptom_and_Disease 1848 1851	lao
+T42	Symptom_and_Disease 1895 1898	lao
+T43	Symptom_and_Disease 2367 2395	viêm phổi mắc phải cộng đồng
+T44	Symptom_and_Disease 2416 2419	lao
+T45	Symptom_and_Disease 2631 2634	lao
+T46	Symptom_and_Disease 2684 2725	viêm phổi mắc phải cộng đồng không do lao
+T47	Symptom_and_Disease 2974 2977	lao
+T48	Symptom_and_Disease 2992 3033	viêm phổi mắc phải cộng đồng không do lao
+T49	Symptom_and_Disease 3102 3125;3126 3143	viêm phổi mắc phải cộng đồng không do lao
+T50	Symptom_and_Disease 3209 3217	bệnh lao
+T51	DiagnosticProcedure 3145 3157	Nuôi cấy đàm
+T52	DiagnosticProcedure 3288 3322	Phết đàm tìm trực khuẩn kháng axít
+T53	Symptom_and_Disease 3574 3582	bệnh lao
+T54	Symptom_and_Disease 3839 3847	bệnh lao
+T55	Symptom_and_Disease 3918 3921	lao
+T56	Symptom_and_Disease 4006 4014	lao phổi
+T57	Symptom_and_Disease 4114 4131	LAO PHỎI TÁI PHÁT
+T58	Symptom_and_Disease 4136 4164	VIÊM PHỎI MẮC PHẢI CỘNG ĐÔNG
+T59	Symptom_and_Disease 4220 4228	LAO PHÔI
+T60	Symptom_and_Disease 4304 4327;4328 4332	viêm phổi mắc phải cộng đông
+T61	Symptom_and_Disease 4282 4290	lao phôi
+T62	Symptom_and_Disease 3722 3730	lao phôi
+T63	Symptom_and_Disease 3734 3752;3753 3775	viêm phôi mắc phải cộng đồng không do lao
+T64	Symptom_and_Disease 4388 4396	lao phối
+T65	DiagnosticProcedure 4451 4458	X-quang
+T66	DiagnosticProcedure 4460 4468	sinh hóa
+T67	DiagnosticProcedure 4470 4479	huyết học
+T68	DiagnosticProcedure 4481 4488	vi sinh
+T69	Symptom_and_Disease 4490 4507	lao phổi tái phát
+T70	Symptom_and_Disease 4512 4540	viêm phổi mắc phải cộng đồng
+T71	Symptom_and_Disease 4596 4604	lao phổi
+T72	Symptom_and_Disease 4639 4656	lao phổi tái phát
+T73	Symptom_and_Disease 4712 4720	lao phôi
+T74	Symptom_and_Disease 4756 4784	viêm phôi mặc phải cộng đông
+T75	Symptom_and_Disease 2501 2504	lao

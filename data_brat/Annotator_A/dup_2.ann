@@ -1,0 +1,40 @@
+T1	Symptom_and_Disease 88 96	bệnh lao
+T2	Symptom_and_Disease 111 119	lao phổi
+T3	Symptom_and_Disease 120 122	ho
+T4	DiagnosticProcedure 620 635	Ziehl - Neelsen
+T5	DiagnosticProcedure 576 587	huỳnh quang
+T6	DiagnosticProcedure 751 762	huỳnh quang
+T7	DiagnosticProcedure 979 982	Z-N
+T8	DiagnosticProcedure 1040 1043	Z.N
+T9	DiagnosticProcedure 1093 1098;1100 1105	huỳnh quang
+T10	Symptom_and_Disease 1412 1415	lao
+T11	Symptom_and_Disease 1598 1606	bệnh Lao
+T12	Symptom_and_Disease 1682 1690	bệnh Lao
+T13	DateTime 1804 1813	24/4/1993
+T14	Organisation 1830 1836	TCYTTG
+T15	Symptom_and_Disease 1851 1859	Bệnh Lao
+T16	Organisation 1941 1944	WHO
+T17	Organisation 1948 1966;1968 1975	Hiệp hội chống lao quốc tế
+T18	Organisation 1948 1966;1968 1975	Hiệp hội chống lao quốc tế
+T19	Symptom_and_Disease 2032 2035	lao
+T20	Symptom_and_Disease 2098 2114	lao phổi AFB (+)
+T21	Symptom_and_Disease 2197 2205;2209 2219	lao phổi AFB(+) mới
+T22	Symptom_and_Disease 2268 2276	bệnh lao
+T23	Symptom_and_Disease 2583 2591	bệnh lao
+T24	DiagnosticProcedure 2661 2696	soi đàm trực tiếp bằng kính hiển vi
+T25	DiagnosticProcedure 2808 2827	nhuộm Ziehl-Neelsen
+T26	DiagnosticProcedure 2829 2832	Z-N
+T27	Symptom_and_Disease 3168 3171	HIV
+T28	Symptom_and_Disease 3256 3259	lao
+T29	Symptom_and_Disease 3348 3378	lao phổi có vi khuẩn trong đàm
+T30	DiagnosticProcedure 3548 3553;3555 3562	Ziehl Neelsen
+T31	DiagnosticProcedure 3652 3661	nhuộm Z-N
+T32	DiagnosticProcedure 3672 3675;3677 3693	soi kính huỳnh quang
+T33	DiagnosticProcedure 3694 3720	HQ-FLUORESCENCE MICROSCOPE
+T34	DiagnosticProcedure 3879 3882;3884 3900	soi kính huỳnh quang
+T35	DiagnosticProcedure 4009 4029	soi kính huỳnh quang
+T36	DiagnosticProcedure 4391 4412	nhuộm Ziehl - Neelsen
+T37	DiagnosticProcedure 4417 4428	huỳnh quang
+T38	Organisation 4511 4520;4522 4554	trung tâm Lao và bệnh Phổi Phạm Ngọc Thạch
+T39	DateTime 4776 4794	tháng 8/96 và 9/96
+T40	DiagnosticProcedure 5071 5088	nhuộm huỳnh quang

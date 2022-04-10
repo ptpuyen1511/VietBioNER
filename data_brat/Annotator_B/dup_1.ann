@@ -1,0 +1,35 @@
+T1	Symptom_and_Disease 4 12	bệnh lao
+T2	DateTime 147 155	năm 1882
+T3	Symptom_and_Disease 179 187	bệnh lao
+T4	Organisation 293 314	Tổ chức Y Tế Thế Giới
+T5	Organisation 316 322	TCYTTG
+T6	Symptom_and_Disease 366 369	lao
+T7	DateTime 445 465	từ 2002 cho đến 2020
+T8	Symptom_and_Disease 497 500	lao
+T9	Organisation 506 533;534 546	Liên đoàn Chống Lao và bệnh phổi quốc tế
+T10	Location 572 580	Việt Nam
+T11	Symptom_and_Disease 1103 1106	lao
+T12	Symptom_and_Disease 1132 1152	bệnh lao kháng thuốc
+T13	Symptom_and_Disease 1191 1211	Bệnh lao kháng thuốc
+T14	Symptom_and_Disease 1356 1359	lao
+T15	Symptom_and_Disease 1454 1457	lao
+T16	Symptom_and_Disease 1482 1485	lao
+T17	Symptom_and_Disease 1543 1546	lao
+T18	Symptom_and_Disease 1686 1704	lao kháng đa thuốc
+T19	Location 1709 1717	Việt Nam
+T20	DateTime 1728 1731;1732 1743	năm 2004 — 2005
+T21	Symptom_and_Disease 1776 1784	lao phôi
+T22	Symptom_and_Disease 1791 1794	lao
+T23	Location 1841 1853	Tỉnh Long An
+T24	Symptom_and_Disease 1907 1918	lao AFB (+)
+T25	Location 1937 1944	Long An
+T26	Symptom_and_Disease 2073 2076	lao
+T27	DateTime 2089 2097	năm 2009
+T28	Symptom_and_Disease 2179 2182;2183 2195	lao phổi AFB (+)
+T29	Symptom_and_Disease 2231 2234	lao
+T30	Location 2248 2257;2258 2261	tỉnh Long An.
+T31	Location 2281 2288	Long An
+T32	Symptom_and_Disease 2434 2437	lao
+T33	Symptom_and_Disease 2520 2536	lao phôi AFB (+)
+T34	Location 2545 2557	tỉnh Long an
+T35	Symptom_and_Disease 2585 2601	lao phổi AFB (+)

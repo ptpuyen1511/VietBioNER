@@ -1,0 +1,87 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO BỘ Y TẾ
+ĐẠI HỌC Y DƯỢC TP HỒ CHÍ MINH
+
+HỨA TRUNG TIẾP
+
+KHÁNG THUỐC RIFAMPICIN
+TRÊN BỆNH NHÂN LAO PHỔI AFB(+) TÁI PHÁT
+BẰNG KỸ THUẬT GENEXPERT MTB/RIF
+TẠI THÀNH PHÓ CẢN THƠ NĂM 2016
+
+CHUYÊN NGÀNH : LAO
+Mã số: 62722401
+
+NGƯỜI HƯỚNG DẪN KHOA HỌC :
+BSCKII TRẦN MINH TRÚC HẰNG
+
+-THÀNH PHÓ HÒ CHÍ MINH ~ NĂM 2017
+
+ĐẶT VẤN ĐẾ
+
+Bệnh lao là một vấn đề lớn đối với sức khỏe toàn cầu đặc biệt là sự gia
+tăng tính kháng thuốc của các chủng Mycobacterium tuberculosis đã cản trở
+sự thành công của chương trình kiểm soát bệnh lao.
+
+Từ đầu những năm 1990 của thế kỷ trước, một xu hướng báo động là
+xuất hiện lao đa kháng thuốc, được định nghĩa là các chủng lao kháng ít nhất
+với isoniazid và rifampicin, hai thuốc chống lao mạnh nhất [80].
+
+Tình hình dịch tễ lao kháng thuốc đang có diễn biến phức tạp. Năm 2013
+trên toàn cầu ước tính tỷ lệ mắc lao đa kháng thuốc là 3,5 % trong số bệnh
+nhân mới và là 20,5 % trong số bệnh nhân điều trị lại [7], [116], [125].
+
+Tại Việt Nam tỷ lệ mắc lao đa kháng thuốc trong bệnh nhân mới là 4 %
+và trong bệnh nhân điều trị lại là 23% [6].
+
+Việt Nam hiện vẫn là nước có gánh nặng bệnh lao cao, đứng thứ 14 trong
+20 nước có nước có gánh nặng bệnh lao cao nhất thế giới, đồng thời đứng thứ
+11 trong số 20 nước có gánh nặng bệnh lao đa kháng thuốc cao nhất thế giới
+[7]. Với sự quan tâm chỉ đạo và đầu tư của Chính phủ, Bộ Y tế, các nhà tài trợ
+quốc tế, cùng với sự phối hợp và hỗ trợ tích cực của các cấp chính quyền địa
+phương, các tổ chức, đối tác trong và ngoài nước từ tháng 7 năm 2012 Bệnh
+viện Lao và Bệnh phổi Cần Thơ được trang bị máy Xpert MTB/RIF, với công
+nghệ này máy Xpert MTB/RIF cho phép xác định vi khuẩn lao với độ nhạy
+rất cao (99% người bệnh xét nghiệm đàm trực tiếp dương tính, 80% người
+bệnh xét nghiệm đàm trực tiếp âm tính, 91% với các trường hợp nuôi cấy
+dương tính và 72.5% với người nuôi cấy âm).
+
+Kỹ thuật Gene Xpert MTB/RIF cho kết quả nhanh chỉ trong vòng 2 giờ
+và rất đơn giản cho người dùng. Điều đặc biệt là máy có thể cho kết quả kép,
+tức là cùng một lần trả lời cho phép biết bệnh phẩm có vi khuẩn lao hay
+không, có nhiều hay ít và vi khuẩn có kháng với thuốc Rifampicin hay không.
+Kỹ thuật này là bước tiến đột phá trong cuộc chiến phòng chống lao hiện nay
+đã được Tổ chức Y tế Thế giới chứng thực tháng 12/2010 và khuyến cáo áp
+dụng trong công tác phòng chống lao, Xpert MTB/RIF nên được áp dụng làm
+xét nghiệm chân đoán ban đầu cho những trường hợp nghi mắc lao đa kháng
+thuốc hoặc lao đồng nhiễm HIV [19].
+
+Với việc sử dụng kỹ thuật GeneXpert trong việc chân đoán lao kháng
+Rifampicin cho kết quả nhanh và việc đưa vào điều trị lao đa kháng thuốc
+sớm, giảm bớt nguồn lây so với việc phải đợi chờ thời gian dài hơn đối với
+phương pháp nuôi cấy , làm kháng sinh đồ là có cơ sở khi các nghiên cứu cho
+thấy trên 90% các trường hợp nghiên cứu có kháng Rifampicin cũng kháng
+với Isoniazid vì vậy kháng Rifampicin được xem như một yếu tố chỉ điểm cho
+các trường hợp lao đa kháng thuốc [13], [100].
+
+Cần Thơ là một trong những tỉnh thành có tình hình dịch tễ của lao đa
+kháng thuốc cao so với các tỉnh thành khác trong cả nước, đặc biệt với nhóm
+bệnh lao tái phát thì nguy cơ kháng thuốc càng cao hơn nhiều.
+
+Để đánh giá tình hình lao kháng thuốc Rifampicin trong nhóm lao phổi
+AFB(+) tái phát tại Cần Thơ là bao nhiêu , những yếu tố nào làm tăng nguy
+cơ kháng thuốc Rifampicin trong số bệnh nhân lao phổi AFB(+) tái phát và
+có kế hoạch điều trị kịp thời, mang lại sức khỏe cho người bệnh và hạn chế
+nguồn lây lao kháng thuốc cho cộng đồng đó là lý do chúng tôi tiến hành
+nghiên cứu đề tài “Kháng thuốc Rifampicin trên bệnh nhân lao phổi AFB(+)
+tái phát bằng kỹ thuật Gene Xpert MTB/RIF tại thành phố Cần Thơ năm
+2016”
+Mục tiêu nghiên cứu :
+
+1. Xác định tỷ lệ kháng thuốc Rifampicin trên bệnh nhân lao phổi
+AFB(+) tái phát bằng kỹ thuật GeneXpert MTB/RIE.
+
+2. Mô tả đặc điểm dân số xã hội, đặc điểm lâm sàng, X-quang phổi
+
+3. Tìm hiểu các yếu tố liên quan đến kháng thuốc Rifampicin của bệnh
+nhân lao phổi AFB() tái phát
+

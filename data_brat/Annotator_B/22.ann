@@ -1,0 +1,99 @@
+T1	Organisation 0 22	BỘ GIÁO DỤC VÀ ĐÀO TẠO
+T2	Organisation 25 32	BỘ Y TẾ
+T3	Organisation 33 69	ĐẠI HỌC Y DƯỢC THÀNH PHÓ HÒ CHÍ MINH
+T4	Organisation 70 89	KHOA Y TẾ CÔNG CỘNG
+T5	Symptom_and_Disease 184 191	LAO PHỎ
+T6	Location 197 207	NINH THUẬN
+T7	DateTime 208 216	NĂM 2012
+T8	Location 295 310	T.P HÒ CHÍ MINH
+T9	DateTime 311 324	THÁNG 4/ 2012
+T10	Symptom_and_Disease 363 371	bệnh lao
+T11	Organisation 421 423;424 442	Tổ chức Y tế Thế Giới
+T12	Organisation 445 448	WHO
+T13	Symptom_and_Disease 450 458	bệnh lao
+T14	Symptom_and_Disease 593 608	lao kháng thuốc
+T15	Organisation 667 670	WHO
+T16	Organisation 672 678	TCYTTG
+T17	Organisation 682 685	WHO
+T18	DateTime 693 697	2011
+T19	DateTime 731 739	năm 2010
+T20	Symptom_and_Disease 770 773	lao
+T21	Symptom_and_Disease 822 825	lao
+T22	Symptom_and_Disease 838 841	HIV
+T23	Symptom_and_Disease 959 967	bệnh lao
+T24	DateTime 998 1006	năm 2006
+T25	Symptom_and_Disease 1021 1024	lao
+T26	DateTime 1037 1045	năm 2002
+T27	Symptom_and_Disease 1047 1055	bệnh lao
+T28	Organisation 1104 1110	TCYTTG
+T29	Symptom_and_Disease 1164 1167	lao
+T30	Organisation 1192 1213	Tổ chức Y tế Thế Giới
+T31	DateTime 1214 1222	năm 2011
+T32	Location 1233 1241	Việt Nam
+T33	Symptom_and_Disease 1281 1289	bệnh lao
+T34	Symptom_and_Disease 1326 1329	lao
+T35	Symptom_and_Disease 1380 1388	bệnh lao
+T36	Symptom_and_Disease 1396 1399	lao
+T37	Symptom_and_Disease 1469 1472	lao
+T38	Symptom_and_Disease 1645 1648	HIV
+T39	Symptom_and_Disease 1679 1682	lao
+T40	Symptom_and_Disease 1729 1732	HIV
+T41	DateTime 1777 1785	năm 2010
+T42	Organisation 1790 1796	TCYTTG
+T43	Symptom_and_Disease 1804 1822	Đồng nhiễm lao/HIV
+T44	Symptom_and_Disease 1855 1858	lao
+T45	Symptom_and_Disease 1923 1926	lao
+T46	Symptom_and_Disease 1978 1986	bệnh lao
+T47	DateTime 2001 2007;2008 2012	2006 — 2007
+T48	Symptom_and_Disease 2028 2031	lao
+T49	Symptom_and_Disease 2137 2152	lao phổi AFB(+)
+T50	Symptom_and_Disease 2181 2196	lao kháng thuốc
+T51	Symptom_and_Disease 2224 2227	lao
+T52	Location 2276 2291	tỉnh Ninh Thuận
+T53	Symptom_and_Disease 2292 2300	bệnh lao
+T54	Symptom_and_Disease 2386 2389	lao
+T55	Symptom_and_Disease 2436 2439	lao
+T56	Location 2463 2478	tỉnh Ninh Thuận
+T57	Symptom_and_Disease 2508 2516	bệnh lao
+T58	Symptom_and_Disease 2565 2585;2586 2595	lao phổi có vì trùng trong đàm
+T59	Symptom_and_Disease 2628 2636	bệnh lao
+T60	Symptom_and_Disease 2660 2668	lao phổi
+T61	Symptom_and_Disease 2725 2728	lao
+T62	DateTime 2825 2833	năm 2000
+T63	Symptom_and_Disease 2927 2935	bệnh lao
+T64	Symptom_and_Disease 2986 2989	lao
+T65	DateTime 3026 3034	năm 2001
+T66	DateTime 3065 3073	năm 2011
+T67	Symptom_and_Disease 3101 3109	lao phổi
+T68	DateTime 3141 3144;3145 3149	năm 2001
+T69	DateTime 3175 3183	năm 2011
+T70	Symptom_and_Disease 3191 3213	lao phổi M(+) tái phát
+T71	Symptom_and_Disease 3251 3264	lao phổi M(+)
+T72	DateTime 3397 3405	năm 2007
+T73	Symptom_and_Disease 3423 3436	lao phổi M(+)
+T74	Symptom_and_Disease 3541 3554	lao phối M(+)
+T75	Symptom_and_Disease 3979 3982	lao
+T76	Symptom_and_Disease 4212 4225	lao phối M(+)
+T77	Symptom_and_Disease 4322 4329	lao phổ
+T78	Symptom_and_Disease 4429 4432	lao
+T79	Symptom_and_Disease 4525 4533	lao phổi
+T80	Symptom_and_Disease 4654 4662;4663 4667	lao phổi M(+)
+T81	Symptom_and_Disease 4733 4746	lao phối M(+)
+T82	Symptom_and_Disease 4823 4831	lao phổi
+T83	Symptom_and_Disease 1575 1578	lao
+T84	Symptom_and_Disease 1595 1598	HIV
+T85	DateTime 1545 1553	Năm 2010
+T86	Symptom_and_Disease 1634 1637	lao
+T87	Symptom_and_Disease 1761 1764	lao
+T88	Symptom_and_Disease 4050 4053	lao
+T89	Symptom_and_Disease 4496 4504	bệnh lao
+T90	Symptom_and_Disease 919 936;937 940	lao có đồng nhiễm HIV
+T91	Symptom_and_Disease 870 888	đồng nhiễm lao/HIV
+T92	Symptom_and_Disease 3875 3878	lao
+T93	Location 3883 3898	tỉnh Ninh Thuận
+T94	Symptom_and_Disease 4638 4641	lao
+T95	Symptom_and_Disease 4580 4583	lao
+T96	Location 2043 2051	Việt Nam
+T97	Symptom_and_Disease 3505 3508	lao
+T98	Symptom_and_Disease 2077 2085	lao phổi
+T99	DiagnosticProcedure 2086 2091	AFB()

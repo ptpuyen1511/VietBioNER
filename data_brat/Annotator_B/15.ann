@@ -1,0 +1,43 @@
+T1	DateTime 90 98	NĂM 2005
+T2	DateTime 105 112	ăm 1994
+T3	Symptom_and_Disease 142 145	lao
+T4	Location 170 187;188 192	tỉnh Quảng nam-Đà nẵng
+T5	Symptom_and_Disease 418 421	lao
+T6	Location 66 83	QUẢNG NAM-ĐÀ NẴNG
+T7	Location 225 239	tỉnh Quảng nam
+T8	Location 263 280	thành phô Đà nẵng
+T9	Symptom_and_Disease 457 460	Lao
+T10	Location 582 596	tỉnh Quảng nam
+T11	Location 600 607	Đà nẵng
+T12	DateTime 525 533	năm 2000
+T13	DateTime 648 656	năm 2005
+T14	Location 687 704	Quảng nam-Đà nẵng
+T15	Symptom_and_Disease 767 770	lao
+T16	DiagnosticProcedure 772 805	phản ứng tubereulin-theo K.Styblo
+T17	Symptom_and_Disease 884 887	lao
+T18	Symptom_and_Disease 951 959	bệnh lao
+T19	Location 960 982	tỉnh Quảng nam-Đà năng
+T20	Location 1008 1025	Quảng nam-Đà nẵng
+T21	DateTime 1060 1068	năm 1994
+T22	DateTime 1083 1091	năm 1994
+T23	Symptom_and_Disease 1113 1116	lao
+T24	DateTime 1140 1148	năm 2000
+T25	Symptom_and_Disease 1170 1173	lao
+T26	DateTime 1197 1205	năm 2005
+T27	Symptom_and_Disease 1227 1230	lao
+T28	Symptom_and_Disease 1292 1295	lao
+T29	Symptom_and_Disease 1364 1367	lao
+T30	Location 1372 1394	tỉnh Quảng nam-Đà nẵng
+T31	Symptom_and_Disease 1420 1423	lao
+T32	Symptom_and_Disease 1495 1498	lao
+T33	Symptom_and_Disease 1525 1528	lao
+T34	Location 1599 1616	Quảng nam-Đà nẵng
+T35	DateTime 1651 1659	năm 1994
+T36	DateTime 1674 1682	năm 1994
+T37	Symptom_and_Disease 1704 1707	lao
+T38	DateTime 1731 1739	năm 2000
+T39	Symptom_and_Disease 1761 1764	lao
+T40	DateTime 1788 1796	năm 2005
+T41	DateTime 1822 1832	1& 12/2005
+T42	Location 1908 1917	Quảng nam
+T43	Location 1941 1948	Đà năng

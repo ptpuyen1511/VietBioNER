@@ -1,0 +1,22 @@
+T1	Symptom_and_Disease 18 37	TRÀN DỊCH MÀNG PHổI
+T2	Symptom_and_Disease 41 44	LA0
+T3	Symptom_and_Disease 58 61	Lao
+T4	Organisation 65 81	bệnh nhiễm khuẩn
+T5	Symptom_and_Disease 166 173	lao mới
+T6	Symptom_and_Disease 234 247	Lao màng phổi
+T7	Symptom_and_Disease 255 264;265 269	lao ngoài phổi
+T8	Symptom_and_Disease 292 300	lao hạch
+T9	Symptom_and_Disease 414 427	lao màng phổi
+T10	Symptom_and_Disease 485 488	lao
+T11	Symptom_and_Disease 513 517;518 521	bệnh lao
+T12	Location 546 554	Việt Nam
+T13	Symptom_and_Disease 556 569	lao màng phổi
+T14	Symptom_and_Disease 588 601	Lao màng phổi
+T15	Symptom_and_Disease 647 666	tràn dịch màng phổi
+T16	Symptom_and_Disease 719 732	lao màng phổi
+T17	Symptom_and_Disease 764 778	lao ngoài phổi
+T18	Symptom_and_Disease 851 864	lao màng phổi
+T19	Symptom_and_Disease 901 904	lao
+T20	Symptom_and_Disease 1020 1039;1040 1046	tràn dịch màng phỗi do lao
+T21	Symptom_and_Disease 705 708	lao
+T22	Symptom_and_Disease 930 934	TDMP

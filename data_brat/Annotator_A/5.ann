@@ -1,0 +1,31 @@
+T1	Location 6 21	TP. Hồ Chí Minh
+T2	DateTime 48 52	2008
+T3	DiagnosticProcedure 83 102	PHẢN ỨNG LAO TỐ IDR
+T4	Symptom_and_Disease 131 139	BỆNH LAO
+T5	Symptom_and_Disease 229 237	bệnh lao
+T6	DiagnosticProcedure 197 200	IDR
+T7	Symptom_and_Disease 435 443	bệnh lao
+T8	Organisation 331 336;337 346	phòng khám số 3
+T9	Organisation 348 355	BV ĐHYD
+T10	DateTime 384 420	từ tháng 1-3-2005 đến tháng 1-3-2007
+T11	Symptom_and_Disease 459 476	bệnh lao phối hợp
+T12	DiagnosticProcedure 489 496	IDR (-)
+T13	Symptom_and_Disease 594 602	lao phối
+T14	Symptom_and_Disease 739 742	lao
+T15	DiagnosticProcedure 650 657	IDR (+)
+T16	DateTime 366 373	thứ hai
+T17	DiagnosticProcedure 792 799	IDR (-)
+T18	Symptom_and_Disease 955 958	lao
+T19	DiagnosticProcedure 909 916	X quang
+T20	DiagnosticProcedure 1034 1053	phản ứng lao tế IDR
+T21	Symptom_and_Disease 1119 1122	lao
+T22	DiagnosticProcedure 1127 1130	IDR
+T23	Symptom_and_Disease 1257 1260	lao
+T24	DiagnosticProcedure 1299 1302	IDR
+T25	Symptom_and_Disease 1381 1389	bệnh lao
+T26	DiagnosticProcedure 1396 1399	IDR
+T27	Symptom_and_Disease 1438 1441	lao
+T28	Symptom_and_Disease 1558 1561	lao
+T29	DiagnosticProcedure 1510 1513	IDR
+T30	DiagnosticProcedure 1627 1646	phản ứng lao tố IDR
+T31	Symptom_and_Disease 1675 1683	bệnh lao

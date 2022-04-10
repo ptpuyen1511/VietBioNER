@@ -1,0 +1,33 @@
+T1	Symptom_and_Disease 63 81	VIÊM GAN SIÊU VI B
+T2	Location 6 21	TP. Hồ Chí Minh
+T3	Symptom_and_Disease 113 116	LAO
+T4	Symptom_and_Disease 132 135	LAO
+T5	Symptom_and_Disease 139 147	HIV/AIDS
+T6	Symptom_and_Disease 214 232	viêm gan siêu vi B
+T7	Symptom_and_Disease 256 259	lao
+T8	Symptom_and_Disease 272 275	lao
+T9	Symptom_and_Disease 279 287	HIV/AIDS
+T10	Symptom_and_Disease 411 419	bệnh lao
+T11	Symptom_and_Disease 423 431	HIV/AIDS
+T12	Symptom_and_Disease 439 457	viêm gan siêu vi B
+T13	Symptom_and_Disease 506 522	viêm gan siêu vi
+T14	Symptom_and_Disease 602 605	lao
+T15	Symptom_and_Disease 609 617	HIV/AIDS
+T16	Symptom_and_Disease 621 637	viêm gan siêu vi
+T17	Symptom_and_Disease 670 673	lao
+T18	Symptom_and_Disease 740 758	viêm gan siêu vi B
+T19	Symptom_and_Disease 719 722	lao
+T20	Symptom_and_Disease 806 822	viêm gan siêu vi
+T21	Symptom_and_Disease 951 954	lao
+T22	Symptom_and_Disease 988 1005	viêm gan do thuốc
+T23	Symptom_and_Disease 1062 1079	viêm gan do thuốc
+T24	Symptom_and_Disease 1126 1142	viêm gan siêu vi
+T25	Symptom_and_Disease 1347 1365	Viêm gan siêu vi B
+T26	Symptom_and_Disease 1386 1389	lao
+T27	Symptom_and_Disease 1405 1408	lao
+T28	Symptom_and_Disease 1412 1420	HIV/AIDS
+T29	DateTime 347 372	tháng 09/2004 đến 09/2005
+T30	Symptom_and_Disease 1009 1037	phản ứng với thuốc kháng lao
+T31	AnnotatorNotes T30	Y41.1
+T32	Symptom_and_Disease 1083 1111	phản ứng với thuốc kháng lao
+T33	Organisation 1220 1236	uiêm gan siêu vi

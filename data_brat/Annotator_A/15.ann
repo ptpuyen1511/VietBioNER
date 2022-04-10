@@ -1,0 +1,32 @@
+T1	DateTime 25 35	thập kỷ 70
+T2	Symptom_and_Disease 93 101	bệnh lao
+T3	Symptom_and_Disease 210 218	HIV/AIDS
+T4	Symptom_and_Disease 228 236	bệnh lao
+T5	DateTime 288 296	Năm 2007
+T6	Organisation 298 304	TCYTTG
+T7	Location 309 317	Việt Nam
+T8	Location 339 366	khu vực Tây Thái Bình Dương
+T9	Symptom_and_Disease 386 394	bệnh lao
+T10	Location 429 439	Trung Quốc
+T11	Location 441 450	Philippin
+T12	Location 452 460	Việt Nam
+T13	Symptom_and_Disease 505 512	lao mới
+T14	Symptom_and_Disease 564 572	lao phổi
+T15	DiagnosticProcedure 628 645	Xquang phổi chuẩn
+T16	DiagnosticProcedure 647 673	soi đờm tìm trực khuẩn lao
+T17	Symptom_and_Disease 787 799	lao phổi mới
+T18	Symptom_and_Disease 997 1000;1002 1012	khí thũng phổi
+T19	Symptom_and_Disease 1042 1056	khí thũng phổi
+T20	Symptom_and_Disease 1081 1104	rối loạn thông khí phối
+T21	Symptom_and_Disease 1106 1111	RLTKP
+T22	DiagnosticProcedure 1238 1258	chụp cắt lớp vi tính
+T23	Symptom_and_Disease 1326 1334	lao phổi
+T24	AnnotatorNotes T21	(?)
+T25	AnnotatorNotes T22	(?)
+T26	DiagnosticProcedure 1557 1563	Xquang
+T27	DiagnosticProcedure 1565 1585	chụp cắt lóp vi tính
+T28	Symptom_and_Disease 1677 1694	lao phổi tái phát
+T29	DiagnosticProcedure 1775 1779	CLVT
+T30	DiagnosticProcedure 1839 1863	nội soi phế quản ống mêm
+T31	Symptom_and_Disease 1877 1889	lao phổi mới
+T32	DiagnosticProcedure 1260 1264	CLVT

@@ -1,0 +1,32 @@
+T1	Location 6 21	TP. Hồ Chí Minh
+T2	DiagnosticProcedure 68 81	NHUỘM SOI AFB
+T3	DiagnosticProcedure 83 99	CẤY VI KHUẨN LAO
+T4	DiagnosticProcedure 103 126	KHÁNG SINH ĐỒ KHÁNG LAO
+T5	DiagnosticProcedure 190 209	nhuộm soi trực tiếp
+T6	DiagnosticProcedure 241 262;263 266	cấy tìm vi khuẩn (VK) lao
+T7	Symptom_and_Disease 420 428	lao phổi
+T8	DateTime 52 56	2013
+T9	DiagnosticProcedure 1418 1436	soi cấy tìm VK lao
+T10	DiagnosticProcedure 1840 1863	NHUỘM SOI AEB TRỰC TIẾP
+T11	DiagnosticProcedure 1865 1901	Quan sát trực tiếp dưới kính hiển vi
+T12	Symptom_and_Disease 2037 2041;2042 2045	bệnh lao
+T13	DiagnosticProcedure 2750 2787;2788 2791	Ziehl-Neelsen tìm AFB trực tiếp trong đàm
+T14	Symptom_and_Disease 2943 2950	AFB (+)
+T15	DiagnosticProcedure 3044 3071	nhuộm soi tìm AFB trong đàm
+T16	DiagnosticProcedure 2301 2320	Nhuộm Ziehl-Neelsen
+T17	DiagnosticProcedure 2324 2337	nhuộm Kinyoun
+T18	DiagnosticProcedure 3026 3039	Ziehl-Neelsen
+T19	DiagnosticProcedure 2390 2403	Ziehl-Neelsen
+T20	DiagnosticProcedure 2485 2492	Kinyoun
+T21	Symptom_and_Disease 1057 1063	hôn mê
+T22	Symptom_and_Disease 1302 1305	lao
+T23	Symptom_and_Disease 392 395	lao
+T24	Symptom_and_Disease 1991 1994	lao
+T25	Symptom_and_Disease 2079 2082	lao
+T26	Symptom_and_Disease 2195 2198	lao
+T27	DiagnosticProcedure 2282 2298	nhuộm acid nhanh
+T28	Symptom_and_Disease 2634 2637	lao
+T29	DiagnosticProcedure 2230 2240	nhuộm Gram
+T30	Symptom_and_Disease 2973 2976	lao
+T31	Symptom_and_Disease 5049 5052	lao
+T32	DiagnosticProcedure 1927 1949	nhuộm acid nhanh (AFB)

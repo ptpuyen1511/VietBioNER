@@ -1,0 +1,86 @@
+T1	Organisation 0 22	BỘ GIÁO DỤC VÀ ĐÀO TẠO
+T2	Organisation 23 30	BỘ Y TẾ
+T3	Organisation 32 60	TRƯỜNG ĐẠI HỌC Y KHOA HÀ NỘI
+T4	Symptom_and_Disease 125 133	LAO PHỔI
+T5	Location 297 303	HÀ NỘI
+T6	DateTime 306 310	1996
+T7	DateTime 320 336	Tháng 4 năm 1993
+T8	Organisation 338 359	Tổ chức y tế thế giới
+T9	Organisation 361 364	WHO
+T10	Symptom_and_Disease 375 378	lao
+T11	Symptom_and_Disease 430 433	lao
+T12	Symptom_and_Disease 511 514	lao
+T13	Symptom_and_Disease 912 915	lao
+T14	DateTime 932 943	1990 - 1999
+T15	Symptom_and_Disease 982 985	lao
+T16	Symptom_and_Disease 1028 1031	lao
+T17	Location 1151 1161	Đông Nam Á
+T18	Symptom_and_Disease 1177 1180	lao
+T19	DateTime 1271 1282	1989 - 1991
+T20	DateTime 1308 1319	1984 - 1986
+T21	Organisation 1389 1392	WHO
+T22	Location 1395 1403	châu Phi
+T23	Location 1405 1415	Trung Đông
+T24	Location 1417 1427	Đông Nam Á
+T25	Location 1431 1450	Tây Thái Bình Dương
+T26	Symptom_and_Disease 1466 1469	lao
+T27	Location 1493 1512	châu Phi cận Sahara
+T28	Location 1530 1540	Đông Nam Á
+T29	Symptom_and_Disease 1604 1607	lao
+T30	Location 1666 1669	lao
+T31	Symptom_and_Disease 1788 1792	AIDS
+T32	Symptom_and_Disease 2058 2066	bệnh lao
+T33	Symptom_and_Disease 2156 2159	lao
+T34	Location 2270 2276	châu Á
+T35	Location 2280 2288	châu Phi
+T36	Symptom_and_Disease 2369 2372	lao
+T37	Location 2403 2405	Mỹ
+T38	DateTime 2330 2334	1986
+T39	Symptom_and_Disease 2483 2491	bệnh lao
+T40	DateTime 2653 2657	1957
+T41	Symptom_and_Disease 2678 2686	bệnh lao
+T42	DateTime 2761 2774	tháng 6/ 1990
+T43	Symptom_and_Disease 3147 3150	lao
+T44	Symptom_and_Disease 3258 3261	lao
+T45	Symptom_and_Disease 3611 3614	lao
+T46	DateTime 3226 3237	1986 - 1993
+T47	Symptom_and_Disease 3695 3703	bệnh lao
+T48	Symptom_and_Disease 3796 3799	lao
+T49	DiagnosticProcedure 3856 3871;3872 3887	phản ứng bì với tuberculin/ PPD
+T50	Symptom_and_Disease 4055 4058	lao
+T51	Symptom_and_Disease 4110 4118	bệnh lao
+T52	Symptom_and_Disease 4175 4183	bệnh lao
+T53	Symptom_and_Disease 4465 4473	bệnh lao
+T54	Symptom_and_Disease 4637 4640	lao
+T55	Symptom_and_Disease 4903 4906	lao
+T56	Symptom_and_Disease 4989 4997	bệnh lao
+T57	Symptom_and_Disease 5155 5163	bệnh lao
+T58	Symptom_and_Disease 5686 5689	lao
+T59	Symptom_and_Disease 6032 6035	lao
+T60	Symptom_and_Disease 6184 6192	bệnh lao
+T61	Symptom_and_Disease 6605 6608	lao
+T62	Symptom_and_Disease 6824 6832	lao phối
+T63	DiagnosticProcedure 6876 6902	phản ứng da với tuberculin
+T64	Symptom_and_Disease 7190 7198	lao phổi
+T65	Symptom_and_Disease 7503 7511	lao phổi
+T66	Symptom_and_Disease 7667 7670;7671 7675	lao phổi
+T67	Symptom_and_Disease 2188 2191	lao
+T68	Symptom_and_Disease 3317 3325	bệnh lao
+T69	Symptom_and_Disease 3337 3340	Lao
+T70	Symptom_and_Disease 3370 3373	Lao
+T71	Symptom_and_Disease 3414 3417	lao
+T72	Symptom_and_Disease 3454 3457	lao
+T73	Symptom_and_Disease 4597 4600	lao
+T74	Symptom_and_Disease 4956 4959	lao
+T75	Symptom_and_Disease 6269 6272	lao
+T76	Symptom_and_Disease 6462 6465	lao
+T77	Symptom_and_Disease 151 154	lao
+T78	Symptom_and_Disease 711 714	lao
+T79	DateTime 751 759	Năm 1992
+T80	DateTime 1115 1123	năm 1990
+T81	Symptom_and_Disease 2795 2798	lao
+T82	Symptom_and_Disease 3047 3050	lao
+T83	Symptom_and_Disease 6238 6241	lao
+T84	Symptom_and_Disease 3171 3174	lao
+T85	Symptom_and_Disease 2920 2923	lao
+T86	Symptom_and_Disease 1095 1098	lao

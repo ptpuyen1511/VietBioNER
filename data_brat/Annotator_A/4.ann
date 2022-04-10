@@ -1,0 +1,25 @@
+T1	Location 6 21	TP. Hồ Chí Minh
+T2	DateTime 39 43	2004
+T3	Symptom_and_Disease 62 79	ÁP XE LÁCH DO LAO
+T4	Symptom_and_Disease 142 159	áp xe lách do lao
+T5	DateTime 194 202	năm 2002
+T6	Symptom_and_Disease 241 257	đau hạ sườn trái
+T7	Symptom_and_Disease 261 279	sốt tái đi tái lại
+T8	Symptom_and_Disease 335 342	sốt nhẹ
+T9	Symptom_and_Disease 346 385	ấn đau ở một phần tư trên trái của bụng
+T10	DiagnosticProcedure 387 399	X quang phối
+T11	Symptom_and_Disease 412 425;426 431	lao phối tiến triển
+T12	DiagnosticProcedure 433 448	Tốc độ máu lắng
+T13	DiagnosticProcedure 455 467	Siêu âm bụng
+T14	Symptom_and_Disease 540 550	áp xe lách
+T15	DiagnosticProcedure 607 621	giải phẫu bệnh
+T16	Symptom_and_Disease 649 652	lao
+T17	Symptom_and_Disease 764 774	áp xe lách
+T18	Symptom_and_Disease 806 816	áp xe lách
+T19	Symptom_and_Disease 871 873;874 888	Áp xe lách do lao
+T20	Symptom_and_Disease 1023 1027	AIDS
+T21	Symptom_and_Disease 1046 1063	áp xe lách do lao
+T22	Symptom_and_Disease 1098 1116	suy giảm miễn dịch
+T23	Symptom_and_Disease 1132 1142	áp xe lách
+T24	Organisation 1161 1165;1166 1171	khoa Ngoại
+T25	Organisation 1172 1199	Bệnh viện Nhân dân Gia định

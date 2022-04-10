@@ -1,0 +1,52 @@
+T1	Symptom_and_Disease 0 8	Bệnh lao
+T2	Symptom_and_Disease 16 32	bệnh nhiễm trùng
+T3	Symptom_and_Disease 44 52	bệnh lao
+T4	Organisation 172 178	TCYTTG
+T5	Symptom_and_Disease 197 200	lao
+T6	Symptom_and_Disease 226 234	bệnh lao
+T7	Symptom_and_Disease 267 270	lao
+T8	Location 311 319	Việt Nam
+T9	Symptom_and_Disease 350 358	bệnh lao
+T10	Symptom_and_Disease 403 416	bệnh lao phổi
+T11	Location 426 444;445 455	vùng Châu Á - Thái Bình Dương
+T12	Location 460 468	Việt Nam
+T13	Symptom_and_Disease 486 494	bệnh lao
+T14	Location 516 526	Trung Quốc
+T15	Location 530 540	Philippine
+T16	DateTime 559 571	1996 — 2005,
+T17	Symptom_and_Disease 585 600	lao phổi AFB(+)
+T18	DateTime 620 628	năm 1996
+T19	DateTime 640 648	năm 2000
+T20	DateTime 652 660	năm 2005
+T21	DateTime 706 714	năm 1996
+T22	DateTime 726 734	năm 2005
+T23	Symptom_and_Disease 800 808	bệnh lao
+T24	Location 820 828	Việt Nam
+T25	DateTime 899 907	năm 1997
+T26	Symptom_and_Disease 937 945	bệnh lao
+T27	Symptom_and_Disease 982 985	lao
+T28	Symptom_and_Disease 986 988	ho
+T29	Symptom_and_Disease 1102 1110	bệnh lao
+T30	Symptom_and_Disease 1189 1192	lao
+T31	Symptom_and_Disease 1193 1195	ho
+T32	Symptom_and_Disease 1290 1298	lao phổi
+T33	Symptom_and_Disease 1511 1514	lao
+T34	Symptom_and_Disease 1546 1549;1550 1554	lao phổi
+T35	Symptom_and_Disease 1677 1680	lao
+T36	Location 1691 1705	tỉnh Sóc Trăng
+T37	Symptom_and_Disease 1774 1782	lao phổi
+T38	Symptom_and_Disease 1941 1949	lao phổi
+T39	Symptom_and_Disease 2083 2091	lao phổi
+T40	Symptom_and_Disease 2300 2303	lao
+T41	Organisation 2308 2349	Trung tâm Lao và Bệnh phổi tỉnh Sóc Trăng
+T42	DateTime 2356 2364	năm 2005
+T43	Symptom_and_Disease 2494 2497;2498 2502	lao phổi
+T44	Symptom_and_Disease 2755 2763	lao phối
+T45	DiagnosticProcedure 1458 1471	soi trực tiếp
+T46	DiagnosticProcedure 1641 1660	nhuộm Ziehl-Neelsen
+T47	DiagnosticProcedure 1614 1622;1623 1627	soi trực tiếp
+T48	DiagnosticProcedure 2124 2137	soi trực tiếp
+T49	DiagnosticProcedure 2409 2431	soi AFB/ đàm trực tiếp
+T50	DiagnosticProcedure 2446 2465	nhuộm Ziehl-Neelsen
+T51	DiagnosticProcedure 2467 2469	ZN
+T52	DiagnosticProcedure 2677 2685	nhuộm ZN

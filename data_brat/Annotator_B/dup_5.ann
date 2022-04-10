@@ -1,0 +1,44 @@
+T1	Organisation 1 23	BỘ GIÁO DỤC VÀ ĐÀO TẠO
+T2	Organisation 24 31	BỘ Y TẾ
+T3	Organisation 32 68	ĐẠI HỌC Y DƯỢC THÀNH PHỐ HỒ CHÍ MINH
+T4	Symptom_and_Disease 100 115	LAO PHỔI AFB(+)
+T5	Location 142 157	TỈNH TIỀN GIANG
+T6	DateTime 161 192	THÁNG 01/1998 ĐẾN THÁNG 01/2003
+T7	Location 218 233	TP. Hồ Chí Minh
+T8	DateTime 236 240	2004
+T9	Symptom_and_Disease 254 262	Bệnh lao
+T10	Symptom_and_Disease 297 305	bệnh lao
+T11	Organisation 391 397	TCYTTG
+T12	Location 399 407	Việt Nam
+T13	Symptom_and_Disease 459 462	lao
+T14	Symptom_and_Disease 481 488	lao phổ
+T15	Symptom_and_Disease 497 500	lao
+T16	Symptom_and_Disease 537 540	lao
+T17	Symptom_and_Disease 676 700	lao phổi mới có vi trùng
+T18	Symptom_and_Disease 743 746;747 762	lao phổi mới AFB(+)
+T19	DateTime 800 808	năm 1990
+T20	DateTime 816 824	năm 1995
+T21	DateTime 832 840	năm 2000
+T22	DateTime 850 858	năm 2002
+T23	Symptom_and_Disease 910 923	bệnh lao phổi
+T24	Symptom_and_Disease 999 1006	lao phổ
+T25	Symptom_and_Disease 1155 1163	bệnh lao
+T26	Symptom_and_Disease 1299 1300	a
+T27	DateTime 1338 1351	Tháng 11/1994
+T28	Symptom_and_Disease 1453 1461	bệnh lao
+T29	Symptom_and_Disease 1505 1525	bệnh lao kháng thuốc
+T30	Symptom_and_Disease 1591 1599	lao phổi
+T31	Symptom_and_Disease 1664 1672	lao phổi
+T32	Symptom_and_Disease 1798 1813	lao phổi AFB(+)
+T33	Symptom_and_Disease 2750 2769	lao phổi mới AFB(+)
+T34	Location 2796 2811	tỉnh Tiền Giang
+T35	Symptom_and_Disease 3022 3030;3031 3041	lao phổi mới AFB(+)
+T36	Location 3046 3061	tỉnh Tiền Giang
+T37	Symptom_and_Disease 596 599	lao
+T38	Symptom_and_Disease 1056 1059	lao
+T39	DateTime 2825 2852;2853 2857	tháng 01/1998 đến tháng 01/ 2003
+T40	Symptom_and_Disease 2964 2967	lao
+T41	Symptom_and_Disease 2232 2246	ao phổi AFB(+)
+T42	DiagnosticProcedure 3314 3321	X-quang
+T43	DiagnosticProcedure 3435 3442	X-quang
+T44	DiagnosticProcedure 3342 3349	soi đàm

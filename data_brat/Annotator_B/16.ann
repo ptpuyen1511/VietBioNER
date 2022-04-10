@@ -1,0 +1,65 @@
+T1	Organisation 0 22	BỘ GIÁO DỤC VÀ ĐÀO TẠO
+T2	Organisation 23 30	BỘ Y TẾ
+T3	Organisation 31 60	ĐẠI HỌC Y DƯỢC TP HỒ CHÍ MINH
+T4	Symptom_and_Disease 116 140	LAO PHỔI AFB(+) TÁI PHÁT
+T5	DiagnosticProcedure 155 172	GENEXPERT MTB/RIF
+T6	Symptom_and_Disease 343 351	Bệnh lao
+T7	Symptom_and_Disease 530 538	bệnh lao
+T8	Symptom_and_Disease 616 634	lao đa kháng thuốc
+T9	Symptom_and_Disease 767 782	lao kháng thuốc
+T10	DateTime 811 819	Năm 2013
+T11	Symptom_and_Disease 853 871	lao đa kháng thuốc
+T12	Location 973 981	Việt Nam
+T13	Symptom_and_Disease 992 1010	lao đa kháng thuốc
+T14	Symptom_and_Disease 1083 1091	Việt Nam
+T15	Symptom_and_Disease 1122 1130	bệnh lao
+T16	Symptom_and_Disease 1183 1191	bệnh lao
+T17	Symptom_and_Disease 1263 1286	bệnh lao đa kháng thuốc
+T18	Organisation 1359 1366	Bộ Y tế
+T19	Organisation 1348 1357	Chính phủ
+T20	DateTime 1513 1529	tháng 7 năm 2012
+T21	Organisation 1530 1534;1535 1564	Bệnh viện Lao và Bệnh phổi Cần Thơ
+T22	DiagnosticProcedure 1583 1596	Xpert MTB/RIF
+T23	DiagnosticProcedure 1620 1633	Xpert MTB/RIF
+T24	DiagnosticProcedure 1753 1785	xét nghiệm đàm trực tiếp âm tính
+T25	DiagnosticProcedure 1810 1818;1819 1829	nuôi cấy dương tính
+T26	DiagnosticProcedure 1849 1860	nuôi cấy âm
+T27	DiagnosticProcedure 1873 1891	Gene Xpert MTB/RIF
+T28	Organisation 2240 2261	Tổ chức Y tế Thế giới
+T29	Symptom_and_Disease 2219 2222	lao
+T30	Symptom_and_Disease 2336 2339	lao
+T31	DiagnosticProcedure 2341 2354	Xpert MTB/RIF
+T32	Symptom_and_Disease 2435 2447;2448 2453	lao đa kháng thuốc
+T33	Symptom_and_Disease 2459 2477	lao đồng nhiễm HIV
+T34	DiagnosticProcedure 2511 2520	GeneXpert
+T35	Symptom_and_Disease 2542 2551;2552 2562	lao kháng Rifampicin
+T36	Symptom_and_Disease 2606 2624	lao đa kháng thuốc
+T37	DiagnosticProcedure 2712 2720	nuôi cấy
+T38	DiagnosticProcedure 2727 2740	kháng sinh đồ
+T39	Symptom_and_Disease 2937 2955	lao đa kháng thuốc
+T40	Location 2970 2977	Cần Thơ
+T41	Symptom_and_Disease 3033 3039;3040 3051	lao đa kháng thuốc
+T42	Symptom_and_Disease 3116 3133	bệnh lao tái phát
+T43	Symptom_and_Disease 3239 3247;3248 3263	lao phổi AFB(+) tái phát
+T44	Location 3268 3275	Cần Thơ
+T45	Symptom_and_Disease 3367 3391	lao phổi AFB(+) tái phát
+T46	Symptom_and_Disease 3480 3495	lao kháng thuốc
+T47	Symptom_and_Disease 3599 3614;3615 3623	lao phổi AFB(+) tái phát
+T48	DiagnosticProcedure 3638 3656	Gene Xpert MTB/RIF
+T49	Location 3661 3678	thành phố Cần Thơ
+T50	DateTime 3679 3682;3683 3687	năm 2016
+T51	Symptom_and_Disease 3768 3776;3777 3792	lao phổi AFB(+) tái phát
+T52	DiagnosticProcedure 3879 3891	X-quang phổi
+T53	Symptom_and_Disease 78 100	KHÁNG THUỐC RIFAMPICIN
+T54	AnnotatorNotes T64	U84.3
+T55	Location 177 194	THÀNH PHÓ CẢN THƠ
+T56	DateTime 195 203	NĂM 2016
+T57	Location 297 318	THÀNH PHÓ HÒ CHÍ MINH
+T58	DateTime 321 329	NĂM 2017
+T59	DateTime 2273 2286	tháng 12/2010
+T60	Symptom_and_Disease 2819 2835	kháng Rifampicin
+T61	Symptom_and_Disease 2841 2846;2847 2860	kháng với Isoniazid
+T62	Symptom_and_Disease 2868 2884	kháng Rifampicin
+T63	Symptom_and_Disease 3930 3952	kháng thuốc Rifampicin
+T64	Symptom_and_Disease 3730 3752	kháng thuốc Rifampicin
+T65	Symptom_and_Disease 3561 3583	Kháng thuốc Rifampicin

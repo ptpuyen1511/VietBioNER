@@ -1,0 +1,34 @@
+T1	Symptom_and_Disease 130 138	LAO PHỐI
+T2	Symptom_and_Disease 142 149	UNG THƯ
+T3	Symptom_and_Disease 317 320	lao
+T4	Symptom_and_Disease 333 340	ung thư
+T5	Symptom_and_Disease 384 392	lao phổi
+T6	Symptom_and_Disease 421 436	bệnh lý ác tính
+T7	Location 466 470;471 474	Việt Nam
+T8	Location 6 21	TP. Hồ Chí Minh
+T9	Symptom_and_Disease 586 594	lao phổi
+T10	Symptom_and_Disease 598 605	ung thư
+T11	Organisation 611 636	bệnh viện Phạm Ngọc Thạch
+T12	DateTime 640 670	tháng 1/2005 đến tháng 10/2013
+T13	Symptom_and_Disease 672 675;676 680	Lao phối
+T14	DiagnosticProcedure 701 708	AFB (+)
+T15	DiagnosticProcedure 715 722	cấy (+)
+T16	Symptom_and_Disease 980 992	ung thư phổi
+T17	Symptom_and_Disease 1010 1017	ung thư
+T18	Symptom_and_Disease 1120 1132	ung thư phổi
+T19	Symptom_and_Disease 1151 1158	ung thư
+T20	Symptom_and_Disease 1170 1173	Sốt
+T21	Symptom_and_Disease 1175 1181	ho đờm
+T22	Symptom_and_Disease 1183 1190	khó thở
+T23	Symptom_and_Disease 1192 1200	đau ngực
+T24	Symptom_and_Disease 1202 1209	ho khan
+T25	Symptom_and_Disease 1211 1218	sụt cân
+T26	Symptom_and_Disease 1222 1231	ho ra máu
+T27	Symptom_and_Disease 1603 1611	lao phối
+T28	Symptom_and_Disease 1615 1622	ung thư
+T29	Symptom_and_Disease 1819 1827	lao phổi
+T30	Symptom_and_Disease 1831 1838	ung thư
+T31	Symptom_and_Disease 833 840	ung thư
+T32	Symptom_and_Disease 809 812	lao
+T33	Symptom_and_Disease 1702 1705	Sốt
+T34	DateTime 52 56	2014

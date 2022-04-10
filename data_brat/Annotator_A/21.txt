@@ -1,0 +1,165 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO BỘ Y TẾ
+
+TRƯỜNG ĐẠI HỌC Y DƯỢC TP. HỒ CHÍ MINH
+
+LÊ VĂN NHI
+
+NGHIÊN CỨU DỊCH TỄ
+VÀ CÁC HÌNH THÁI LÂM SÀNG LAO/HIV(+)
+TẠI THÀNH PHỐ HỒ CHÍ MINH
+
+Chuyên ngành: DỊCH TỄ HỌC
+Mã số :3.01.11
+
+LUẬN ÁN TIẾN SĨ Y HỌC
+
+THÀNH PHỐ HỒ CHÍ MINH - NĂM 2001
+
+MỞ ĐẦU
+
+Chương Trình AIDS của Liên Hiệp Quốc và Tổ Chức Y Tế Thế Giới ước
+tính đến cuối năm 2000 có khoảng 36,1 triệu người bị nhiễm HIV hoặc bị AIDS.
+Trong số này, trên 40% là phụ nữ, trên 50% trường hợp có độ tuổi từ 15 ~ 24
+tuổi và trong năm 2000 có 5,3 triệu trường hợp nhiễm mới, chủ yếu qua con
+đường tình dục khác giới, và đến nay có gần 12 triệu trường hợp đồng nhiễm lao
+— HIV [54,122]. Tác động nặng nề của lao - HIV tập trung chủ yếu ở Hạ
+Sahara Châu Phi, nơi mà 20,8 triệu người bị nhiễm HIV và có từ 6 đến 7 triệu
+người đồng nhiễm lao - HIV. Trên thế giới chỉ có khoảng 10% thì Hạ Sahara
+Châu Phi chiếm 65% số nhiễm HIV của toàn thế giới [94]; và cũng ở khu vực
+này, trên 50% bệnh nhân trưởng thành HIV(+) phải nhập viện. Tỉ lệ các trường
+hợp lao trong khu vực này từng giảm xuống vào khoảng 1,6% vào trước 1985
+nhưng đã tăng lên tới 7,7%/năm trong những năm gần đây. [42]
+
+Đại dịch HIV/AIDS đang chuyển dần sang khu vực Châu Á, nơi đây hiện có
+6 triệu người bị nhiễm HIV và trên 2 triệu người bị đồng nhiễm lao - HIV. Nếu
+sự tác động giữa lao - HIV ảnh hưởng sâu sắc ở Châu Phi, thì bệnh suất và tử
+suất chủ yếu từ dịch đồng nhiễm lao - HIV cũng có thể bao trùm toàn khu vực
+Đông Nam Á. Ở Châu Á đang tiềm ẩn một tình hình rất khẩn cấp vì những lý do
+sau: (a) TỈ lệ lao tiềm ẩn ở Châu Á cao hơn vào khoảng từ 40 đến 42%, so với
+30% ở Châu Phi; (b) Tỉ lệ rất lớn dân cư Châu Á sống tập trung đông đúc ở khu
+vực đô thị, tạo điều kiện thuận lợi cho sự lây lan lao; (c) Tỉ lệ kháng thuốc lao
+thật sự cao ở các quốc gia Đông Nam Châu Á, nơi mà chương trình điều trị
+không hiệu quả và sự phân phối thuốc lao vô nguyên tắc đã hà hơi tiếp sức cho
+kháng thuốc ở mức độ cao, kể cả lao đa kháng thuốc [76,117] và (d) các ước
+tính của Tổ Chức Y Tế Thế Giới cho thấy sự gia tăng đột ngột số nhiễm HIV :
+thay vì 4 triệu trường hợp nhiễm HIV xảy ra ở Đông Nam Á vào giữa các năm
+1990 và 1995 thì từ cuối năm 2000 trở đi, hằng năm sẽ có nhiều trường hợp
+nhiễm mới ở Châu Á và vành đai Thái Bình Dương hơn ở Châu Phi [30]. Ở Thái
+Lan sự gia tăng bùng phát số nhiễm HIV ở quần thể nam trẻ tuổi và tiếp sau đó
+là dịch HIV đã ảnh hưởng rộng lớn đến sức khỏe cộng đồng chung đã từng được
+báo cáo. [96,102,134]
+
+Các phân tích gần đây của CDC (Trung Tâm Kiểm Soát Dịch Bệnh của Hoa
+Kỳ) [44] cho thấy khoảng 40% các trường hợp lao mới ở độ tuổi từ 15 đến 44
+tuổi tại Mỹ hiện nay xảy ra ở người nhiễm HIV hoặc bị AIDS. Điều này có thể
+xem như bệnh suất lao có liên quan trực tiếp đến HIV và do có rất nhiều trường
+hợp lao ở người trưởng thành trong độ tuổi sinh đẻ, hơn nữa, tỈ lệ các trường hợp
+được phân đều cho sự lây nhiễm từ vợ và chồng, mẹ và con hoặc các tiếp xúc
+thân mật khác nói lên bệnh suất lao có liên quan gián tiếp với HIV. [92]
+
+Nếu các bệnh nhiễm trùng cơ hội như viêm phổi do Pneumocystis carinii
+(PCP) và bệnh ung thư Kaposi giữ vị trí chủ yếu ở các nước phát triển thì lao là
+bệnh nhiễm trùng cơ hội thường gặp chủ yếu và nặng nề ở các nước đang phát
+triển. Qua các bằng chứng về nội soi hay phẫu tích tử thi cho thấy nhiễm trùng ở
+phổi chiếm tỉ lệ 40 — §0% các trường hợp nhiễm trùng cơ hội khác ở người
+nhiễm HIV hoặc bị AIDS.. Ở Kam-pu-chia, lao chiếm tỉ lệ cao từ 33% [28] đến
+43% [26] ở người HIV(+). Trong khi đó tại Thái Lan, tỉ lệ lao là 237%,:PGP là
+25% và bệnh do vi khuẩn không điển hình là 17% [33].
+
+Tại thành phố Hồ Chí Minh, từ một trường hợp HIV đầu tiên phát hiện vào
+năm 1990, tính đến nay đã có hơn 7000 trường hợp và cả nước có trên 28 000
+trường hợp nhiễm HIV hoặc bị AIDS. Nếu khởi đầu đại dịch, tỉ lệ nhiễm HIV
+chủ yếu ở đối tượng nghiện chích ma túy và tiếp tục chủ yếu ở đối tượng này
+tính cho đến thời điểm này, thì trên đối tượng hành nghề mại dâm nữ có tỉ lệ
+dao động từ 2 - 3% trong các năm trước, đã gia tăng đột biến trong những năm
+gần đây: 10,5% (1999) và 20,8% (2000). Tỉ lệ nhiễm HIV tiếp tục gia tăng trên
+các đối tượng khác, đáng chú ý là các can phạm có hành vi nguy cơ, tỉ lệ nhiễm
+HIV là 50,3% và ngày càng có khuynh hướng trẻ hóa dần đối tượng nhiễm HIV
+hoặc bị AIDS, đặc biệt tỉ lệ nhiễm HIV ở trẻ em tăng dân từ 0,28% (1998),
+0,52% (1999) và là 3,1% (2000). Dịch HIV đã và đang từng bước xâm nhập vào
+cộng đồng. [1,5,86]
+
+Về mặt cấu trúc di truyền gien và kháng nguyên có hai loại HIV khác nhau
+đó là HIV týp-1 và HIV týp-2. HIV-2 là căn bệnh địa phương của Tây Phi và
+hiếm thấy ở ngoài khu vực đó, HIV-I lại có sự phân bố rộng khắp toàn cầu.
+Ngay sau khi chuỗi gien đầy đủ của HIV-1 được xác định, người ta đã ghi nhận
+không có sự đồng nhất về đặc điểm gien của các chủng HIV-1. Thông tin về
+phân tích chuỗi DNA từ nhiều mẫu phân lập HIV-1 khác nhau, thu thập được
+trên toàn thế giới đã xác định có nhiều chủng loại, hiện nay tối thiểu có 10 loại
+khác nhau về gien. [22]
+
+Lao và HIV/AIDS là hai loại bệnh phối hợp với nhau rất mật thiết, những
+tương quan chặt chẽ gây ảnh hưởng nặng nề cho cả hai bệnh. Sự suy giảm miễn
+dịch do HIV làm gia tăng nguy cơ mắc bệnh lao ở những người đồng nhiễm, và
+ngược lại bệnh lao thúc đẩy nhanh diễn biến của HIV. Bệnh lao thật sự là bệnh
+nhiễm trùng cơ hội thường gặp nhất ở người HIV/AIDS và HIV là một yếu tế
+nguy cơ mạnh nhất làm tăng nguy cơ tiến triển từ nhiễm lao sang bệnh lao.
+
+Dịch lao đang gia tăng ở số hiện mắc lao cũng như ở các trường hợp mắc lao
+mới. Số lượng bệnh nhân đã tăng gấp đôi trong hơn thập ký qua ở một số quốc
+gia, tỉ lệ HIV/AIDS cũng đang ổn định tại một số nước, bệnh suất HIV mới có
+xu thế gia tăng ở lứa tuổi trẻ. Trong thập niên qua, sự tương tác giữa lao và
+HIV/AIDS đang gia tăng với mức độ trầm trọng ở các nước đang phát triển, nơi
+có tỉ lệ đồng nhiễm lao - HIV cao.
+
+Nhiễm HIV có khuynh hướng làm gia tăng sự suy giảm miễn dịch do đó làm
+mất đi sự quân bình mỏng manh giữa vi khuẩn lao với hệ thống miễn dịch của
+ký chủ. HIV làm suy sụp dân các chức năng miễn dịch với sự mất dần số lượng
+lympho TCD4 và có thể xuất hiện một hay cùng lúc nhiều bệnh nhiễm trùng cơ
+hội. Nếu bệnh lao xảy ra tương đối sớm ở bệnh nhân HIV(+), thì lao phổi vẫn là
+thể lao thường gặp nhất; khi suy giảm miễn dịch nặng lên thì các thể lao ngoài
+phổi thường xuất hiện hơn.
+
+Như thế, về mặt dịch tễ học, lao có thể được xem như một dự báo sớm về sự
+lan tràn dịch HIV trong toàn thể cộng đồng dân cư. Do đó việc thử nghiệm HIV
+ở bệnh nhân lao trong những điều kiện chuẩn ở một số điểm “canh gác” như ở
+bệnh viện chuyên khoa lao phổi, ở những khu vực đô thị nên thực hiện khi số
+liệu chưa có từ trước đến nay. Các dữ liệu được cung cấp từ những nơi này có
+thể phản ánh tỉ lệ nhiễm HIV ở bệnh nhân lao và cho biết khuynh hướng diễn
+biến của các tỉ lệ này theo thời gian. Việc theo dõi tỉ lệ nhiễm HIV huyết thanh
+ở bệnh nhân lao và khuynh hướng diễn biến của nó ở bệnh nhân nhập viện tại
+các bệnh viện chuyên khoa lao và những khu vực đô thị có thể thông báo sớm
+cho quốc gia về dịch HIV sắp xảy ra.
+
+Hơn nữa nó thông báo mối tương quan về sự gia tăng tần suất lao- HIV theo
+nhóm tuổi, đối tượng nguy cơ, cũng như các đặc điểm hình thái lâm sàng, cận
+lâm sàng lao - HIV và yếu tố tiên lượng tình trạng miễn dịch góp phần trong
+việc thực hiện triển khai, theo dõi chương trình phòng chống và tầm soát được
+HIV/ lao, giúp Chương Trình Chống Lao Quốc Gia và Chương Trình Phòng
+Chống AIDS Quốc Gia đề ra được các biện pháp hữu hiệu can thiệp, khống chế
+dịch HIV-lao bùng phát.
+
+ 
+MỤC TIÊU NGHIÊN CỨU
+1. Mục tiêu tổng quát:
+
+Nghiên cứu tình hình dịch tễ lao/HIV(+) ở các quần thể bệnh lao và
+HIV(1) tại thành phố Hồ Chí Minh để dự báo sớm sự lan tràn dịch HIV(+) trong
+toàn thể cộng đồng dân cư.
+
+Xác định các chủng loại di truyền HIV tại thành phố Hồ Chí Minh và
+đưa ra các manh mối về cách virus HIV lan truyền để đề ra các biện pháp tiến
+hành nhằm nổ lực phòng ngừa sự lây nhiễm HIV.
+
+Phân tích mối liên quan giữa các đặc điểm lâm sàng, hình ảnh Xquang
+phổi, phản ứng nội bì với lao tố (DR), số lượng CD, và nồng độ siêu vi trong
+huyết thanh trên bệnh nhân lao/ HIV(+).
+
+2. Mục tiêu chuyên biệt:
+
+(1): Ước lượng tỉ lệ hiện mắc HIV(+) trên bệnh nhân lao tại thành phố Hồ
+Chí Minh.
+
+(2): Ước lượng tỉ lệ bệnh lao ở đối tượng nhiễm HIV(+) tại thành phố Hồ
+Chí Minh.
+
+(3): Xác định các hạ-týp HIV-1 tại thành phố Hồ Chí Minh. Cung cấp thông
+tin về hạ-týp HIV-1 đặc trưng xảy ra trong khu vực châu Á dành cho các nghiên
+cứu di truyền và dịch tễ học phân tử, đề ra các biện pháp tiến hành có thể thực
+hiện được hiện nay để ngăn chặn con đường lây lan dựa trên cách thức lan
+truyền của các hạ-týp HIV-1 được xác định tại thành phố Hồ Chí Minh.
+
+(4): Phân tích đặc điểm lâm sàng, Xquang, cận lâm sàng ở các bệnh nhân
+
+lao/HIV(+) với lao/HIV(-).
+

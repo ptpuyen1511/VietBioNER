@@ -1,0 +1,34 @@
+T1	Symptom_and_Disease 203 222	tràn dịch màng phổi
+T2	Symptom_and_Disease 233 236	lao
+T3	Symptom_and_Disease 346 359	lao màng phối
+T4	DiagnosticProcedure 369 384;385 405	sinh thiết màng phối (STMP) bằng kim
+T5	DiagnosticProcedure 464 477	STMP bằng kim
+T6	Symptom_and_Disease 499 510	TDMP do lao
+T7	Organisation 515 526	khoa hô hấp
+T8	Organisation 292 303	khoa hô hấp
+T9	Organisation 527 531;532 554	bệnh diện Nhân Dân Gia Định
+T10	DateTime 673 690	tháng 10 năm 2008
+T11	DateTime 695 711	tháng 7 năm 2009
+T12	DiagnosticProcedure 744 760	phết lam tìm AFB
+T13	DiagnosticProcedure 841 845	MGIT
+T14	DiagnosticProcedure 849 864;865 878	sinh thiết màng phối bằng kim
+T15	DiagnosticProcedure 906 922	phết lam tìm AFB
+T16	DiagnosticProcedure 1003 1007	MGIT
+T17	DiagnosticProcedure 1011 1024	STMP bằng kim
+T18	DiagnosticProcedure 1120 1124	MGIT
+T19	DiagnosticProcedure 1128 1141	STMP bằng kim
+T20	DiagnosticProcedure 1196 1209	STMP bằng kim
+T21	Symptom_and_Disease 1260 1271	TDMP do lao
+T22	DiagnosticProcedure 1345 1358	STMP bằng kim
+T23	DiagnosticProcedure 1371 1375	MGIT
+T24	Symptom_and_Disease 1422 1435	lao màng phổi
+T25	DiagnosticProcedure 12 41	SINH THIẾT MÀNG PHỔI BẰNG KIM
+T26	Symptom_and_Disease 1447 1460	Lao màng phổi
+T27	DiagnosticProcedure 1462 1481	sinh thiết màng phổ
+T28	DiagnosticProcedure 1084 1102	cấy dịch màng phối
+T29	DiagnosticProcedure 967 980;981 985	cấy dịch màng phối
+T30	Symptom_and_Disease 642 653	TDMP do lao
+T31	Symptom_and_Disease 58 71	LAO MÀNG PHỐI
+T32	Symptom_and_Disease 224 228	TDMP
+T33	DiagnosticProcedure 762 782	PCR tìm vi khuẩn lao
+T34	DiagnosticProcedure 924 944	PCR tìm vi khuẩn lao

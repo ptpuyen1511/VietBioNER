@@ -1,0 +1,46 @@
+T1	Symptom_and_Disease 12 20	Bệnh lao
+T2	Location 151 155;156 159	Việt Nam
+T3	Symptom_and_Disease 198 206	bệnh lao
+T4	Symptom_and_Disease 256 264	bệnh lao
+T5	Symptom_and_Disease 438 446	bệnh lao
+T6	Symptom_and_Disease 470 473	lao
+T7	Symptom_and_Disease 491 499	Lao phối
+T8	Symptom_and_Disease 573 581	lao phổi
+T9	Symptom_and_Disease 673 698	lao phổi có AFB đàm dương
+T10	Symptom_and_Disease 741 768	lao phối có mẫu đàm âm tính
+T11	DiagnosticProcedure 849 858	AFB dương
+T12	DiagnosticProcedure 898 910	x quang phỗi
+T13	Symptom_and_Disease 1151 1154	lao
+T14	Symptom_and_Disease 1296 1304	lao phối
+T15	Symptom_and_Disease 1355 1358	lao
+T16	DiagnosticProcedure 1629 1630;1631 1641	x quang phối
+T17	Symptom_and_Disease 1658 1661	lao
+T18	Symptom_and_Disease 1707 1716	ho ra máu
+T19	Symptom_and_Disease 1718 1728	suy hô hấp
+T20	Symptom_and_Disease 1777 1791	suy hô hấp mãn
+T21	Symptom_and_Disease 1793 1804	tâm phế mãn
+T22	Symptom_and_Disease 1806 1819	giãn phế quản
+T23	Symptom_and_Disease 2096 2099;2100 2120	lao phổi AFB đàm âm tính
+T24	Symptom_and_Disease 2202 2229	lao phổi có AFB đàm âm tính
+T25	DiagnosticProcedure 2281 2284	AFB
+T26	DiagnosticProcedure 2286 2300	nuôi cấy OGAWA
+T27	DiagnosticProcedure 2308 2311	PCR
+T28	DiagnosticProcedure 2313 2323	Gene Xpert
+T29	DiagnosticProcedure 2377 2386;2387 2391	giải phẫu bệnh
+T30	DiagnosticProcedure 2715 2758	nội soi phế quản có rửa phế quản — phế nang
+T31	DiagnosticProcedure 2837 2844	AFB đàm
+T32	Symptom_and_Disease 2914 2917	lao
+T33	Symptom_and_Disease 2946 2949	lao
+T34	DiagnosticProcedure 2969 2976	vi sinh
+T35	DiagnosticProcedure 3023 3037	giải phẫu bệnh
+T36	Symptom_and_Disease 3144 3147;3148 3152	lao phổi
+T37	Symptom_and_Disease 3292 3295;3296 3300	lao phổi
+T38	Symptom_and_Disease 3316 3342	lao phổi âm tính trong đàm
+T39	Symptom_and_Disease 3604 3619;3620 3624	lao phổi AFB âm tính
+T40	Organisation 3629 3653	bệnh viện phổi Đồng Tháp
+T41	Symptom_and_Disease 3713 3733	lao phối AFB âm tính
+T42	Symptom_and_Disease 3759 3783	nội soi phế quản ống mềm
+T43	Symptom_and_Disease 3800 3803	lao
+T44	DiagnosticProcedure 3833 3836	AFB
+T45	DiagnosticProcedure 3842 3863	nuôi cấy vi khuẩn lao
+T46	Symptom_and_Disease 3992 4000	lao phổi

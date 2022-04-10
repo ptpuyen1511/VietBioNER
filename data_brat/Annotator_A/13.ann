@@ -1,0 +1,47 @@
+T1	Organisation 374 395	Tổ chức Y tế thế giới
+T2	Symptom_and_Disease 453 456	lao
+T3	Symptom_and_Disease 508 511	lao
+T4	Location 686 694	Việt Nam
+T5	Symptom_and_Disease 696 704	bệnh lao
+T6	Symptom_and_Disease 1023 1031	bệnh lao
+T7	Symptom_and_Disease 1156 1159	lao
+T8	Symptom_and_Disease 1170 1173	lao
+T9	Symptom_and_Disease 1244 1247	lao
+T10	Symptom_and_Disease 1302 1310	bệnh lao
+T11	Symptom_and_Disease 1445 1453	lao phổi
+T12	DiagnosticProcedure 1473 1515;1516 1536	soi kính hiển vi xác định trực khuẩn kháng cồn kháng axit (AFB)
+T13	DiagnosticProcedure 1540 1572	nuôi cấy phân lập trực khuẩn lao
+T14	Symptom_and_Disease 1653 1667	lao ngoài phổi
+T15	Symptom_and_Disease 1669 1679	lao trẻ em
+T16	Symptom_and_Disease 1683 1703	lao phổi AFB âm tính
+T17	DiagnosticProcedure 2000 2017	tiêm PPD trong da
+T18	DiagnosticProcedure 2185 2198	tiêm trong da
+T19	DiagnosticProcedure 2243 2303;2304 2316	xác định lượng interferon gamma (IFN-gamma) en vivo đặc hiệu kháng nguyên
+T20	DiagnosticProcedure 2743 2758	huyết thanh học
+T21	DiagnosticProcedure 2903 2928	miễn dịch huyết thanh học
+T22	Symptom_and_Disease 3072 3086	lao ngoài phổi
+T23	Symptom_and_Disease 4092 4109	bệnh truyền nhiễm
+T24	Symptom_and_Disease 4152 4160	bệnh lao
+T25	Symptom_and_Disease 4252 4260	bệnh lao
+T26	Symptom_and_Disease 4818 4821	lao
+T27	DiagnosticProcedure 4865 4890	miễn dịch gắn men (ELISA)
+T28	DiagnosticProcedure 5093 5124;5125 5131	ELISA sử dụng kháng nguyên siêu nghiền
+T29	Organisation 1 23	BỘ GIÁO DỤC VÀ ĐÀO TẠO
+T30	Organisation 24 31	BỘ Y TẾ
+T31	Organisation 33 64	VIỆN VỆ SINH DỊCH TỄ TRUNG ƯƠNG
+T32	Location 334 340	HÀ NỘI
+T33	DateTime 343 347	2007
+T34	DateTime 364 372	Năm 1994
+T35	DiagnosticProcedure 3037 3044	soi đờm
+T36	Symptom_and_Disease 3177 3180	lao
+T37	Symptom_and_Disease 3306 3309	lao
+T38	Symptom_and_Disease 3406 3414	bệnh lao
+T39	Organisation 397 403	TCYTTG
+T40	Symptom_and_Disease 807 810	lao
+T41	Symptom_and_Disease 874 877	lao
+T42	Symptom_and_Disease 966 969	lao
+T43	Symptom_and_Disease 1645 1648	lao
+T44	Symptom_and_Disease 1354 1357	lao
+T45	Symptom_and_Disease 2811 2814	lao
+T46	DiagnosticProcedure 2200 2209	skin test
+T47	DiagnosticProcedure 3473 3477;3478 3498	miễn dịch gắn men (ELISA)

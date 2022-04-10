@@ -1,0 +1,16 @@
+T1	Symptom_and_Disease 306 314	Lao phổi
+T2	DiagnosticProcedure 411 418	mẫu đàm
+T3	Symptom_and_Disease 454 462	lao phổi
+T4	Organisation 805 832	bệnh viện Nhân Dân Gia Định
+T5	DiagnosticProcedure 1022 1025	AFB
+T6	Symptom_and_Disease 1425 1433	lao phổi
+T7	DiagnosticProcedure 1312 1365;1366 1372	cấy đàm tìm vi khuẩn lao trên môi trường Lowenstein — Jensen
+T8	Symptom_and_Disease 1235 1248	bệnh lao phổi
+T9	DiagnosticProcedure 502 519	nhuộm lam tìm AFB
+T10	Symptom_and_Disease 193 201	LAO PHỔI
+T11	DiagnosticProcedure 207 224	NHUỘM LAM TÌM AFB
+T12	DiagnosticProcedure 1175 1192	nhuộm lam tìm AFB
+T13	Location 6 21	TP. Hồ Chí Minh
+T14	Symptom_and_Disease 401 404	lao
+T15	Symptom_and_Disease 718 721	lao
+T16	DiagnosticProcedure 690 704	xét nghiệm đàm

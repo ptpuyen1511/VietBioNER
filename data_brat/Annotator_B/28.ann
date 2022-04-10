@@ -1,0 +1,35 @@
+T1	Symptom_and_Disease 22 40	lao đa kháng thuốc
+T2	Symptom_and_Disease 42 46	LĐKT
+T3	Symptom_and_Disease 51 71	lao siêu kháng thuốc
+T4	Symptom_and_Disease 73 77	LSKT
+T5	Symptom_and_Disease 163 171	bệnh lao
+T6	Symptom_and_Disease 199 203	LĐKT
+T7	DateTime 239 247	năm 2004
+T8	DateTime 274 282	năm 2011
+T9	Symptom_and_Disease 323 327	LSKT
+T10	Location 407 415	Việt Nam
+T11	Symptom_and_Disease 452 456	LĐKT
+T12	DateTime 473 485	thập niên 90
+T13	DateTime 571 579	năm 2000
+T14	DateTime 615 619;620 634	giai đoạn 2004-2005
+T15	Symptom_and_Disease 641 645	LĐKT
+T16	Symptom_and_Disease 657 660	lao
+T17	Symptom_and_Disease 694 697	lao
+T18	Organisation 811 832	Tổ chức Y tế Thế giới
+T19	Organisation 834 837	WHO
+T20	Symptom_and_Disease 840 844	LĐKT
+T21	Symptom_and_Disease 873 876	lao
+T22	Symptom_and_Disease 910 913	lao
+T23	Symptom_and_Disease 974 978	LSKT
+T24	Symptom_and_Disease 1213 1216	lao
+T25	Symptom_and_Disease 1647 1660	nhiễm độc gan
+T26	Symptom_and_Disease 1957 1966	ngứa ngáy
+T27	Symptom_and_Disease 1967 1975	khó chịu
+T28	Symptom_and_Disease 2057 2063	hôn mê
+T29	Symptom_and_Disease 2065 2082	rỗi loạn tâm thần
+T30	Location 2362 2370	Việt Nam
+T31	Symptom_and_Disease 2503 2516	nhiễm độc gan
+T32	Symptom_and_Disease 2711 2714	lao
+T33	Symptom_and_Disease 2946 2954	bệnh lao
+T34	DateTime 2955 2958;2959 2963	năm 2009
+T35	Organisation 2890 2897	Bộ Y tế

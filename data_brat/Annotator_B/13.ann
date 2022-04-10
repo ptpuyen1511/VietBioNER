@@ -1,0 +1,58 @@
+T1	Symptom_and_Disease 37 41;42 45	BỆNH LAO
+T2	Location 87 95	VIỆT NAM
+T3	Symptom_and_Disease 152 160	bệnh lao
+T4	Location 202 211	Việt Nam.
+T5	Organisation 326 348	Tô chức Y tế Thế giới.
+T6	Symptom_and_Disease 463 471	bệnh lao
+T7	Symptom_and_Disease 524 527	lao
+T8	Symptom_and_Disease 70 73	LAO
+T9	Symptom_and_Disease 185 188	lao
+T10	Symptom_and_Disease 420 423	lao
+T11	Symptom_and_Disease 494 497	lao
+T12	Symptom_and_Disease 590 593	lao
+T13	Symptom_and_Disease 709 712	lao
+T14	Symptom_and_Disease 770 773	lao
+T15	Symptom_and_Disease 848 851	lao
+T16	Symptom_and_Disease 914 917	lao
+T17	Symptom_and_Disease 1010 1013	lao
+T18	Symptom_and_Disease 1079 1082	lao
+T19	Symptom_and_Disease 1187 1190	lao
+T20	Symptom_and_Disease 1283 1286	lao
+T21	Symptom_and_Disease 1357 1365	Bệnh lao
+T22	Symptom_and_Disease 1369 1386	bệnh truyền nhiễm
+T23	Organisation 1586 1607	Tổ chức Y tế thế giới
+T24	Organisation 1609 1612	WHO
+T25	Location 1615 1623	Việt Nam
+T26	Symptom_and_Disease 1658 1666	bệnh lao
+T27	Symptom_and_Disease 1681 1684	lao
+T28	DateTime 1718 1721;1722 1726	năm 2017
+T29	Symptom_and_Disease 1771 1774	lao
+T30	Symptom_and_Disease 1787 1794	lao mới
+T31	Symptom_and_Disease 1798 1810	lao tái phát
+T32	Symptom_and_Disease 1869 1872	lao
+T33	Symptom_and_Disease 1940 1943	lao
+T34	Symptom_and_Disease 2045 2048	lao
+T35	Symptom_and_Disease 2105 2113	bệnh lao
+T36	Symptom_and_Disease 2154 2157	lao
+T37	Symptom_and_Disease 2268 2271	lao
+T38	Symptom_and_Disease 2325 2328	lao
+T39	Symptom_and_Disease 2404 2406	ao
+T40	Symptom_and_Disease 2457 2465	bệnh lao
+T41	Symptom_and_Disease 2541 2544	lao
+T42	Symptom_and_Disease 2566 2569	lao
+T43	Symptom_and_Disease 2730 2733	lao
+T44	Symptom_and_Disease 2757 2760	lao
+T45	Symptom_and_Disease 2866 2869	lao
+T46	Location 2964 2972	Việt Nam
+T47	Symptom_and_Disease 3023 3026	lao
+T48	Symptom_and_Disease 3075 3078	lao
+T49	Location 3155 3163	Việt Nam
+T50	Symptom_and_Disease 3230 3233	lao
+T51	Symptom_and_Disease 3312 3320	bệnh lao
+T52	Organisation 3370 3396;3397 3417	Trung tâm Dự phòng và kiêm soát bệnh tật Hoa Kỳ
+T53	Organisation 3419 3423	CDC)
+T54	Organisation 3427 3430	WHO
+T55	Organisation 3501 3504	WHO
+T56	Symptom_and_Disease 3551 3554	lao
+T57	Symptom_and_Disease 3579 3582	lao
+T58	Location 3596 3604	Việt Nam

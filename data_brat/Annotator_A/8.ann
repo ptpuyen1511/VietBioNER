@@ -1,0 +1,17 @@
+T1	Location 6 21	TP. Hồ Chí Minh
+T2	DateTime 52 56	2013
+T3	Symptom_and_Disease 122 125;126 140	LAO KHÁNG ĐA THUỐC
+T4	Organisation 145 170	BỆNH VIỆN PHẠM NGỌC THẠCH
+T5	DateTime 171 184	NĂM 2009-2011
+T6	Symptom_and_Disease 313 331	lao kháng ấn thuốc
+T7	Symptom_and_Disease 333 339	MDR-TB
+T8	Organisation 465 472	Khoa B4
+T9	Organisation 477 502	Bệnh Viện Phạm Ngọc Thạch
+T10	DateTime 506 527	năm 2009 đến năm 2011
+T11	Symptom_and_Disease 1135 1147;1148 1153	lao kháng đa thuốc
+T12	Symptom_and_Disease 1321 1344	bệnh lao kháng đa thuốc
+T13	Symptom_and_Disease 1837 1840;1841 1852	lao kháng thuốc
+T14	Symptom_and_Disease 2274 2277	lao
+T15	Symptom_and_Disease 2173 2176	lao
+T16	Symptom_and_Disease 2621 2639	lao kháng đa thuốc
+T17	Symptom_and_Disease 2641 2647	MDR-TB

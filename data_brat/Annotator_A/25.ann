@@ -1,0 +1,50 @@
+T1	Symptom_and_Disease 43 46	Lao
+T2	DateTime 87 101;102 113	3700 năm trước Công nguyên
+T3	Symptom_and_Disease 125 128	Lao
+T4	Symptom_and_Disease 231 239	bệnh Lao
+T5	Organisation 371 392	Tổ Chức Y Tế Thế Giới
+T6	Organisation 394 400	TCYTTG
+T7	DateTime 402 405;406 410	năm 1992
+T8	Symptom_and_Disease 463 470	Lao mới
+T9	Symptom_and_Disease 501 504	Lao
+T10	Organisation 509 515	TCYTTG
+T11	Symptom_and_Disease 554 561	Lao mới
+T12	Symptom_and_Disease 592 595	Lao
+T13	Symptom_and_Disease 623 631	bệnh Lao
+T14	Symptom_and_Disease 711 714	HIV
+T15	DateTime 739 747	Năm 1993
+T16	Location 751 759	Việt Nam
+T17	Organisation 766 787	Viện Lao và Bệnh Phổi
+T18	Symptom_and_Disease 801 809	lao phổi
+T19	DiagnosticProcedure 840 857	đàm soi trực tiếp
+T20	Location 1016 1022	TP.HCM
+T21	Location 993 1014	Thành phố Hồ Chí Minh
+T22	Symptom_and_Disease 1198 1206	bệnh Lao
+T23	Symptom_and_Disease 1252 1255	Lao
+T24	Location 1269 1275	TP.HCM
+T25	Organisation 1279 1298;1299 1304	Trung Tâm Phạm Ngọc Thạch
+T26	Location 1452 1461	Phú Nhuận
+T27	Location 1486 1492	TP.HCM
+T28	Location 1463 1465	PN
+T29	Location 1434 1435	I
+T30	Location 1441 1443	IV
+T31	Location 1445 1446	V
+T32	Location 1448 1449	X
+T33	Symptom_and_Disease 1560 1563	Lao
+T34	Symptom_and_Disease 1619 1622	Lao
+T35	DateTime 1979 1983	1989
+T36	AnnotatorNotes T37	typo
+T37	DateTime 1999 2003	1994
+T38	Symptom_and_Disease 2023 2033	LPM(+) mới
+T39	Symptom_and_Disease 862 872	LPM(+) mới
+T40	AnnotatorNotes T41	typo
+T41	DateTime 1741 1745	1989
+T42	DateTime 1761 1765	1994
+T43	Symptom_and_Disease 1785 1797	Lao phổi mới
+T44	Location 1864 1865	1
+T45	Location 1867 1869	II
+T46	Location 1871 1872	X
+T47	Location 1876 1878	IV
+T48	Location 1880 1881	V
+T49	Location 1883 1892	Phú Nhuận
+T50	Location 1898 1904	TP.HCM

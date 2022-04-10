@@ -1,0 +1,57 @@
+T1	Symptom_and_Disease 0 8	Bệnh lao
+T2	Symptom_and_Disease 134 137	lao
+T3	Symptom_and_Disease 203 206	lao
+T4	Organisation 299 301;302 320	Tổ chức y tế Thế giới
+T5	Organisation 322 328	TCYTTG
+T6	DateTime 330 338	năm 2006
+T7	Symptom_and_Disease 384 387	lao
+T8	Symptom_and_Disease 432 435	lao
+T9	Symptom_and_Disease 464 472	bệnh lao
+T10	Symptom_and_Disease 481 489	Lao phổi
+T11	Symptom_and_Disease 497 500	lao
+T12	Symptom_and_Disease 543 546	lao
+T13	Symptom_and_Disease 576 584	bệnh lao
+T14	Symptom_and_Disease 671 679	lao phổi
+T15	Symptom_and_Disease 692 695	lao
+T16	Organisation 751 757	TCYTTG
+T17	Organisation 761 779;780 788	Hiệp hội chống lao Thế giới
+T18	Organisation 790 796	HHCLTG
+T19	DiagnosticProcedure 799 822	Nhuộm soi đờm trực tiếp
+T20	Symptom_and_Disease 910 918	lao phổi
+T21	Symptom_and_Disease 977 985	bệnh lao
+T22	Symptom_and_Disease 1098 1106	lao phổi
+T23	Symptom_and_Disease 1119 1122	lao
+T24	Symptom_and_Disease 1174 1182	lao phổi
+T25	DiagnosticProcedure 1225 1244	nhuộm soi trực tiếp
+T26	Symptom_and_Disease 1265 1280	lao phổi AFB(-)
+T27	Symptom_and_Disease 1327 1342	lao phổi AFB(-)
+T28	DiagnosticProcedure 1396 1407	nuôi cấy BK
+T29	Symptom_and_Disease 1464 1479	lao phổi AFB(-)
+T30	Symptom_and_Disease 1509 1531	bệnh phổi không do lao
+T31	Symptom_and_Disease 1601 1616	lao phổi AFB(-)
+T32	Symptom_and_Disease 1656 1671	lao phổi AFB(+)
+T33	Symptom_and_Disease 1743 1758	lao phổi AFB(-)
+T34	Symptom_and_Disease 1801 1816	Lao phổi AFB(-)
+T35	Symptom_and_Disease 1922 1937	lao phổi AFB(-)
+T36	Symptom_and_Disease 1955 1970	lao phổi AFB(+)
+T37	Organisation 1999 2005	TCYTTT
+T38	DateTime 2007 2011	2007
+T39	Symptom_and_Disease 2107 2122	lao phối AFB(-)
+T40	Symptom_and_Disease 2196 2211	lao phổi AFB(+)
+T41	Symptom_and_Disease 2280 2295	lao phối AFB(-)
+T42	Symptom_and_Disease 2422 2437	lao phổi AFB(-)
+T43	DiagnosticProcedure 2382 2390	nuôi cấy
+T44	DiagnosticProcedure 2732 2735	PCR
+T45	DiagnosticProcedure 2898 2906	nuôi cấy
+T46	DiagnosticProcedure 2917 2920	PCR
+T47	Symptom_and_Disease 2964 2979	lao phổi AFB(-)
+T48	Symptom_and_Disease 3039 3047	bệnh lao
+T49	Symptom_and_Disease 3153 3168	lao phổi AFB(-)
+T50	Location 3246 3254	Việt nam
+T51	Symptom_and_Disease 3328 3343	lao phổi AFB(-)
+T52	Symptom_and_Disease 3418 3433	Lao phổi AFB(-)
+T53	Symptom_and_Disease 3597 3616	lao phối mới AFB(-)
+T54	Symptom_and_Disease 3672 3684	lao phối mới
+T55	DiagnosticProcedure 2616 2624	nuôi cấy
+T56	DiagnosticProcedure 2649 2653	MGIT
+T57	DiagnosticProcedure 2678 2686	nuôi cấy

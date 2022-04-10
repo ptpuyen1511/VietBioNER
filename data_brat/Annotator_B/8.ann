@@ -1,0 +1,55 @@
+T1	Symptom_and_Disease 97 100	HBV
+T2	Symptom_and_Disease 102 105	HIV
+T3	Symptom_and_Disease 109 112	LAO
+T4	Symptom_and_Disease 217 220	HCV
+T5	Symptom_and_Disease 246 249	HIV
+T6	Symptom_and_Disease 259 262	lao
+T7	DateTime 266 294	tháng 32002 đến tháng 2/2003
+T8	Organisation 355 386	Viện Y Dược học Dân tộc TP. HCM
+T9	Symptom_and_Disease 434 437	lao
+T10	Symptom_and_Disease 494 497	HIV
+T11	Symptom_and_Disease 574 577	HCV
+T12	Symptom_and_Disease 581 584	HBV
+T13	DiagnosticProcedure 625 630	ELISA
+T14	DiagnosticProcedure 604 614	test nhanh
+T15	DiagnosticProcedure 640 650	test nhanh
+T16	DiagnosticProcedure 655 671	xét nghiệm ELISA
+T17	Symptom_and_Disease 869 872	HIV
+T18	Symptom_and_Disease 933 936	HCV
+T19	Symptom_and_Disease 951 954	HBV
+T20	Symptom_and_Disease 980 983	HCV
+T21	Symptom_and_Disease 987 990	HIV
+T22	Symptom_and_Disease 1005 1008	HCV
+T23	Symptom_and_Disease 1012 1015	HBV
+T24	Symptom_and_Disease 1030 1033	HIV
+T25	Symptom_and_Disease 1081 1084	HCV
+T26	Symptom_and_Disease 1086 1089	HBV
+T27	Symptom_and_Disease 1093 1096	HIV
+T28	Symptom_and_Disease 1155 1158	HIV
+T29	Symptom_and_Disease 1225 1228	HCV
+T30	Symptom_and_Disease 1331 1339	HIV/AIDS
+T31	Symptom_and_Disease 1341 1359	viêm gan siêu vi C
+T32	Symptom_and_Disease 1697 1700	HIV
+T33	Symptom_and_Disease 1722 1725	HBV
+T34	Symptom_and_Disease 1691 1694	HCV
+T35	Location 1838 1846	Việt nam
+T36	Symptom_and_Disease 1880 1883	HCV
+T37	Symptom_and_Disease 1885 1888	HBV
+T38	Symptom_and_Disease 2084 2087	HCV
+T39	Symptom_and_Disease 2089 2092	HBV
+T40	DiagnosticProcedure 2207 2230	miễn dịch trên màng lọc
+T41	DiagnosticProcedure 2258 2276	kỹ thuật ngưng kết
+T42	DiagnosticProcedure 2171 2181	test nhanh
+T43	DiagnosticProcedure 2150 2160	test nhanh
+T44	DiagnosticProcedure 2425 2429;2430 2435	test nhanh
+T45	Symptom_and_Disease 2663 2666	HCV
+T46	DiagnosticProcedure 2668 2678	test nhanh
+T47	DiagnosticProcedure 2682 2687	ELISA
+T48	Symptom_and_Disease 2719 2722	HCV
+T49	Symptom_and_Disease 2724 2727	HIV
+T50	Symptom_and_Disease 2731 2734	HBV
+T51	Symptom_and_Disease 2796 2799	HCV
+T52	Symptom_and_Disease 2801 2804	HIV
+T53	Symptom_and_Disease 2808 2811	HBV
+T54	Location 485 492	TP. HCM
+T55	Location 1649 1657	Việt nam

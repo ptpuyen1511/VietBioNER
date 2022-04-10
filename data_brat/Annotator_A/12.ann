@@ -1,0 +1,19 @@
+T1	Organisation 17 38	Tổ chức Y tế thế giới
+T2	DateTime 46 54	năm 2011
+T3	Symptom_and_Disease 88 91	lao
+T4	Symptom_and_Disease 182 190	HIV/AIDS
+T5	DateTime 206 214	năm 2011
+T6	Organisation 219 222	WHO
+T7	Location 224 232	Việt Nam
+T8	Symptom_and_Disease 262 270	bệnh lao
+T9	Symptom_and_Disease 314 317	lao
+T10	DateTime 354 370	từ 2011 tới 2015
+T11	Organisation 343 352	Chính phủ
+T12	Organisation 40 43	WHO
+T13	Symptom_and_Disease 420 423	lao
+T14	Location 457 468	huyện Tứ Kỳ
+T15	Location 470 478;479 484	tỉnh Hải Dương
+T16	Location 652 660;661 663	huyện Tứ Kỳ
+T17	Symptom_and_Disease 639 647	bệnh lao
+T18	Location 825 839	tỉnh Hải Dương
+T19	DateTime 843 856	2008 tới 2012

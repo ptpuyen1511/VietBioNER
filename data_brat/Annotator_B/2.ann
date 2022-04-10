@@ -1,0 +1,46 @@
+T1	Symptom_and_Disease 9 29	LAO PHỔI - MÀNG PHỔI
+T2	Organisation 43 63	BỆNH VIỆN NHI ĐÔNG I
+T3	Organisation 67 92	BỆNH VIỆN PHẠM NGỌC THẠCH
+T4	Symptom_and_Disease 218 243	bệnh lao phổi - màng phổi
+T5	Organisation 248 252;253 268	Bệnh viện Nhi Đồng I
+T6	Organisation 272 297	Bệnh viện Phạm Ngọc Thạch
+T7	DateTime 301 330	tháng 8/2006 đến tháng 5/2008
+T8	Symptom_and_Disease 413 430;431 435	lao phối hay màng phối
+T9	DiagnosticProcedure 439 444	BK(+)
+T10	DiagnosticProcedure 450 461	PCR lao (+)
+T11	Symptom_and_Disease 501 520	Lao phổi- màng phổi
+T12	Symptom_and_Disease 674 677	HIV
+T13	Symptom_and_Disease 649 652	lao
+T14	Symptom_and_Disease 716 730	Suy dinh dưỡng
+T15	Symptom_and_Disease 751 753	ho
+T16	Symptom_and_Disease 787 790	sốt
+T17	Symptom_and_Disease 826 836	ho kéo dài
+T18	Symptom_and_Disease 842 853	sốt kéo dài
+T19	Symptom_and_Disease 861 868	sụt cân
+T20	Symptom_and_Disease 901 909	ran phổi
+T21	Symptom_and_Disease 925 935	ran ẩm, nổ
+T22	Symptom_and_Disease 946 955	Ho ra máu
+T23	Symptom_and_Disease 981 989	lao phối
+T24	Symptom_and_Disease 1000 1013	lao màng phổi
+T25	DiagnosticProcedure 1027 1033	BK (+)
+T26	Symptom_and_Disease 1129 1132	HIV
+T27	Symptom_and_Disease 1163 1172	thiếu máu
+T28	Symptom_and_Disease 1374 1400	Bệnh lao phổi và màng phổi
+T29	Symptom_and_Disease 1444 1454	Ho kéo dài
+T30	Symptom_and_Disease 1456 1467	sốt kéo dài
+T31	Symptom_and_Disease 1469 1483	suy dinh dưỡng
+T32	Symptom_and_Disease 1525 1528	HIV
+T33	Symptom_and_Disease 1532 1535	lao
+T34	Symptom_and_Disease 1583 1592	thiếu máu
+T35	DiagnosticProcedure 1551 1554	IDR
+T36	DiagnosticProcedure 1142 1145	IDR
+T37	DiagnosticProcedure 1105 1108	cấy
+T38	DiagnosticProcedure 1082 1095	Soi trực tiếp
+T39	Symptom_and_Disease 1311 1319	lao phổi
+T40	DiagnosticProcedure 1651 1664	BK dương tính
+T41	DiagnosticProcedure 1603 1615	X quang phổi
+T42	DiagnosticProcedure 1715 1733	PCR lao dương tính
+T43	Symptom_and_Disease 1757 1760	lao
+T44	DiagnosticProcedure 1788 1798	BK âm tính
+T45	DiagnosticProcedure 1192 1204	X quang phổi
+T46	Symptom_and_Disease 618 621	lao

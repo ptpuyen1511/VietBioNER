@@ -1,0 +1,114 @@
+ 
+BỘ GIÁO DỤC VÀ ĐÀO TẠO BỘ Y TẾ
+ĐẠI HỌC Y DƯỢC THÀNH PHỐ HÒ CHÍ MINH
+
+*******
+
+CAO XUÂN THỤC
+
+NGHIÊN CỨU GIÁ TRỊ CỦA PHOSPHATASE KIÊM,
+LYSOZYME, ADENOSINE DEAMINASE
+VÀ INTERFERON GAMMA TRONG CHÁN ĐOÁN
+TRÀN DỊCH MÀNG PHỔI DO LAO
+
+Chuyên ngành: Nội Hô Hấp
+Mã số: 62720144
+
+LUẬN ÁN TIẾN SĨ Y HỌC
+
+Người hướng dẫn khoa học:
+
+PGS.TS. Trần Văn Ngọc
+
+TP. Hô Chí Minh - Năm 2018
+
+ 
+MỞ ĐẦU
+
+Lao là nguyên nhân nhiễm trùng gây tử vong hàng đầu trên thế giới
+[23],[27],[47],[83]. Theo Tổ chức Y tế thế giới (WHO) 2010 có 8,8 triệu trường
+hợp lao mới (13% đồng nhiễm với HIV) và 1,1 triệu người chết vì bệnh lao ở
+người HIV (-) và 0,35 triệu người chết ở người HIV (+) [105]. Tỷ lệ tử vong do
+lao chiếm 1/4 (25%) trong tổng số tử vong do mọi nguyên nhân khác cộng lại.
+Lao cũng là một trong hai nguyên nhân thường gặp nhất gây ra tràn dịch màng
+phổi (TDMP) dịch tiết ưu thế lympho bào [6],[10],[15],[49]. Ở Việt Nam
+TDMP do lao đứng hàng đầu trong các bệnh lao ngoài phổi (chiếm 39,2% theo
+thống kê của Viện lao và bệnh phổi [17].
+
+Việc chẩn đoán nguyên nhân tràn dịch màng phối do lao ở Việt Nam
+cũng như trên thế giới đôi khi khó khăn và cần đặt ra ở bất kỳ bệnh nhân tràn
+dịch màng phổi địch tiết nào. Chẩn đoán xác định được thực hiện qua kỹ thuật
+chọc dò màng phổi lấy dịch màng phổi đi phân tích về sinh hóa, tế bảo, vi
+trùng, sinh thiết màng phổi lấy mẫu mô làm giải phẫu bệnh.
+
+Ở nước ngoài, xét nghiệm phân tích dịch màng phổi cho kết quả chẩn
+đoán cao nhờ sử dụng nhiều xét nghiệm tiên tiến về sinh hóa, tế bào, vi trùng
+trong dịch màng phổi. Tuy nhiên, các xét nghiệm tế bào và vi trùng trong chân
+đoán lao có độ nhạy còn thấp. Sinh thiết màng phổi - một tiêu chuẩn vàng cho
+phép chân đoán xác định TDMP do lao thông qua sự tồn tại mô viêm lao đặc
+hiệu - tỉ lệ chẩn đoán dương tính vẫn còn thấp 56 — 82% [19], [21],[49],[59].
+
+Tại Việt Nam, các xét nghiệm cần thiết chẩn đoán lao không đủ, hiệu quả
+chẩn đoán của phân tích dịch màng phổi còn thấp.
+
+Hiện nay, ở nước ta, AFB dương tính trong đàm là phương tiện thường
+nhất để chẩn đoán tràn dịch màng phổi đi kèm với lao phổi. Nếu AFB không
+được phát hiện, phần lớn các trường hợp TDMP do lao khác được chân đoán tại
+địa phương đơn thuần dựa vào đặc điểm tràn dịch màng phổi dịch tiết ưu thế
+lympho bào có kèm hoặc không với phản ứng lao tố dương tính mạnh. Ngoài
+các xét nghiệm thường qui cho lao, các xét nghiệm mới, tiên tiến để chẳn đoán
+lao đa phần không phổ biến ngoại trừ ở các bệnh viện trung tâm khu vực. Vì
+vậy, rất nhiều bệnh nhân tràn dịch màng phổi dịch tiết ưu thế lympho bào đã
+được chân đoán và điều trị thử lao. Mặc dù TDMP do lao có thể tự giới hạn
+trong vài tháng mà không cần điều trị, việc chẩn đoán và điều trị sai có thể làm
+bệnh diễn tiến nặng và biến chứng lao các cơ quan khác trong khoảng 65%
+trường hợp [17],[63],[88]. Điều trị thử không được khuyến cáo vì mang đến
+nhiều nguy cơ như: bỏ sót chẩn đoán khác, đặc biệt là ung thư; tốn kém tiền bạc
+và thời gian; tác dụng phụ thuốc kháng lao trên gan, thận, thần kinh ngoại biên,
+khớp..., gây tâm lý hoang mang lo lắng cho thân nhân và bệnh nhân.
+
+Vài dấu ấn sinh hóa đã được phát hiện giúp ích cho việc chẩn đoán
+TDMP do lao, bao gồm sự gia tăng các chất sau trong dịch màng phổi:
+Phosphatase kiềm, Adenosin deaminase (ADA), Interferon gamma (INF-y),
+Lysozyme, Interleukin (IL)-12p40, IL-18, Immunosuppressive Acidic Protein
+(LAP), soluble IL-2 receptors (sIL-2Rs)... Nhiều nghiên cứu trên thế giới đã cho
+thấy rằng những dấu ấn này có giá trị trong chân đoán TDMP do lao.
+
+Trong tình hình Việt Nam hiện nay, các cơ sở chưa trang bị được phòng
+xét nghiệm đủ tiêu chuẩn để thực hiện kỹ thuật PCR lao, chưa làm được một số
+dấu ấn sinh hóa, chưa làm được sinh thiết màng phổi và/hoặc chưa đọc được
+tiêu bản giải phẫu bệnh mảnh mô màng phối. Do đó, việc tìm kiếm một xét
+nghiệm mới, tiên tiến, chân đoán nhanh, ít xâm lấn, có độ nhạy và độ đặc hiệu
+biệt cao, tương đối rẻ tiền, dễ thực hiện, có thể dùng rộng rãi ở tuyến cơ sở là
+hết sức cần thiết.
+
+Thêm vào đó, các xét nghiệm có giá trị chẩn đoán TDMP do lao cao hiện
+nay như ADA và INF-y chưa được thực hiện rộng rãi. INF-y chỉ thực hiện được
+trên hệ thống máy công nghệ cao ở một số bệnh viện lớn tuyến trung ương nên
+khả năng phổ biến rộng rãi xét nghiệm này là khó, ADA dù dễ thực hiện nhưng
+chưa được nghiên cứu và phổ biến rộng rãi, trong khi ALP và Lysozyme dù giá
+trị chẩn đoán TDMP do lao không cao bằng ADA và INFy nhưng rẻ tiền, dễ
+thực hiện trên các máy xét nghiệm sinh hóa thông thường, có khả năng phổ biến
+được ở tuyến cơ sở.
+
+Với mục đích xác định dấu ấn sinh hóa nào hữu ích hơn trong chẩn đoán
+TDMP do lao giữa ALP, Lysozyme, ADA và INF-y; và với giả thuyết có thể
+gia tăng hơn nữa độ đặc hiệu và độ nhạy của từng xét nghiệm trong dịch màng
+phổi, cũng như gia tăng giá trị chẩn đoán khi kết hợp các xét nghiệm, đặc biệt là
+ALP và Lysozyme để có thể phổ biến rộng rãi ở tuyến cơ sở, chúng tôi tiến
+hành đề tài này nhằm “Nghiên cứu giá trị của Phosphatase kiềm, Lysozyme,
+Adenosine deaminase và Interferon gamma trong chẩn đoán tràn dịch màng
+phổi do lao” với mục tiêu nghiên cứu:
+
+1. Nhận xét về đặc điểm lâm sàng, cận lâm sàng của nhóm bệnh nhân
+được chân đoán cuối cùng là tràn dịch màng phổi do lao.
+
+2. Xác định giá trị chẩn đoán của từng xét nghiệm: Phosphatse kiềm dịch
+màng phổi (ALP DMP) và tỉ số ALP địch màng phổi / huyết thanh (ALP
+DMP/HT), Lysozyme dịch màng phổi (Lys DMP) và tỉ số Lysozyme dịch màng
+phổi/ huyết thanh (Lys DMP/HT), Adenosine deaminase dịch màng phổi (ADA
+DMP) và Interferon gamma dịch màng phổi (INF-y DMP) trong TDMP do lao.
+
+3. Xác định giá trỊ chẩn đoán các phối hợp xét nghiệm: ALP, Lysozyme,
+ADA và INF-y trong TDMP do lao.
+

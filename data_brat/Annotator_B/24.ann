@@ -1,0 +1,89 @@
+T1	Symptom_and_Disease 8 16	Bệnh lao
+T2	Symptom_and_Disease 144 147	lao
+T3	Symptom_and_Disease 167 170	lao
+T4	Symptom_and_Disease 174 177	HIV
+T5	Symptom_and_Disease 248 256	bệnh lao
+T6	Symptom_and_Disease 351 354	Lao
+T7	Symptom_and_Disease 387 393	HIV(+)
+T8	Symptom_and_Disease 428 434	HIV(+)
+T9	Symptom_and_Disease 487 490	lao
+T10	Symptom_and_Disease 546 553	lao mới
+T11	Symptom_and_Disease 582 585	HIV
+T12	Symptom_and_Disease 621 624	lao
+T13	Symptom_and_Disease 647 650	HIV
+T14	Symptom_and_Disease 675 678	lao
+T15	Symptom_and_Disease 755 758	lao
+T16	Symptom_and_Disease 835 838	lao
+T17	Symptom_and_Disease 864 867	HIV
+T18	Symptom_and_Disease 900 903	lao
+T19	Symptom_and_Disease 907 910	HIV
+T20	Symptom_and_Disease 936 943	lao/HIV
+T21	Location 950 965	vùng cận Sahara
+T22	Location 966 974	Châu Phi
+T23	Location 984 990	Châu Á
+T24	Symptom_and_Disease 1163 1166	lao
+T25	Symptom_and_Disease 1170 1173	HIV
+T26	Symptom_and_Disease 1206 1209	lao
+T27	Symptom_and_Disease 1215 1223	bệnh lao
+T28	Symptom_and_Disease 1309 1312	lao
+T29	Symptom_and_Disease 1889 1892	lao
+T30	Symptom_and_Disease 1972 1980	bệnh lao
+T31	Symptom_and_Disease 2045 2048	lao
+T32	Symptom_and_Disease 2088 2091	lao
+T33	Symptom_and_Disease 2112 2115	Lao
+T34	Symptom_and_Disease 2168 2171	lao
+T35	Symptom_and_Disease 2351 2354	lao
+T36	Symptom_and_Disease 2641 2644	lao
+T37	Symptom_and_Disease 2948 2951	lao
+T38	Symptom_and_Disease 3109 3112	lao
+T39	Symptom_and_Disease 3468 3471	lao
+T40	Symptom_and_Disease 3513 3516	lao
+T41	Symptom_and_Disease 3618 3621	lao
+T42	Symptom_and_Disease 3872 3875	lao
+T43	Symptom_and_Disease 3931 3934	lao
+T44	Symptom_and_Disease 3999 4002	HIV
+T45	Symptom_and_Disease 4029 4032	lao
+T46	Location 4069 4090	Thành Phố Hồ Chí Minh
+T47	Symptom_and_Disease 4102 4105	lao
+T48	Symptom_and_Disease 4148 4151	lao
+T49	Symptom_and_Disease 4176 4179	lao
+T50	DateTime 4390 4398	năm 1994
+T51	DateTime 4408 4416	năm 1997
+T52	DateTime 4423 4431	Năm 2001
+T53	Symptom_and_Disease 4457 4460	lao
+T54	Symptom_and_Disease 4511 4526	lao phổi AFB(+)
+T55	Symptom_and_Disease 4538 4553	lao phổi AFB(-)
+T56	Symptom_and_Disease 4566 4569;4570 4580	lao ngoài phổi
+T57	Symptom_and_Disease 4617 4623	HIV(+)
+T58	DateTime 4655 4663	năm 1990
+T59	DateTime 4699 4707	năm 2001
+T60	Symptom_and_Disease 4727 4737	lao/HIV(+)
+T61	Organisation 4757 4782	Trung Tâm Phạm Ngọc Thạch
+T62	DateTime 4808 4816	năm 1993
+T63	DateTime 4841 4849	năm 2001
+T64	Symptom_and_Disease 4874 4877	lao
+T65	Symptom_and_Disease 4896 4906	lao/HIV(+)
+T66	Symptom_and_Disease 4942 4945	lao
+T67	Symptom_and_Disease 5044 5054	lao/HIV(+)
+T68	Symptom_and_Disease 5109 5113	AIDS
+T69	Symptom_and_Disease 5158 5164	HIV(+)
+T70	Symptom_and_Disease 5169 5172	lao
+T71	Symptom_and_Disease 5202 5210	bệnh lao
+T72	Symptom_and_Disease 5277 5280	lao
+T73	Symptom_and_Disease 5313 5316	HIV
+T74	Symptom_and_Disease 5370 5373	lao
+T75	Symptom_and_Disease 5394 5397	lao
+T76	Symptom_and_Disease 5423 5426	lao
+T77	Symptom_and_Disease 5445 5455	lao/HIV(+)
+T78	Symptom_and_Disease 5514 5524	Lao/HIV(+)
+T79	Symptom_and_Disease 5697 5700	lao
+T80	Symptom_and_Disease 5734 5737	Lao
+T81	Symptom_and_Disease 5773 5783	lao/HIV(+)
+T82	Symptom_and_Disease 5808 5818	lao/HIV(-)
+T83	Symptom_and_Disease 5859 5869	lao/HIV(+)
+T84	Symptom_and_Disease 5959 5962	lao
+T85	Symptom_and_Disease 5988 6002	lao mới/HIV(+)
+T86	Symptom_and_Disease 6114 6124	lao/HIV(+)
+T87	Symptom_and_Disease 6180 6190	lao/HIV(+)
+T88	Symptom_and_Disease 6286 6294	bệnh lao
+T89	Symptom_and_Disease 6307 6317	lao/HIV(+)

@@ -1,0 +1,43 @@
+T1	Location 23 38	TP. Hồ Chí Minh
+T2	DateTime 65 69	2018
+T3	Symptom_and_Disease 104 112	LAO PHỐI
+T4	DateTime 139 147	NĂM 2017
+T5	Organisation 117 138	PHÒNG KHÁM LAO GÒ VẤP
+T6	Location 170 176	Gò Vấp
+T7	Location 207 228	thành phố Hồ Chí Minh
+T8	Symptom_and_Disease 277 285	lao phôi
+T9	Symptom_and_Disease 391 399	lao phối
+T10	Location 404 415	quận Gò Vấp
+T11	Location 416 437	thành phố Hồ Chí Minh
+T12	DateTime 438 442	2017
+T13	Symptom_and_Disease 485 488	lao
+T14	Symptom_and_Disease 567 570	lao
+T15	DateTime 617 645	tháng 1 đến tháng 8 năm 2017
+T16	DateTime 733 739	3 tuần
+T17	Symptom_and_Disease 819 827	bệnh lao
+T18	Symptom_and_Disease 829 839	ho kéo dài
+T19	Symptom_and_Disease 841 844	sốt
+T20	Symptom_and_Disease 925 933	lao phổi
+T21	Location 938 949	quận Gò Vấp
+T22	Symptom_and_Disease 1057 1060	lao
+T23	Symptom_and_Disease 1073 1081	lao phổi
+T24	Symptom_and_Disease 1155 1170	lao kháng thuốc
+T25	Symptom_and_Disease 1518 1521	lao
+T26	Symptom_and_Disease 1551 1559	bệnh lao
+T27	Symptom_and_Disease 1757 1760	lao
+T28	Symptom_and_Disease 1775 1783	bệnh lao
+T29	Symptom_and_Disease 1829 1832	lao
+T30	Symptom_and_Disease 1864 1867	lao
+T31	Symptom_and_Disease 1917 1920	lao
+T32	Location 2024 2030	Gò Vấp
+T33	Location 2060 2065;2066 2081	thành phố Hồ Chí Minh
+T34	Symptom_and_Disease 2127 2135	bệnh lao
+T35	Symptom_and_Disease 2183 2191	bệnh lao
+T36	Symptom_and_Disease 2291 2294;2295 2299	lao phổi
+T37	Symptom_and_Disease 2414 2417	lao
+T38	Location 2436 2447	quận Gò Vấp
+T39	Location 2449 2470	thành phố Hồ Chí Minh
+T40	Symptom_and_Disease 2581 2584	lao
+T41	Symptom_and_Disease 2717 2725	lao phối
+T42	Location 2730 2741	quận Gò Vấp
+T43	DateTime 2742 2750	năm 2017

@@ -1,0 +1,22 @@
+T1	DiagnosticProcedure 232 252	khuếch đại chuỗi gen
+T2	DiagnosticProcedure 254 257	PCR
+T3	Symptom_and_Disease 281 284	lao
+T4	Location 389 396	TP. HCM
+T5	DateTime 400 413	tháng 01/2001
+T6	DateTime 418 431	tháng 10/2003
+T7	Location 504 524	Viện Pasteur TP. HCM
+T8	Symptom_and_Disease 576 579	lao
+T9	DiagnosticProcedure 592 595	PCR
+T10	DiagnosticProcedure 656 664	nuôi cấy
+T11	Symptom_and_Disease 697 705	bệnh lao
+T12	DiagnosticProcedure 745 748	PCR
+T13	Symptom_and_Disease 778 786	bệnh lao
+T14	DiagnosticProcedure 821 824	PCR
+T15	DiagnosticProcedure 900 908	nuôi cấy
+T16	DiagnosticProcedure 956 959	PCR
+T17	DiagnosticProcedure 981 989	nuôi cấy
+T18	Symptom_and_Disease 1012 1015	lao
+T19	Symptom_and_Disease 106 109	LAO
+T20	Symptom_and_Disease 491 495;496 499	bệnh lao
+T21	Location 6 21	TP. Hồ Chí Minh
+T22	DiagnosticProcedure 83 86	PCR

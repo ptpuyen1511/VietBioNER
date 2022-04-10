@@ -1,0 +1,73 @@
+T1	Symptom_and_Disease 12 20	Bệnh lao
+T2	DateTime 37 62	năm 380 trước công nguyên
+T3	Symptom_and_Disease 119 122	lao
+T4	Symptom_and_Disease 128 136	bệnh lao
+T5	Symptom_and_Disease 148 156	bệnh lao
+T6	Symptom_and_Disease 158 166	Bệnh lao
+T7	Symptom_and_Disease 174 190	bệnh nhiễm trùng
+T8	Symptom_and_Disease 203 206	lao
+T9	Symptom_and_Disease 239 242	lao
+T10	Symptom_and_Disease 267 275	bệnh lao
+T11	Symptom_and_Disease 286 289	lao
+T12	Symptom_and_Disease 340 348	lao phổi
+T13	Symptom_and_Disease 383 386	lao
+T14	Symptom_and_Disease 459 467	bệnh lao
+T15	Location 620 628	Việt Nam
+T16	Symptom_and_Disease 701 709	HIV/AIDS
+T17	Symptom_and_Disease 712 720	bệnh lao
+T18	Symptom_and_Disease 777 785	HIV/AIDS
+T19	Symptom_and_Disease 804 812	bệnh lao
+T20	Symptom_and_Disease 846 849	lao
+T21	Symptom_and_Disease 882 890	Bệnh lao
+T22	Organisation 1072 1093	Tổ chức Y tế Thế giới
+T23	Organisation 1095 1101	TCYTTG
+T24	DateTime 1103 1111	năm 2004
+T25	Symptom_and_Disease 1159 1162	lao
+T26	Symptom_and_Disease 1232 1244	bệnh lao mới
+T27	Symptom_and_Disease 1274 1277	lao
+T28	Symptom_and_Disease 1312 1315	lao
+T29	Symptom_and_Disease 1340 1343	lao
+T30	Symptom_and_Disease 1397 1400	lao
+T31	Location 1426 1434	Việt Nam
+T32	Symptom_and_Disease 1489 1492	lao
+T33	Organisation 1522 1528	TCYTTG
+T34	DateTime 1529 1537	năm 2004
+T35	Location 1545 1561;1562 1572	khu vực Tây Thái Bình Dương
+T36	Location 1573 1581	Việt Nam
+T37	Location 1602 1612	Trung Quốc
+T38	Location 1616 1625	Philippin
+T39	Symptom_and_Disease 1648 1651	lao
+T40	Symptom_and_Disease 1680 1687	lao mới
+T41	Symptom_and_Disease 1715 1723	bệnh lao
+T42	Symptom_and_Disease 1842 1846;1847 1850	bệnh lao
+T43	Symptom_and_Disease 1985 1988	lao
+T44	Symptom_and_Disease 2236 2244	bệnh lao
+T45	Symptom_and_Disease 2348 2351	lao
+T46	Symptom_and_Disease 2496 2499	lao
+T47	Symptom_and_Disease 2519 2527	bệnh lao
+T48	Location 2621 2638	thành phố Cần Thơ
+T49	Location 2640 2644	TPCT
+T50	Symptom_and_Disease 2711 2714	lao
+T51	Symptom_and_Disease 2779 2787	bệnh lao
+T52	Symptom_and_Disease 2808 2811	lao
+T53	Symptom_and_Disease 2839 2842	lao
+T54	Location 2843 2857	quận Ninh Kiểu
+T55	Symptom_and_Disease 2899 2902	lao
+T56	Symptom_and_Disease 2919 2927	bệnh lao
+T57	Symptom_and_Disease 2987 2995	bệnh lao
+T58	Symptom_and_Disease 3025 3033	bệnh lao
+T59	Symptom_and_Disease 3111 3119	lao phổi
+T60	Symptom_and_Disease 3185 3188	lao
+T61	Location 3193 3207	quận Ninh Kiểu
+T62	Location 3209 3213	TPCT
+T63	Symptom_and_Disease 3399 3407	lao phổi
+T64	Symptom_and_Disease 3524 3532	lao phổi
+T65	DateTime 3563 3586;3587 3603	từ tháng 9 năm 2008 đến tháng 2 năm 2009
+T66	Symptom_and_Disease 3617 3620	lao
+T67	Location 3625 3639	quận Ninh Kiểu
+T68	Location 3641 3645	TPCT
+T69	Symptom_and_Disease 3717 3720	lao
+T70	Symptom_and_Disease 3769 3777	bệnh lao
+T71	Symptom_and_Disease 3877 3885	bệnh lao
+T72	Symptom_and_Disease 3977 3985	bệnh lao
+T73	Location 2605 2619	quận Ninh Kiểu

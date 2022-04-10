@@ -1,0 +1,162 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO BỘ Y TẾ
+
+TRƯỜNG ĐẠI HỌC Y KHOA HÀ NỘI
+
+LÊ NGỌC DUNG
+
+NGHIÊN CỨU MỘT SỐ BIẾN ĐỔI MIỄN DỊCH Ở
+BỆNH NHÂN LAO PHỔI.
+
+Chuyên ngành : lao và bệnh phối
+Mã số : 3.01.38
+
+LUẬN ÁN PHÓ TIẾN SĨ KHOA HỌC Y DƯỢC
+
+Người hướng dân khoa học :
+
+GS. PTS. Nguyễn Đình Hường
+TS. Nguyễn Chí Phi
+
+HÀ NỘI - 1996
+
+MỞ ĐẦU
+
+Tháng 4 năm 1993, Tổ chức y tế thế giới [WHO] tuyên bố lao là một
+vấn đề y tế khẩn cấp toàn cầu: vì nhận thấy lao là một trong những vấn đề bị
+lãng quên nhiều nhất của y tế toàn cầu, và dịch lao đã vượt khỏi tầm kiểm soát
+của nhiều khu vực trên thế giới [ 89 ].
+
+Tính chung, khoảng một phần ba dân số thế giới bị nhiễm trực khuẩn
+lao, và khoảng 10% số người bị nhiễm này sẽ phát triển thành lao hoạt động
+vào một thời gian nào đó. Năm 1992, có trên 8 triệu trường hợp bệnh mới; con
+số này tiếp tục tăng lên và sẽ lên đến khoảng 90 triệu trường hợp bệnh mới,
+với khoảng 30 triệu người chết do lao trong thập niên 1990 - 1999.
+
+[113b, 89 ]. Hầu hết các trường hợp lao mới và trên 98% các trường hợp tử
+vong do lao xảy ra ở thế giới đang phát triển [ 113b ]. 49% các trường hợp lao
+đã được công bố năm 1990 ( 3,8 triệu) thuộc khu vực Đông Nam Á [ 89 ].
+
+Tỉ lệ lao ghỉ nhận được trên 100.000 dân ( notification rates ) trên phạm
+vi toàn cầu của giai đoạn 1989 - 1991 ( 74,6) so với giai đoạn 1984 - 1986(
+61,8) đã tăng lên 20,8%. Trong đó, tăng ở bốn khu vực kiểm soát của WHO :
+châu Phi, Trung Đông, Đông Nam Á và Tây Thái Bình Dương. Nguy cơ nhiễm
+lao hàng năm cao nhất là ở châu Phi cận Sahara ( 1,5 - 2,5%) và Đông Nam Á
+(1-2%) [89]. 
+
+Mới đây, tại nhiều nước công nghiệp phát triển, lao không còn giảm di
+SO VỚI giai đoạn trước.
+
+Việc kiểm soát lao đã và đang trở nên khó khăn hơn vì sự phát triển của
+các chủng trực khuẩn lao kháng thuốc, và sự bùng nổ của đại dịch AIDS.
+
+Trong mấy thập kỷ qua, thế giới đã đạt được những kết quả to lớn trong
+việc tìm hiểu kỹ lưỡng hơn về dịch tễ học, bệnh sinh và bệnh căn học, đặc biệt
+là về hoá trị liệu, miễn dịch phòng bệnh và phát triển kỹ thuật để phục vụ mục
+tiêu kiểm soát, tiến tới loại trừ bệnh lao. Chính thành công rực rỡ đó đã cho
+plép dự tính trong vài thập kỷ tới sẽ hạ chỉ số nhiễm lao xuống mức 1%, nguy
+cơ nhiễm lao ở mức 1% tại những nước đang phát triển, và còn có thể loại trừ
+bệnh này ở cả châu Á và châu Phi. Song ý tưởng này đã bị đảo lộn từ khi (
+1986) có những công bố về số người mắc lao hàng năm đã tăng lên ngay tại
+Mỹ.
+
+Trong tình hình phức tạp như đã tóm tất ở phần trên, chiến lược thanh
+toán bệnh lao khó có thể được hoàn tất trong vài thập kỷ tới ngay ở các nước
+phát triển, chưa nói đến các nước đang phát triển.
+
+Ở nước ta, sau gần 40 năm hoạt động ( tính từ 1957) công tác kiểm soát
+bệnh lao đã có những cố gắng lớn, đạt được nhiều thành quả đáng ghi nhận.
+Tính đến tháng 6/ 1990, chương trình chống lao cấp II đã bảo vệ cho khoảng
+43 triệu dân. Tỉ lệ số dân được bảo vệ còn chênh lệnh giữa các vùng [ 4b ].
+Chương trình bài lao đã xác định được một đường lối phù hợp với hoàn cảnh
+đất nước, đáp ứng được các nguyên tắc cơ bản của một chương trình bài lao ở
+một nước có nền kinh tế đang phát triển [ 6b ]. Mới đây, bằng các nghiên cứu
+về nguy cơ nhiễm lao hàng năm ( R) và số lao có vi khuẩn mới ( IM +) phát
+hiện được hàng năm từ 1986 - 1993, chương trình chống lao nước ta đã ước
+tính và công bố các số liệu dịch tễ học bệnh lao như sau :
+
+Lao mới M(+)(IM+) : 60.000 người
+Lao mới mọi thể(I)  : 130.000 người
+Tổng số lao M + ( PM +) : 120.000 người
+Tổng số lao mọi thể : 260.000 người
+
+Khả năng phát hiện hiện tại thường < 67% so với số đang có. Như vậy.
+ít nhất phải 12 năm sau mới hy vọng làm giảm nguy cơ nhiễm lao hàng năm
+(R) từ 1,5% xuống 0,75%. [ Ib ].
+Trong lịch sử nghiên cứu và kiểm soát bệnh lao, miễn dịch học đã và
+đang đóng góp vai trò quản trọng. Nhiều thành tựu nổi bật về MDH trong lao
+mà giá trị ứng dụng ngày nay vẫn còn được phát huy, như phản ứng bì với
+tuberculin/ PPD, vaccin BCG. Ngoài ra còn rất nhiều thành tựu MDH đánh
+dấu những chặng quan trọng trong hiểu biết của loài người về những cơ chế dị
+ứng học và cơ chế bảo vệ MDH chống lao, tạo cơ sở khoa học cho những
+chiến lược kiểm soát bệnh lao ngày càng đạt được hiệu quả cao.
+
+Nhìn chung, MDH trong bệnh lao đã và đang tập trung vào một số lĩnh
+vực sau :
+
+Tách, tinh chế và xác định các tính chất hoá học và khả năng gây
+miễn dịch của các kháng nguyên M. Tuberculosis.
+
+Ứng dụng các hiểu biết trên vào việc phát triển các phương pháp kỹ
+thuật có thể góp phần tăng cường khả năng phát hiện bệnh lao, giám sát dịch
+tễ học, điều trị và dự phòng hoá học và miễn dịch.
+Nghiên cứu cơ sở MDH của các quá trình bệnh sinh học của lao, và
+của các cơ chế bảo vệ MDH chống lao. Đỉnh cao hiện nay của lĩnh vực
+nghiên cứu này là những thành tựu xác định các tiểu quần thể lympho có chức
+năng đặc hiệu và vai trò của các yếu tố hoà tan ( lymphokin,...).
+Phát triển vaccin có hiệu quả cao.
+Phát triển các phương pháp huyết thanh học chẩn đoán lao, dựa trên
+những hiểu biết về phản ứng MDTD trong lao.
+
+Mặc dù miễn dịch học trong bệnh lao đã đạt đưọc những thành tựu có
+giá trị khoa học và thực tiễn to lớn, song những khoảng trống đã bị bộc lộ rõ
+rệt trong sự hiểu biết của con người về MDH của bệnh lao. Trong đó, có thể
+kề ra mội số ví dụ, như :
+Bản chất của các kích thích KN gây nên phản ứng dị ứng ( DTH) và
+của các kích thích kháng nguyên gây nên phản ứng miễn dịch bảo vệ chống
+M. tuberculosIs.
+
+Vai trò đích thực của tiểu quần thể lympho TCD8, và của tiểu quần thể
+y ð/Tlympho.
+
+Sự chuyển đổi từ phản ứng của tiểu quần thể Th1 sang tiểu quần thể
+Th2 tương ứng với tình trạng chuyển từ phản ứng sang vô ứng với kích thích
+KN M. tuberculosis gặp ở động vật thí nghiệm, liệu có phù hợp với trạng thái
+bệnh lý ở bệnh nhân lao không?
+
+Có một miền trống khá rộng trong sự hiểu biết về bản chất và vai trò
+của các phản ứng miễn dịch thể địch đối với KN M. tuberculosis về cả hai
+phương điện MD bảo vệ cơ thể và miễn dịch bệnh lý. Khoảng trống này tồn tại
+được do ít có công trình nghiên cứu đặt tiêu điểm vào nó; có lẽ do sự thiên
+kiến sẵn có từ lâu rằng MD bảo vệ trong lao do các cơ chế MDTTB đảm nhiệm.
+
+Số công trình nghiên cứu về những biến đổi miễn dịch có thể có vai
+trò trực tiếp đối với các hoạt động lâm sàng học bệnh lao còn ít.
+
+Nếu thừa nhận rằng một cơ thể nhiễm lao phát triển thành bệnh nhân
+lao một khi mối quan hệ giữa sự bảo vệ bằng cơ chế miễn dịch học với độc lực
+của M. tuberculosis bị lệch về phía vi khuẩn, thì sự rối loạn các mối quan hệ
+sinh học và miễn dịch học ở bệnh nhân lao sẽ xuất hiện vừa như là hậu quả
+của sự mất cân bằng nói trên vừa là nguyên nhân của vô số biểu hiện lâm sàng
+và cận lâm sàng của bệnh nhân lao. Ở lĩnh vực này, các kết quả nghiên cứu
+còn quá ít ỏi.
+
+Trong bối cảnh như vậy, luận án này được xây dựng trên cơ sở các
+nghiên cứu nhằm vào máy mục đích sau đáy :
+
+1. Khảo sát sự biến đổi phản ứng MDTB ở bệnh nhân lao phối mới được
+chẩn đoán thông qua việc đánh giá phản ứng da với tuberculin và DNCB;
+xác định quy luật biến động của số lượng BC và LP trong máu ngoại vi
+theo thời gian điều trị; đánh giá sự biến đổi khả năng chuyển dạng blast
+của lympho máu ngoại vi, có kích thích đặc hiệu ( PPD, BCG) và không
+đặc hiệu ( PHA).
+2. Khảo sát sự biến đổi phản ứng MDTD ở bệnh nhân lao phổi mới được
+chẩn đoán thông qua việc đánh giá sự thay đổi và tồn tại của phức hợp
+miễn dịch tuần hoàn và IgA, IgG, IgM trong huyết thanh.
+3. Xác định một số mối tương quan giữa các thông số miễn dịch, và giữa
+các thông số miễn dịch với một số chỉ tiêu về khí trong máu và thăng bằng
+acid - base ở bệnh nhân lao phổi mới được chẩn đoán.
+
+Mục đích này đặt ra nhằm đạt tới mục tiêu đánh giá sự rối loạn và
+khả năng hồi phục của một số hệ thống cân bằng sinh học ở bệnh nhân lao
+phổi.
+

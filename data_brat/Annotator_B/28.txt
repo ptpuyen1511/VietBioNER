@@ -1,0 +1,60 @@
+ĐẶT VÁN ĐÈ
+
+Hiện nay, lao đa kháng thuốc (LĐKT) và lao siêu kháng thuốc (LSKT)
+không còn là một khái niệm mới mẻ mà đã trở thành một thách thức lớn trong
+điều trị bệnh lao trên toàn thế giới. Số mắc LĐKT ngày cảng gia tăng theo thời
+gian, năm 2004 chỉ có 424.203 ca thì đến năm 2011 đã tăng lên 650.000 ca
+[135]. Tỷ lệ mắc LSKT thay đổi tùy vào quốc gia nhưng cũng có xu hướng ngày
+càng tăng lên. Riêng tại Việt Nam, một số báo cáo cho thấy tình trạng LĐKT đã
+xuất hiện từ thập niên 90 với tỷ lệ vào khoảng 2,3%. Trong những năm tiếp theo
+tỷ lệ này ngày càng tăng và đến năm 2000 thì tỷ lệ này đã lên đến 3%, Trong giai
+đoạn 2004-2005 tỷ lệ LĐKT trong nhóm lao mới là 2,7% còn nhóm đã điều trị
+lao là 19% [12]. Trong tương lai, nêu không có biện pháp kiểm soát phù hợp thì
+tỷ lệ này sẽ tiếp tục tăng cao.
+
+Theo Tổ chức Y tế Thế giới (WHO), LĐKT được định nghĩa là vi khuẩn
+lao kháng với nhiều loại thuốc kháng lao (TKL), trong đó kháng cả Isoniazid (H)
+và Rifampicin (R) và LSKT là vi khuẩn kháng đa kháng thuốc, kháng thêm một
+loại thuốc trong nhóm fluoroquinolone và kháng với một loại thuốc tiêm hàng
+thứ hai (Capreomycin (Cm), Kanamycin (Km) và Amikacin (Am)) [131]. Như
+vậy có thê thấy muốn điều trị hai thể lao này, Việc phối hợp nhiều loại TKL với
+liệu trình phức tạp là điều không thể tránh khỏi. Và điều này dẫn đến một hệ quả
+là bệnh nhân phải gánh chịu nhiều loại tác dụng không mong muốn do nhiều loại
+thuốc khác nhau gây ra, đặc biệt là các TKL hàng thứ hai có phô tác dụng không
+mong muôn rât đa dạng và mức độ nặng cũng rất thay đôi.
+
+Không giống với các TKL hàng thứ nhất thường chỉ gây tác dụng không
+mong muốn quan trọng nhất là nhiễm độc gan, các TKL hàng thứ hai có thê gây
+ra tác dụng không mong muốn trên nhiều bộ phận khác nhau của cơ thể. Các tác
+dụng không mong muốn này có thể gây ảnh hưởng đến khoảng 14 hệ thống cơ
+quan từ hệ tiêu hóa cho đến hệ thần kinh trung ương [130]. Mức độ nặng của tác
+dụng không mong muốn có thể chỉ là ngứa ngáy khó chịu nhưng cũng có tác
+dụng không mong muốn gây nguy hiểm tính mạng cho bệnh nhân như hôn mê,
+rỗi loạn tâm thần v.v. Chính vì sự đa dạng này, nên việc nghiên cứu các tác dụng
+không mong muốn của các TKL hết sức khó khăn nhưng lại rất quan trọng vì nó
+giúp điều chỉnh phác đồ điều trị của bệnh nhân sao cho không gây tác dụng
+không mong muốn nhưng vẫn giữ được hiệu quả điều trị tối ưu.
+
+Tại Việt Nam, việc nghiên cứu tác dụng không mong muốn của TKL
+thường tập trung vào các TKUL hàng thứ nhất, mà phổ biến nhất chính là tình
+trạng nhiễm độc gan do 5 loại TKL hàng thứ nhất gây ra [1, 3, 6, 9]. Các nghiên
+cứu liên quan đến TKL hàng thứ hai cũng chỉ tập trung vào hiệu quả điều trị của
+các phác đồ phối hợp sử dụng trong chương trình chống lao [13]. Cho đến thời
+điểm thực hiện nghiên cứu này, tôi chưa tiếp cận được một nghiên cứu nào khảo
+sát về tỷ lệ tác dụng không mong muốn của các TKL trong phác đồ IVa và IVb
+do Bộ Y tế quy định trong “Hướng dẫn chân đoán và điều trị bệnh lao năm
+2009” [2].
+
+Mục tiêu nghiên cứu
+
+Mục tiêu chung: Đánh giá tác dụng không mong muốn cúa TKL trong phác đồ điều trị LKT
+IVa và IVb và các yếu tố nguy cơ làm tăng khả năng mắc tác dụng không mong
+muốn ở bệnh nhân điều trị LKT.
+
+Mục tiêu cụ thể
+1. Xác định các yếu tổ dịch tễ, lâm sàng có thê ảnh hưởng đến việc xuất hiện các
+tác dụng không mong muốn không mong muốn trong quá trình điều trị LKT.
+2. Xác định tý lệ các loại tác dụng không mong muốn ở bệnh nhân điều trị LKT
+bằng phác đồ IVa và [Vb
+3. Xác định mối liên quan giữa các yếu tố dịch tễ, lâm sàng và tác dụng không
+mong muốn của TKL sử dụng trong phác đồ IVa và IVb

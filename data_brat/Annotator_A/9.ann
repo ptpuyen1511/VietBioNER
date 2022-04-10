@@ -1,0 +1,54 @@
+T1	Symptom_and_Disease 52 59	lao/HIV
+T2	DateTime 70 79	2000-2006
+T3	Symptom_and_Disease 133 141	lao /HIV
+T4	Symptom_and_Disease 173 181	HIV/AIDS
+T5	Symptom_and_Disease 196 204	bệnh lao
+T6	Symptom_and_Disease 265 272	lao/HIV
+T7	DateTime 327 336	2000-2006
+T8	DateTime 504 513	thế kỷ 21
+T9	Symptom_and_Disease 515 518	lao
+T10	Symptom_and_Disease 522 530	HIV/AIDS
+T11	Symptom_and_Disease 651 659	HIV/AIDS
+T12	Symptom_and_Disease 671 675;676 679	bệnh lao
+T13	Symptom_and_Disease 748 756	bệnh lao
+T14	Symptom_and_Disease 762 765	Lao
+T15	Location 855 866;867 882	khu vực tây Thái bình dương
+T16	Symptom_and_Disease 942 945	lao
+T17	Symptom_and_Disease 977 980	lao
+T18	Symptom_and_Disease 1030 1034	AIDS
+T19	Symptom_and_Disease 1057 1060	lao
+T20	Symptom_and_Disease 1062 1070	Bệnh lao
+T21	Symptom_and_Disease 1121 1127	HIV(+)
+T22	Symptom_and_Disease 1147 1150	HIV
+T23	Symptom_and_Disease 1169 1172	lao
+T24	Symptom_and_Disease 1206 1212	HIV(+)
+T25	Symptom_and_Disease 1229 1232	lao
+T26	Symptom_and_Disease 1271 1274	lao
+T27	Symptom_and_Disease 1306 1309	HIV
+T28	Symptom_and_Disease 1335 1338	lao
+T29	Symptom_and_Disease 1414 1422	bệnh lao
+T30	Location 1377 1385	châu Phi
+T31	Location 1395 1401	châu Á
+T32	Location 1425 1433	Việt nam
+T33	Location 1451 1465	Thừa thiên Huế
+T34	Symptom_and_Disease 1600 1606	AFB(+)
+T35	Location 1632 1646	Thừa Thiên Huế
+T36	Symptom_and_Disease 1690 1693	HIV
+T37	Location 1705 1713	Việt nam
+T38	Location 1719 1740	thành phố Hỗ Chí Minh
+T39	DateTime 1749 1753	1990
+T40	Symptom_and_Disease 1798 1806	HIV/AIDS
+T41	Symptom_and_Disease 1824 1827	HIV
+T42	Location 1830 1844	Thừa thiên Huế
+T43	Symptom_and_Disease 1867 1870	HIV
+T44	Symptom_and_Disease 1944 1950	HIV(+)
+T45	Symptom_and_Disease 1967 1971	AIDS
+T46	Symptom_and_Disease 2023 2026	HIV
+T47	Symptom_and_Disease 2228 2235	lao/HIV
+T48	Symptom_and_Disease 2374 2377	HIV
+T49	Symptom_and_Disease 2390 2393	lao
+T50	Symptom_and_Disease 2498 2505	lao/HIV
+T51	DateTime 2516 2525	2000-2006
+T52	Symptom_and_Disease 2580 2587	ao /HIV
+T53	Symptom_and_Disease 2619 2627	HIV/AIDS
+T54	Symptom_and_Disease 2642 2650	bệnh lao

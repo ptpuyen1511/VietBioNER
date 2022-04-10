@@ -1,0 +1,61 @@
+T1	Organisation 2 9	BỘ Y TẾ
+T2	Organisation 10 41	ỦY BAN NHÂN DÂN TP. Hồ CHÍ MINH
+T3	DateTime 193 201	NĂM 2017
+T4	Location 351 372	Thành phố Hồ Chí Minh
+T5	DateTime 375 383	Năm 2017
+T6	Organisation 400 421	Tổ chức y tế thế giới
+T7	Organisation 423 426	WHO
+T8	DateTime 429 437	năm 2016
+T9	Location 438 446	Việt Nam
+T10	Symptom_and_Disease 472 480	bệnh lao
+T11	Symptom_and_Disease 518 526	bệnh lao
+T12	Location 546 554	Việt Nam
+T13	Symptom_and_Disease 611 615;616 634	bệnh lao kháng đa thuốc
+T14	Symptom_and_Disease 1147 1163	lao phối AFB (+)
+T15	Symptom_and_Disease 1748 1756	lao phổi
+T16	Location 1808 1816	Việt Nam
+T17	Location 2284 2288;2289 2292	Việt Nam
+T18	Location 2345 2356	quận Gò Vấp
+T19	Symptom_and_Disease 2549 2557	bệnh lao
+T20	Symptom_and_Disease 2715 2723	bệnh lao
+T21	Location 2737 2748	quận Gò Vấp
+T22	DateTime 3047 3064	tháng 11 năm 2016
+T23	Symptom_and_Disease 3256 3264	lao phổi
+T24	Symptom_and_Disease 3278 3294	lao phổi AFB (+)
+T25	Symptom_and_Disease 3365 3373;3374 3378	bệnh lao phổi
+T26	Symptom_and_Disease 3695 3703	lao phối
+T27	Location 3731 3752	thành phố Hồ Chí Minh
+T28	DateTime 3753 3761	năm 2017
+T29	Symptom_and_Disease 3874 3877;3878 3882	lao phối
+T30	DateTime 3914 3922	năm 2017
+T31	Symptom_and_Disease 3985 3993	lao phổi
+T32	Organisation 3998 4008;4009 4012	phòng khám lao
+T33	DateTime 4025 4033	năm 2017
+T34	Symptom_and_Disease 4173 4181	lao phổi
+T35	DateTime 4213 4221	năm 2017
+T36	Organisation 42 79	TRƯỜNG ĐẠI HỌC Y KHOA PHẠM NGỌC THẠCH
+T37	Symptom_and_Disease 1281 1283	ho
+T38	Symptom_and_Disease 1002 1005	lao
+T39	Symptom_and_Disease 1131 1134	lao
+T40	Symptom_and_Disease 1590 1593	lao
+T41	Symptom_and_Disease 1880 1883	lao
+T42	Symptom_and_Disease 1950 1953	lao
+T43	Symptom_and_Disease 2336 2339	lao
+T44	Symptom_and_Disease 2453 2456	lao
+T45	Symptom_and_Disease 2668 2671	lao
+T46	Symptom_and_Disease 3153 3156	lao
+T47	Symptom_and_Disease 3014 3017	lao
+T48	Symptom_and_Disease 2926 2929	lao
+T49	Symptom_and_Disease 3516 3519	lao
+T50	Symptom_and_Disease 1431 1433	ao
+T51	Symptom_and_Disease 2484 2487	lao
+T52	Symptom_and_Disease 2836 2839	lao
+T53	Location 3466 3472	Gò Vấp
+T54	Symptom_and_Disease 1056 1071	lao kháng thuốc
+T55	Symptom_and_Disease 158 166	LAO PHỔI
+T56	Organisation 171 188;189 192	PHÒNG KHÁM LAO GÒ VẤP
+T57	Organisation 3998 4008;4009 4024	phòng khám lao quận Gò Vấp
+T58	Organisation 4186 4212	phòng khám lao quận Gò Vấp
+T59	Organisation 3887 3913	phòng khám lao quận Gò Vấp
+T60	Organisation 3708 3725;3726 3729	phòng khám lao Gò Vấp
+T61	Organisation 2597 2602;2603 2618	Trung tâm Y tế Gò Vấp

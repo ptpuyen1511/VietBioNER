@@ -1,0 +1,97 @@
+ 
+BỘ Y TẾ ỦY BAN NHÂN DÂN TP. Hồ CHÍ MINH
+TRƯỜNG ĐẠI HỌC Y KHOA PHẠM NGỌC THẠCH
+
+
+LÊ THỊ BÍCH VÂN
+
+TỶ LỆ CHẨN ĐOÁN CHẬM VÀ CÁC YẾU TỐ LIÊN QUAN
+CỦA BỆNH NHÂN LAO PHỔI TẠI PHÒNG KHÁM LAO GÒ
+VẤP NĂM 2017
+
+LUẬN VĂN BÁC SĨ CHUYÊN KHOA II
+Chuyên ngành: QUẢN LÝ Y TÉ
+
+ 
+
+TRƯỜNG BẠI HỌC Y KHOA PHẠM NGỌC THẠCH
+
+
+
+NGƯỜI HƯỚNG DẪN KHOA HỌC
+TS.BS LÊ THANH HẢI
+
+Thành phố Hồ Chí Minh — Năm 2017
+
+
+
+MỞ ĐẦU
+
+Theo Tổ chức y tế thế giới (WHO), năm 2016 Việt Nam vẫn là nước có
+gánh nặng bệnh lao cao, đứng thứ 15 trong 30 nước có số bệnh lao cao nhất toàn
+cầu. Việt Nam cũng đứng hàng thứ 15 trong số 30 quốc gia có gánh nặng bệnh
+lao kháng đa thuốc cao nhất thế giới. Một trong những nguyên nhân đưa đến
+tình trạng này là do chẩn đoán muộn, Sự chậm trễ có thể do bệnh nhân
+chậm trễ trong tìm kiếm dịch vụ chăm sóc sức khỏe (chậm trễ chẩn đoán do bệnh
+nhân), có thể do nhà cung cấp dịch vụ chăm sóc sức khỏe chậm trễ trong việc
+chẩn đoán và điều trị (chậm trễ do hệ thống y tế), hoặc cả hai [46].
+
+Chậm trễ chẩn đoán lao có thể dẫn đến bệnh nặng hơn, gia tăng tình trạng
+lao kháng thuốc, tỷ lệ tử vong cao hơn. Ngoài ra, chậm trễ trong chẩn đoán lao
+đặc biệt là lao phối AFB (+) còn làm tăng nguy cơ lây lan bệnh trong cộng đồng
+ vì hầu hết sự lây truyền xảy ra ở giai đoạn xuất hiện triệu chứng ho và khi
+bắt đầu điều trị. Thông tin về chậm trễ trong việc tìm đến các dịch vụ chăm sóc
+sức khỏe của bệnh nhân rất cần thiết để Chương trình chống lao xác định những
+lĩnh vực cần cải thiện nhằm thúc đẩy hành vi tìm kiếm dịch vụ chăm sóc sức
+khỏe từ phía người dân.
+
+Theo lộ trình từ khi có triệu chứng nghỉ lao cho tới khỏi bệnh, bước đầu
+tiên là bệnh nhân tìm kiếm dịch vụ chăm sóc sức khỏe. Trong khi hiện nay
+chưa có một chương trình sàng lọc chủ động phát hiện lao phổi được tổ chức
+tại các nước có nguồn lực hạn chế như Việt Nam, thì để hệ thống y tế có thể
+nhận biết được các trường hợp mắc lao phụ thuộc rất nhiều vào bệnh nhân
+(những người có triệu chứng ngh lao) tự tìm đến các cơ sở y tế để được khám
+và chẩn đoán. Các nghiên cứu trước đây cho thấy có nhiều yếu tố liên quan đến
+việc tìm kiếm dịch vụ chăm sóc, bao gồm nhận thức về nguy cơ mắc bệnh, kiến
+thức về bệnh và các biểu hiện của bệnh, biết địa điểm cung cấp dịch vụ, khả
+năng đi tới các địa điểm đó, sự kỳ thị của cộng đồng... Tại Việt
+Nam có rất ít nghiên cứu về chậm trễ chẩn đoán lao, tại quận Gò Vấp chưa có
+một nghiên cứu nào đánh giá sự chậm trễ tìm đến dịch vụ chăm sóc sức khỏe
+của bệnh nhân lao.
+
+Trong chương trình chống lao quốc gia, quận/huyện là tuyến chính để
+chẩn đoán và điều trị bệnh lao. Phòng khám Lao quận Gò Vắp trực thuộc Trung
+tâm Y tế Gò Vấp có chức năng quản lý, khám và điều trị bệnh nhân lao. Trong
+những năm qua, công tác phòng chống bệnh lao trên địa bàn quận Gò Vấp đã
+có nhiều nỗ lực, tuy nhiên, qua khảo sát tình hình hoạt động của chương trình
+chống lao, chúng tôi nhận thấy còn một số tồn tại cần quan tâm, đó là tỷ lệ phát
+hiện bệnh nhân lao chưa đạt chỉ tiêu, số bệnh nhân chậm tìm đến phòng khám
+lao khi có triệu chứng nghi lao còn cao, theo thống kê trong tháng 11 năm 2016
+có trên 60% bệnh nhân tìm đến các dịch vụ chăm sóc sức khỏe sau khi có triệu
+chứng nghi lao hơn một tháng. Đây là vấn đề đáng báo động, vì khoảng thời
+gian từ khi bệnh nhân có biểu hiện nghi lao phổi, đặc biệt là lao phổi AFB (+)
+đến khi được chẩn đoán, điều trị càng kéo dài thì khả năng lây truyền bệnh lao
+phổi cho cộng đồng càng tăng. Câu hỏi đặt ra cho chúng tôi, những cán bộ quản
+lý ngành y tế Gò Vấp là “Lý đo nào khiến cho bệnh nhân nghi mắc lao lại đến
+các cơ sở ÿ tế để được khám phát hiện bệnh chậm như vậy? 
+
+Vì vậy, chúng tôi tiến hành nghiên cứu “Xác định tỷ lệ chắn đoán chậm
+và các yếu tố liên quan của bệnh nhân lao phối tại phòng khám lao Gò
+Vấp, thành phố Hồ Chí Minh năm 2017”.
+
+MỤC TIÊU NGHIÊN CỨU
+
+Mục tiêu tổng quát
+
+Xác định tỷ lệ chẩn đoán chậm và các yếu tố liên quan của bệnh nhân lao
+phối tại phòng khám lao quận Gò Vấp năm 2017.
+Mục tiêu cụ thể
+
+Xác định tỷ lệ chẩn đoán chậm của bệnh nhân lao phổi tại phòng khám
+lao quận Gò Vấp năm 2017.
+
+Xác định sự liên quan giữa các yếu tố kinh tế, văn hóa, xã hội, kiến thức,
+bệnh tật, tiếp cận thông tin đến chẩn đoán chậm của bệnh nhân lao phổi tại
+phòng khám lao quận Gò Vấp năm 2017.
+
+

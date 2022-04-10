@@ -1,0 +1,68 @@
+THỰC TRẠNG TUÂN THỦ ĐIÊU TRỊ CỦA BỆNH NHÂN LAO
+VÀ MỘT SÓ YẾU TÓ LIÊN QUAN TẠI PHÒNG KHÁM NGOẠI TRÚ
+BỆNH VIỆN LAO VÀ BỆNH PHỎI BÁC GIANG NĂM 2013
+
+TÓM TÁT
+
+Nghiên cứu mô tả cắt ngang được thực hiện từ
+tháng 1 đến tháng 6 năm 201Z3 tại Bệnh viện Lao và
+Bệnh phỗi tỉnh Bắc Giang. Đối tượng nghiên cứu là
+151 bệnh nhân lao phối đang được quản lý điều trị tại
+phòng khám ngoại trú của bệnh viện trong thời gian
+nghiên cứu. Số liệu được nhập bằng phần mềm
+Epidata 3. 1 và phân tích bằng phần mềm SPSS 16. 0.
+Kết quả: Tỷ lệ bệnh nhân biết đủ các nguyên tắc điều
+trị chiếm 11,6%. Tỳ lệ bệnh nhân tuân thủ đủ các
+nguyên tắc điều trị là 36,4%. Những yếu tố liên quan
+đến không tuân thủ điều trị gồm: bệnh nhân trên 60
+tuỗôi (OR= 2,7; p<0,08); bệnh nhân người dân tộc
+thiểu số (OR=5,3; p<0,05); bệnh nhân không sống
+cùng vợ/chông (OR=2,5; p<0,08); bệnh nhân thuộc
+dện nghèo hoặc cận nghèo tuân (OH=4,5; p<0,05)
+và bệnh nhân có tác dụng phụ của (OR=2,4; p<0,05).
+Khuyến nghị: giáo dục truyền thông giúp bệnh nhân
+tăng cường hiễu biết về nguyên tắc điều trị lao, đặc
+biệt là nguyên tắc dùng thuốc đều đặn. Đối tượng ưu
+tiên là những người trên 60 tuổi, người dân tộc thiểu
+số, người không sống cùng vợ/chồng và những bệnh
+nhân nghèo và cận nghèo. Giám sát điều trị cần được
+duy trì và tăng cường đề giáo dục bệnh nhân và phát
+hiện kịp thời phản ứng phụ của thuốc.
+
+ĐẶT VÁN ĐÈ
+
+Việt Nam đứng thứ 12 trong số 22 nước có số
+bệnh nhân lao mới mắc hằng năm cao nhất thế giới.
+Tỷ lệ hiện mắc lao các thể là 225/100.000 dân, tỷ lệ
+mắc lao mới là 173/100.000 dân, tỷ lệ lao AFB(+) mới
+là 77/100.000 dân, tỷ lệ người bệnh lao mới nhiễm
+HIV là 5%. Tỷ lệ lao đa kháng thuốc ở người bệnh
+lao mới là 2,7%, tỷ lệ kháng đa thuốc ở người bệnh
+lao đã điều trị là 19% và tỷ lệ tử vong do lao là
+23/100.000 dân[2].
+
+Bắc Giang là một tỉnh có số lượng người bệnh lao
+được phát hiện khá cao so với các tỉnh trong cả
+nước. Năm 2012, Bệnh viện Lao và bệnh Phối Bắc
+Giang đã khám cho 11.103 lượt bệnh nhân, điều trị
+nội trú cho 1.663 lượt người bệnh phổi ngoài lao,
+1.265 lao các thể, trong đó số lao phổi là 1.037[1]. Tại
+phòng khám ngoại trú của Bệnh viện Lao và Bệnh
+phổi Bắc Giang, mỗi năm có một lượng lớn bệnh
+nhân lao quản lý điều trị duy trì tại đây sau khi điều trị
+hết giai đoạn tấn công tại bệnh viện. Tuân thủ đúng
+nguyên tắc điều trị bệnh lao đóng vai trò then chốt
+trong việc bảo đảm điều trị khỏi. Ngược lại, không tuân
+thủ điều trị sẽ dẫn tới nhiều nguy cơ cho bản thân
+người bệnh và cộng đồng do tạo điều kiện cho vi
+khuẩn lao kháng thuốc mà hậu quả là không thể điều
+trị khỏi, hoặc điều trị tốn kém gấp hàng trăm lần so với
+điều trị lao không kháng thuốc. Vi khuẩn lao kháng
+thuốc lây ra cộng đồng sẽ gây hậu quả rất lớn. Nghiên
+cứu này được thực hiện nhằm mục tiêu () Mô tả thực
+trạng tuân thủ điều trị của bệnh nhân lao đang điều trị
+tại Phòng khám ngoại trú, Bệnh viện Lao và Bệnh phỗi
+Bắc Giang năm 2013 và (ii) Mô tả một số yếu tố liên
+quan đến việc tuân thủ điều trị của bệnh nhân lao đang
+được quản lý tại Phòng khám ngoại trú, Bệnh viện Lao
+và Bệnh phổi Bắc Giang năm 2013.

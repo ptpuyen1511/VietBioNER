@@ -1,0 +1,18 @@
+T1	DateTime 119 132	NĂM 2015-2016
+T2	Symptom_and_Disease 62 79	LAO PHỎI TÁI PHÁT
+T3	Organisation 84 118	BỆNH VIỆN LAO VÀ BỆNH PHỎI CẢN THƠ
+T4	Symptom_and_Disease 155 172	Lao phôi tái phát
+T5	Symptom_and_Disease 452 469	lao phối tái phát
+T6	Organisation 474 500	Bệnh viện Lao phổi Cân Thơ
+T7	DateTime 501 514	năm 2015-2016
+T8	Symptom_and_Disease 598 615	lao phối tái phát
+T9	Organisation 641 675	bệnh viện Lao và Bệnh phổi Cẩn Thơ
+T10	DateTime 676 692	từ năm 2015-2016
+T11	Symptom_and_Disease 778 780	ho
+T12	Symptom_and_Disease 782 790	khạc đờm
+T13	Symptom_and_Disease 800 807	ran phô
+T14	Symptom_and_Disease 1040 1048	Bệnh lao
+T15	Symptom_and_Disease 1200 1203	lao
+T16	Symptom_and_Disease 977 990	bệnh mạn tính
+T17	DiagnosticProcedure 378 390	X quang phôi
+T18	DiagnosticProcedure 818 829	Xquang phối

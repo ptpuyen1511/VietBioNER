@@ -1,0 +1,50 @@
+T1	Symptom_and_Disease 66 69	lao
+T2	Symptom_and_Disease 117 125	bệnh lao
+T3	Symptom_and_Disease 149 157	bệnh lao
+T4	Location 261 269	Việt Nam
+T5	Symptom_and_Disease 307 310	lao
+T6	Symptom_and_Disease 364 367	lao
+T7	Symptom_and_Disease 376 384	bệnh lao
+T8	Symptom_and_Disease 454 462	bệnh lao
+T9	Symptom_and_Disease 684 687	lao
+T10	Symptom_and_Disease 735 738	lao
+T11	Symptom_and_Disease 857 860	lao
+T12	Symptom_and_Disease 907 910	lao
+T13	Symptom_and_Disease 983 998	lao kháng thuốc
+T14	Symptom_and_Disease 1095 1098	lao
+T15	Symptom_and_Disease 1140 1143	Lao
+T16	Symptom_and_Disease 1188 1191	HIV
+T17	Symptom_and_Disease 1208 1211	lao
+T18	Symptom_and_Disease 1221 1239	lao đa kháng thuốc
+T19	Symptom_and_Disease 1279 1282	HIV
+T20	Symptom_and_Disease 1323 1336;1337 1355	bệnh lý nhiễm trùng đường hô hấp
+T21	Symptom_and_Disease 1369 1395	bệnh nhiễm trùng toàn thân
+T22	Symptom_and_Disease 1451 1460	lao - HIV
+T23	Symptom_and_Disease 1521 1524	lao
+T24	Symptom_and_Disease 1578 1581	lao
+T25	Symptom_and_Disease 1615 1625	lao-HIV(+)
+T26	Symptom_and_Disease 1809 1821	lao - HIV(+)
+T27	Symptom_and_Disease 1845 1854	lao - HIV
+T28	Symptom_and_Disease 1948 1956	bệnh lao
+T29	Location 2003 2011	Việt Nam
+T30	Symptom_and_Disease 2027 2030	lao
+T31	Symptom_and_Disease 2131 2134;2135 2155	lao phổi AFB(+) - HIV(+)
+T32	Location 2188 2196	Việt Nam
+T33	Symptom_and_Disease 2263 2266	lao
+T34	Symptom_and_Disease 2280 2298	lao đồng nhiễm HIV
+T35	Symptom_and_Disease 2409 2412	lao
+T36	Symptom_and_Disease 2425 2447	lao phổi AFB(+)/HIV(+)
+T37	Symptom_and_Disease 2487 2490	lao
+T38	Symptom_and_Disease 2607 2610	lao
+T39	Symptom_and_Disease 2623 2642	lao phổi AFB(+)/HIV
+T40	Organisation 2647 2672	bệnh viện Phạm Ngọc Thạch
+T41	DateTime 2673 2706	từ tháng 9/2007 đến tháng 12/2009
+T42	Symptom_and_Disease 2803 2822	lao phổi AFB(+)/HIV
+T43	Symptom_and_Disease 2855 2858	lao
+T44	Symptom_and_Disease 2884 2887	lao
+T45	Symptom_and_Disease 2925 2928	lao
+T46	Symptom_and_Disease 2962 2983	lao và đồng nhiễm HIV
+T47	Symptom_and_Disease 3080 3083	lao
+T48	Symptom_and_Disease 3096 3099;3100 3115	lao phổi AFB(+)/HIV
+T49	Location 816 824	Việt Nam
+T50	Symptom_and_Disease 1638 1641	lao
