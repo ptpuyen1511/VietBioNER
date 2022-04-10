@@ -5,7 +5,7 @@
 VietBioNER is constituted by biomedical grey literature specified for tuberculosis.
 The corpus was annotated with five named entity categories of Organisation, Location, Date and Time, Symptom and Disease, and Diagnostic Procedure.
 
-The construction of VietBioNER is detailed in our LREC 2022 paper:
+The construction of VietBioNER and some baseline performance are detailed in our LREC 2022 paper:
 
 ```bibtex
 @inproceedings{vietbioner,
@@ -39,9 +39,11 @@ About 74% of sentences in the corpus contained annotated entities, whose distrib
 
 </div>
 
+### Supervised learning benchmark setting
+
 The corpus is randomly split into three sets: training, validation, and test sets. These sets are constructed with an approximate ratio of 7:3:7. Specifically, the training set consists of 706 sentences, the validation set consists of 300 sentences, and the test set has 700 sentences.
 
-The distribution of all entity categories is reported in Table 1.
+The distribution of all entity categories in supervised learning setting is reported in Table 1.
 
 |   Entity Category   | Train | Valid | Test |
 |:-------------------:|:-----:|:-----:|:----:|
@@ -53,9 +55,30 @@ The distribution of all entity categories is reported in Table 1.
 
 *Table 1: Number of entities in each sets.*
 
-Training, validation, and test files are available in the [data](data/) folder for supervised learning.
+Training, validation, and test files are available in the [data_supervised_learning](data_supervised_learning/) folder.
 
-In addition, we also provide the original `.ann` files with brat format in the [data_brat](data_brat/) folder.
+### Few-shot learning benchmark setting
+
+We build $1$-shot, $5$-shot, and $10$-shot learning sets from the training set mentioned in supervised setting.
+For each $n$-shot learning set, we generated 5 random support sets using the Greedy Sampling algorithm [(Yang and Katiyar, 2020)](https://aclanthology.org/2020.emnlp-main.516/). $n$ denotes the number of entities in each category that are selected for inclusion in each support set. Consequently, each $n$-shot support set will have a maximum of $(n \times num\_entity\_categories)$ sentences.
+
+The distribution of all entity categories in few-shot learning setting is reported in Table 2.
+
+| **Entity Category** | **1-shot** | **5-shot** | **10-shot** |
+|:-------------------:|:----------:|:----------:|:-----------:|
+| Symptom_and_Disease |      5     |     20     |      35     |
+| DiagnosticProcedure |      3     |      8     |      13     |
+|       Location      |      4     |      8     |      17     |
+|       DateTime      |      2     |      7     |      13     |
+|     Organisation    |      2     |      6     |      11     |
+
+*Table 2: Number of entities in each sets (average over 5 sets).*
+
+$n$-shot sets are available in the [data_fewshot_learning](data_fewshot_learning/) folder. We can use the same test set as in the supervised setting.
+
+### Original files with brat format
+
+We also provide the original `.ann` files with brat format in the [data_brat](data_brat/) folder.
 
 ## License
 
