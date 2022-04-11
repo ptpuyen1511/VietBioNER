@@ -74,7 +74,7 @@ The distribution of all entity categories in few-shot learning setting is report
 
 *Table 2: Number of entities in each sets (average over 5 sets).*
 
-$n$-shot sets are available in the [data_fewshot_learning](data_fewshot_learning/) folder. We can use the same test set as in the supervised setting.
+`n-shot` sets are available in the [data_fewshot_learning](data_fewshot_learning/) folder. We can use the same test set as in the supervised setting.
 
 ### Original files with brat format
 
