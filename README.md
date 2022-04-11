@@ -60,7 +60,7 @@ Training, validation, and test files are available in the [data_supervised_learn
 ### Few-shot learning benchmark setting
 
 We build `1-shot`, `5-shot`, and `10-shot` learning sets from the training set mentioned in supervised setting.
-For each `n-shot` learning set, we generated 5 random support sets using the Greedy Sampling algorithm [(Yang and Katiyar, 2020)](https://aclanthology.org/2020.emnlp-main.516/). `n` denotes the number of entities in each category that are selected for inclusion in each support set. Consequently, each $n$-shot support set will have a maximum of `(n * num_entity_categories)` sentences.
+For each `n-shot` learning set, we generated 5 random support sets using the Greedy Sampling algorithm [(Yang and Katiyar, 2020)](https://aclanthology.org/2020.emnlp-main.516/). `n` denotes the number of entities in each category that are selected for inclusion in each support set. Consequently, each `n-shot` support set will have a maximum of `(n * num_entity_categories)` sentences.
 
 The distribution of all entity categories in few-shot learning setting is reported in Table 2.
 
