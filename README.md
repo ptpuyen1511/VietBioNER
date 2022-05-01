@@ -22,7 +22,7 @@ The construction of VietBioNER and some baseline performance are detailed in our
 | Entity Category         | Examples                                                                                  |
 |:-------------------------:|-------------------------------------------------------------------------------------------|
 | `Symptom_and_Disease` | `lao đa kháng thuốc` (multidrug-resistant tuberculosis), `ho có đờm` (coughing up phlegm) |
-| `DiagnosticProcedure` | `AFB (+)`, `GeneXpert`                                                                    |
+| `DiagnosticProcedure` | `GeneXpert`                                                                    |
 | `Location`            | `phía Bắc Việt Nam` (North Vietnam), `Khu vực Đông Nam Á` (Southeast Asia)                |
 | `DateTime`            | `mùa hè` (summer), `từ 1990-1992` (from 1990-1992) |
 | `Organisation`        | `Bộ Y tế` (Ministry of Health), `Khoa Phổi Thận` (Lung and Kidney Department)             |
